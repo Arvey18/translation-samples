@@ -1,0 +1,3 @@
+Pattern 0C smoke test marker
+branch: ai-translations/20260727-215347-new-keys-container
+timestamp: 2026-07-27T21:53:48.307904
