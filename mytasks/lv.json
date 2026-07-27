@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "No",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Uz",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Atiestatīt",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Meklēt",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Atrast uzdevumu",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Avots",
+    "MT_ICON_IN_THE_HEADER": "ikonu galvenē, lai to mainītu.",
+    "MT_NO_RESULT_MESSAGE": "Ar pašreizējo filtru vai meklēšanas terminu nav pieejamu uzdevumu.",
+    "MT_NO_TASK_AVAILABLE": "Ar jūsu pašreizējiem iestatījumiem nav pieejams neviens uzdevums.",
+    "MT_OVERDUE_LABEL": "Nokavēts",
+    "MT_PLEASE_CLICK": "Lūdzu, noklikšķiniet",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Lūdzu, mēģiniet vēlreiz vēlāk.",
+    "MT_PRIORITY_LABEL": "Prioritāte",
+    "MT_SEE_OTHER_TASKS": "Skatīt citus uzdevumus",
+    "MT_SOMETHING_WENT_WRONG": "Kaut kas nogāja greizi!",
+    "MT_SOURCE": "Avots",
+    "MT_TASK_CARD_DUE_LABEL": "Jāmaksā:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Šobrīd nevaram ielādēt jūsu uzdevumus.",
+    "MT_UPCOMING_LABEL": "Gaidāmie",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Nav datu, ko parādīt."
+}

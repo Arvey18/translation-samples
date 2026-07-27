@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Toegang",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Informatie niet beschikbaar.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Sorry, widgetdiensten zijn tijdelijk niet beschikbaar. Probeer het later opnieuw.",
+    "SBSL_ERROR_TITLE": "Fout",
+    "SBSL_ERROR_USER_NOTFOUND": "Gebruiker niet gevonden, niet geautoriseerd. Controleer de gebruiker.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Widgetgegevens zijn momenteel niet beschikbaar.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Open apps-overzicht",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services is momenteel niet beschikbaar. Klik op de knop om toegang te krijgen tot de app-lijst.",
+    "SBSL_GOTO_SMART_GRID": "Ga naar Apps",
+    "SBSL_LOGIN_BUTTON": "Meld u aan bij Microsoft 365",
+    "SBSL_LOGIN_DESC": "om toegang te krijgen tot uw cloudgegevens",
+    "SBSL_LOGIN_LABEL": "Meld u aan met uw Microsoft 365-account",
+    "SBSL_LOGIN_TITLE": "Microsoft365"
+}

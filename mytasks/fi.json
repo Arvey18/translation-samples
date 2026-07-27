@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Alkaen",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Kohti",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Nollaa",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Haku",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Etsi tehtävä",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Lähde",
+    "MT_ICON_IN_THE_HEADER": "kuvaketta otsikossa muuttaaksesi sitä.",
+    "MT_NO_RESULT_MESSAGE": "Nykyisellä suodattimella tai hakusanalla ei ole saatavilla tehtäviä.",
+    "MT_NO_TASK_AVAILABLE": "Nykyisillä asetuksillasi ei ole käytettävissä tehtäviä.",
+    "MT_OVERDUE_LABEL": "Myöhässä",
+    "MT_PLEASE_CLICK": "Klikkaa",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Yritä myöhemmin uudelleen.",
+    "MT_PRIORITY_LABEL": "Prioriteetti",
+    "MT_SEE_OTHER_TASKS": "Katso muita tehtäviä",
+    "MT_SOMETHING_WENT_WRONG": "Jokin meni pieleen!",
+    "MT_SOURCE": "Lähde",
+    "MT_TASK_CARD_DUE_LABEL": "Erääntymispäivä:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Emme voi ladata tehtäviäsi tällä hetkellä.",
+    "MT_UPCOMING_LABEL": "Tuleva",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Näytettäviä tietoja ei ole."
+}

@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Könyvjelző a Saját Alkalmazásaimhoz",
+    "SL_HEADLINE_GLOBAL_APPS": "Globális Alkalmazások",
+    "SL_HEADLINE_MY_APPS": "Saját Alkalmazásaim",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Kérlek használd a keresőt vagy kattints az alábbi gombokra, hogy megtaláld azokat az alkalmazásokat, amiket a csillag ikonjukra kattintva könyvjelzőzhetsz",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Még nem kaptál hozzárendelt alkalmazásokat, és nem mentettél könyvjelzőket sem.",
+    "SL_NO_MATCHING_TITLE": "Nincsenek megfelelő eredmények",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Könyvjelző eltávolítása a Saját Alkalmazásaimból",
+    "SL_SORTING_MODAL_DESCRIPTION": "Nullára szeretné állítani az összes könyvjelzővel ellátott alkalmazás használatát?",
+    "SL_SORTING_MODAL_NO_LABEL": "Nem",
+    "SL_SORTING_MODAL_TITLE": "Használat alaphelyzetbe állítása",
+    "SL_SORTING_MODAL_YES_LABEL": "Igen",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Betűrendes",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Rendezés:",
+    "SL_SORTING_SETTING_RESET": "Használat alaphelyzetbe állítása",
+    "SL_SORTING_SETTING_USAGE": "Használat"
+}

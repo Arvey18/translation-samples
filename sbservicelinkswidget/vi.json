@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Truy cập",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Thông tin không có sẵn.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Rất tiếc, dịch vụ Widget tạm thời không khả dụng. Vui lòng thử lại sau.",
+    "SBSL_ERROR_TITLE": "Lỗi",
+    "SBSL_ERROR_USER_NOTFOUND": "Không tìm thấy người dùng, trái phép. Vui lòng kiểm tra người dùng.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Dữ liệu widget hiện không có sẵn.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Mở tổng quan ứng dụng",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services hiện không khả dụng. Nhấp vào nút để truy cập danh sách ứng dụng.",
+    "SBSL_GOTO_SMART_GRID": "Đi tới Ứng dụng",
+    "SBSL_LOGIN_BUTTON": "Đăng nhập vào Microsoft 365",
+    "SBSL_LOGIN_DESC": "để truy cập dữ liệu đám mây của bạn",
+    "SBSL_LOGIN_LABEL": "Đăng nhập bằng tài khoản Microsoft 365 của bạn",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

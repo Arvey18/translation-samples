@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "ข้อมูลไม่พร้อมใช้งาน",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "ขออภัย ข้อมูลความคืบหน้าใช้ได้กับเพื่อนร่วมงานของ DHL Express เท่านั้น คุณยังสามารถดูกิจกรรมของคุณได้ในอาสาสมัครที่ไซต์ Express",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "บางอย่างผิดพลาด!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "กรุณาติดต่ออาสาสมัครที่ผู้ดูแลระบบ DHL.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "สีบรอนซ์",
+    "VHT_GROUP_WIDGET_COUNTRY": "ประเทศ",
+    "VHT_GROUP_WIDGET_GLOBAL": "ทั่วโลก",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "ทอง",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "ชั่วโมงที่ใช้ใน {{total}} กิจกรรมอาสา",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "ไม่มีข้อมูลที่จะแสดง",
+    "VHT_GROUP_WIDGET_REGIONAL": "ภูมิภาค",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "เงิน",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "ด้านบน {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "อาสาสมัครตอนนี้!"
+}

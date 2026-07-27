@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Nga",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Për",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Rivendos",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Kërko",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Gjej një Detyrë",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Burimi",
+    "MT_ICON_IN_THE_HEADER": "ikonën në kokë për ta ndryshuar atë.",
+    "MT_NO_RESULT_MESSAGE": "Nuk ka detyra të disponueshme me filtrin ose termin tuaj aktual të kërkimit.",
+    "MT_NO_TASK_AVAILABLE": "Nuk ka detyra të disponueshme me cilësimet tuaja aktuale.",
+    "MT_OVERDUE_LABEL": "Vonuar",
+    "MT_PLEASE_CLICK": "Ju lutem klikoni",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Ju lutem provoni përsëri më vonë.",
+    "MT_PRIORITY_LABEL": "Prioritet",
+    "MT_SEE_OTHER_TASKS": "Shiko Detyrat e tjera",
+    "MT_SOMETHING_WENT_WRONG": "Diçka shkoi keq!",
+    "MT_SOURCE": "Burimi",
+    "MT_TASK_CARD_DUE_LABEL": "Për t'u paguar:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Nuk mund t'i ngarkojmë detyrat tuaja për momentin.",
+    "MT_UPCOMING_LABEL": "Së shpejti",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Nuk ka të dhëna për t'u shfaqur."
+}

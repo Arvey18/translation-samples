@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "-დან",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "მდე",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "გადატვირთვა",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "ძიება",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "დავალების პოვნა",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "წყარო",
+    "MT_ICON_IN_THE_HEADER": "მის შესაცვლელად დააჭირეთ სათაურში არსებულ ხატულას.",
+    "MT_NO_RESULT_MESSAGE": "თქვენი მიმდინარე ფილტრით ან საძიებო ტერმინით ხელმისაწვდომი დავალებები არ არის.",
+    "MT_NO_TASK_AVAILABLE": "თქვენი მიმდინარე პარამეტრებით დავალებები ხელმისაწვდომი არ არის.",
+    "MT_OVERDUE_LABEL": "ვადაგადაცილებული",
+    "MT_PLEASE_CLICK": "გთხოვთ, დააწკაპუნოთ",
+    "MT_PLEASE_TRY_AGAIN_LATER": "გთხოვთ, სცადოთ მოგვიანებით.",
+    "MT_PRIORITY_LABEL": "პრიორიტეტი",
+    "MT_SEE_OTHER_TASKS": "სხვა დავალებების ნახვა",
+    "MT_SOMETHING_WENT_WRONG": "რაღაც არასწორად წავიდა!",
+    "MT_SOURCE": "წყარო",
+    "MT_TASK_CARD_DUE_LABEL": "გადასახდელია:",
+    "MT_UNABLE_TO_LOAD_TASKS": "ამჟამად თქვენი დავალებების ჩატვირთვა შეუძლებელია.",
+    "MT_UPCOMING_LABEL": "მომავალი",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "საჩვენებელი მონაცემები არ არის."
+}

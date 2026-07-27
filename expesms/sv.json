@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Max rabatterad vikt\/försändelse",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Max antal försändelser\/kvartal",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Max antal försändelser\/år",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Max antal försändelser\/månad",
+    "ESMS_MAX_SHIPMENT": "Max rabatt",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Max totalvikt för leverans\/år",
+    "ESMS_NO_LIMIT": "Ingen gräns",
+    "ESMS_REMAINING": "av {{total}} kg använt",
+    "ESMS_SOMETHING_WENT_WRONG": "Något gick fel!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Kontakta ESMS-administratören.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Tyvärr har du inte tillgång till dessa tjänster",
+    "ESMS_UNAUTHORIZED_TITLE": "Ingen åtkomst",
+    "ESMS_USED": "Begagnade"
+}

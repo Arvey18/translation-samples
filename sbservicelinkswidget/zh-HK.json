@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "使用權",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "資訊不可用。",
+    "SBSL_ERROR_INTERNAL_SERVER": "抱歉，Widget 服務暫時無法使用。請稍後再試。",
+    "SBSL_ERROR_TITLE": "錯誤",
+    "SBSL_ERROR_USER_NOTFOUND": "未找到用戶，未授權。請檢查用戶。",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "小部件資料目前無法使用。",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "打開應用程序概覽",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services 目前不可用。請按一下按鈕以訪問應用程式列表。",
+    "SBSL_GOTO_SMART_GRID": "前往應用程式",
+    "SBSL_LOGIN_BUTTON": "登入 Microsoft 365",
+    "SBSL_LOGIN_DESC": "存取您的雲端數據",
+    "SBSL_LOGIN_LABEL": "使用您的 Microsoft 365 帳戶登入",
+    "SBSL_LOGIN_TITLE": "微軟365"
+}

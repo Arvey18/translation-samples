@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Greutate maximă redusă\/Livrare",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Număr maxim de expedieri\/trimestru",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Număr maxim de expedieri\/an",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Număr maxim de expedieri\/lună",
+    "ESMS_MAX_SHIPMENT": "Reducere maximă",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Greutatea totală maximă a expedierii\/an",
+    "ESMS_NO_LIMIT": "Fara limita",
+    "ESMS_REMAINING": "de {{total}} kg utilizate",
+    "ESMS_SOMETHING_WENT_WRONG": "Ceva n-a mers bine!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Vă rugăm să contactați administratorul ESMS.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Ne pare rău că nu aveți acces la aceste servicii",
+    "ESMS_UNAUTHORIZED_TITLE": "Fără acces",
+    "ESMS_USED": "folosit"
+}

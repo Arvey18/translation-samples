@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "Informasi tidak tersedia",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "Maaf, informasi perkembangan hanya berlaku untuk rekan-rekan DHL Express. Anda masih dapat melihat aktivitas Anda di situs Relawan di Express.",
+    "VHT_SOMETHING_WENT_WRONG": "Ada yang salah!",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "Silakan hubungi Relawan di administrator DHL.",
+    "VHT_WIDGET_BRONZE_MEDAL": "Perunggu",
+    "VHT_WIDGET_COUNTRY": "Negara",
+    "VHT_WIDGET_GLOBAL": "Global",
+    "VHT_WIDGET_GOLD_MEDAL": "Emas",
+    "VHT_WIDGET_HOURS_SPENT": "jam yang dihabiskan dalam {{total}} aktivitas sukarela",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "Tidak ada data yang akan ditampilkan",
+    "VHT_WIDGET_REGIONAL": "Daerah",
+    "VHT_WIDGET_SILVER_MEDAL": "Perak",
+    "VHT_WIDGET_TOP_PERCENT": "{{precent}} % teratas",
+    "VHT_WIDGET_VOLUNTEER_NOW": "Menjadi sukarelawan sekarang!"
+}

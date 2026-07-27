@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Tól",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Címzett",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Visszaállítás",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Keresés",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Feladat keresése",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Forrás",
+    "MT_ICON_IN_THE_HEADER": "ikonra a fejlécben a módosításhoz.",
+    "MT_NO_RESULT_MESSAGE": "Nincsenek elérhető feladatok a jelenlegi szűrővel vagy keresési kifejezéssel.",
+    "MT_NO_TASK_AVAILABLE": "A jelenlegi beállításokkal nincsenek elérhető feladatok.",
+    "MT_OVERDUE_LABEL": "Lejárt",
+    "MT_PLEASE_CLICK": "Kérjük, kattintson",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Kérjük, próbálja meg később.",
+    "MT_PRIORITY_LABEL": "Prioritás",
+    "MT_SEE_OTHER_TASKS": "További feladatok megtekintése",
+    "MT_SOMETHING_WENT_WRONG": "Valami rosszul sült el!",
+    "MT_SOURCE": "Forrás",
+    "MT_TASK_CARD_DUE_LABEL": "Esedékes:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Jelenleg nem tudjuk betölteni a feladatait.",
+    "MT_UPCOMING_LABEL": "Közelgő",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Nincsenek megjelenítendő adatok."
+}

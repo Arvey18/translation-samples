@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Adres",
+    "DIGITAL_CARD_EMAIL": "E-posta",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Erişim",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Bilgi mevcut değil.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Üzgünüz, Widget hizmetleri geçici olarak kullanılamıyor. Lütfen daha sonra tekrar deneyiniz.",
+    "DIGITAL_CARD_ERROR_TITLE": "Hata",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Kullanıcı bulunamadı, Yetkisiz. Lütfen kullanıcıyı kontrol edin.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Widget verileri şu anda kullanılamıyor.",
+    "DIGITAL_CARD_JOB_TITLE": "İş Unvanı",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Microsoft 365'te oturum açın",
+    "DIGITAL_CARD_LOGIN_DESC": "bulut verilerinize erişmek için",
+    "DIGITAL_CARD_LOGIN_LABEL": "Microsoft 365 hesabınızla oturum açın",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobil",
+    "DIGITAL_CARD_QR_ERROR": "QR Kodu yüklenemiyor, lütfen tekrar dene",
+    "DIGITAL_CARD_SHOW_QR_CODE": "QR Kodunu Göster",
+    "DIGITAL_CARD_WIDGET_ERROR": "Widget yüklenemiyor, lütfen daha sonra tekrar dene"
+}

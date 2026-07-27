@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Lisa järjehoidjasse Minu Rakendused",
+    "SL_HEADLINE_GLOBAL_APPS": "Globaalsed Rakendused",
+    "SL_HEADLINE_MY_APPS": "Minu Rakendused",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Palun kasuta otsingut või kliki allolevaid nuppe, et leida rakendusi, mida saad järjehoidjatesse lisada, klikkides nende tärniikoonile",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Sulle ei ole veel määratud ühtegi rakendust ega salvestatud järjehoidjaid.",
+    "SL_NO_MATCHING_TITLE": "Vastavaid tulemusi pole",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Eemalda järjehoidja Minu Rakendustest",
+    "SL_SORTING_MODAL_DESCRIPTION": "Kas soovite nullida kõigi järjehoidjatesse lisatud rakenduste kasutuse?",
+    "SL_SORTING_MODAL_NO_LABEL": "Ei",
+    "SL_SORTING_MODAL_TITLE": "Lähtesta kasutus",
+    "SL_SORTING_MODAL_YES_LABEL": "Jah",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Tähestikuline",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Sorteerima:",
+    "SL_SORTING_SETTING_RESET": "Lähtesta kasutus",
+    "SL_SORTING_SETTING_USAGE": "Kasutamine"
+}

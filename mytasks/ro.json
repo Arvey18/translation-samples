@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Din",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "La",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Resetare",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Căutare",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Găsește o sarcină",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Sursă",
+    "MT_ICON_IN_THE_HEADER": "pictograma din antet pentru a o modifica.",
+    "MT_NO_RESULT_MESSAGE": "Nu există nicio sarcină disponibilă cu filtrul sau termenul de căutare curent.",
+    "MT_NO_TASK_AVAILABLE": "Nu există nicio sarcină disponibilă cu setările actuale.",
+    "MT_OVERDUE_LABEL": "Restanțat",
+    "MT_PLEASE_CLICK": "Vă rugăm să faceți clic",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Vă rugăm să încercați din nou mai târziu.",
+    "MT_PRIORITY_LABEL": "Prioritate",
+    "MT_SEE_OTHER_TASKS": "Vedeți alte sarcini",
+    "MT_SOMETHING_WENT_WRONG": "Ceva a mers prost!",
+    "MT_SOURCE": "Sursă",
+    "MT_TASK_CARD_DUE_LABEL": "Scadent:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Nu putem încărca sarcinile dvs. în acest moment.",
+    "MT_UPCOMING_LABEL": "Viitoare",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Nu există date de afișat."
+}

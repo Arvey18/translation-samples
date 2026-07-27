@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "입장",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "정보가 없습니다.",
+    "SBSL_ERROR_INTERNAL_SERVER": "죄송합니다. 위젯 서비스를 일시적으로 사용할 수 없습니다. 나중에 다시 시도 해주십시오.",
+    "SBSL_ERROR_TITLE": "오류",
+    "SBSL_ERROR_USER_NOTFOUND": "사용자를 찾을 수 없습니다. 승인되지 않았습니다. 사용자를 확인하시기 바랍니다.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "현재 위젯 데이터를 사용할 수 없습니다.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "앱 개요 열기",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services는 현재 사용할 수 없습니다. 앱 목록에 액세스하려면 버튼을 클릭하세요.",
+    "SBSL_GOTO_SMART_GRID": "앱으로 이동",
+    "SBSL_LOGIN_BUTTON": "Microsoft 365에 로그인",
+    "SBSL_LOGIN_DESC": "클라우드 데이터에 액세스하려면",
+    "SBSL_LOGIN_LABEL": "Microsoft 365 계정으로 로그인",
+    "SBSL_LOGIN_TITLE": "마이크로소프트 365"
+}

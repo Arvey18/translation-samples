@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Från",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Till",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Återställa",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Söka",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Hitta en uppgift",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Källa",
+    "MT_ICON_IN_THE_HEADER": "ikonen i sidhuvudet för att ändra den.",
+    "MT_NO_RESULT_MESSAGE": "Det finns inga tillgängliga uppgifter med ditt nuvarande filter eller sökterm.",
+    "MT_NO_TASK_AVAILABLE": "Det finns inga tillgängliga uppgifter med dina nuvarande inställningar.",
+    "MT_OVERDUE_LABEL": "Försenad",
+    "MT_PLEASE_CLICK": "Klicka",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Försök igen senare.",
+    "MT_PRIORITY_LABEL": "Prioritet",
+    "MT_SEE_OTHER_TASKS": "Se andra uppgifter",
+    "MT_SOMETHING_WENT_WRONG": "Något gick fel!",
+    "MT_SOURCE": "Källa",
+    "MT_TASK_CARD_DUE_LABEL": "Förfaller:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Vi kan inte ladda dina uppgifter just nu.",
+    "MT_UPCOMING_LABEL": "Kommande",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Det finns ingen data att visa."
+}

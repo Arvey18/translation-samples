@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Jeraam ilo Kajoor Ro An",
+    "SL_HEADLINE_GLOBAL_APPS": "Kwōjarin Apps",
+    "SL_HEADLINE_MY_APPS": "Apps eo an",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Jouj im jijet bwe kwōnaaj kōjerbal eo an kōkatak ak click jikin in button ko rejān kōjerbali app ko im kōjerbali ilo an star icon",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Kwoj aikuj ke eban app ko im ejjelok bookmark ko.",
+    "SL_NO_MATCHING_TITLE": "No matching results",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Jeraam ilo Kajoor Ro An",
+    "SL_SORTING_MODAL_DESCRIPTION": "Do you want to reset usage for all bookmarked apps to zero?",
+    "SL_SORTING_MODAL_NO_LABEL": "No",
+    "SL_SORTING_MODAL_TITLE": "Reset Usage",
+    "SL_SORTING_MODAL_YES_LABEL": "Yes",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alphabetical",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Sort by:",
+    "SL_SORTING_SETTING_RESET": "Reset Usage",
+    "SL_SORTING_SETTING_USAGE": "Usage"
+}

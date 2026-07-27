@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "Oplysninger er ikke tilgængelige",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "Beklager, statusoplysninger gælder kun for DHL Express-kolleger. Du kan stadig se dine aktiviteter på webstedet Volunteers at Express.",
+    "VHT_SOMETHING_WENT_WRONG": "Noget gik galt!",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "Kontakt venligst frivillige hos DHL-administratoren.",
+    "VHT_WIDGET_BRONZE_MEDAL": "Bronze",
+    "VHT_WIDGET_COUNTRY": "Land",
+    "VHT_WIDGET_GLOBAL": "Global",
+    "VHT_WIDGET_GOLD_MEDAL": "Guld",
+    "VHT_WIDGET_HOURS_SPENT": "timer brugt i {{total}} frivillige aktiviteter",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "Der er ingen data, der skal vises",
+    "VHT_WIDGET_REGIONAL": "Regional",
+    "VHT_WIDGET_SILVER_MEDAL": "Sølv",
+    "VHT_WIDGET_TOP_PERCENT": "Top {{precent}} %",
+    "VHT_WIDGET_VOLUNTEER_NOW": "Bliv frivillig nu!"
+}

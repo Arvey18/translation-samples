@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "Informacija nepasiekiama",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "Atsiprašome, pažangos informacija taikoma tik DHL Express kolegoms. Vis dar galite peržiūrėti savo veiklą „Volunteers at Express“ svetainėje.",
+    "VHT_SOMETHING_WENT_WRONG": "Kažkas ne taip!",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "Prašome susisiekti su savanoriais DHL administratoriumi.",
+    "VHT_WIDGET_BRONZE_MEDAL": "Bronza",
+    "VHT_WIDGET_COUNTRY": "Šalis",
+    "VHT_WIDGET_GLOBAL": "Pasaulinis",
+    "VHT_WIDGET_GOLD_MEDAL": "Auksas",
+    "VHT_WIDGET_HOURS_SPENT": "valandų, praleistų {{total}} savanoriškoje veikloje",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "Duomenų, kuriuos būtų galima rodyti, nėra",
+    "VHT_WIDGET_REGIONAL": "Regioninis",
+    "VHT_WIDGET_SILVER_MEDAL": "sidabras",
+    "VHT_WIDGET_TOP_PERCENT": "Populiariausi {{precent}} %",
+    "VHT_WIDGET_VOLUNTEER_NOW": "Savanoriuok dabar!"
+}

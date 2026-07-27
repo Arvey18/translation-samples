@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Fra",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Til",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Tilbakestill",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Søk",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Finn en oppgave",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Kilde",
+    "MT_ICON_IN_THE_HEADER": "ikonet i overskriften for å endre det.",
+    "MT_NO_RESULT_MESSAGE": "Det finnes ingen tilgjengelige oppgaver med ditt nåværende filter eller søkeord.",
+    "MT_NO_TASK_AVAILABLE": "Det finnes ingen tilgjengelige oppgaver med dine nåværende innstillinger.",
+    "MT_OVERDUE_LABEL": "Forsinket",
+    "MT_PLEASE_CLICK": "Vennligst klikk",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Prøv igjen senere.",
+    "MT_PRIORITY_LABEL": "Prioritet",
+    "MT_SEE_OTHER_TASKS": "Se andre oppgaver",
+    "MT_SOMETHING_WENT_WRONG": "Noe gikk galt!",
+    "MT_SOURCE": "Kilde",
+    "MT_TASK_CARD_DUE_LABEL": "Forfaller:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Vi kan ikke laste inn oppgavene dine for øyeblikket.",
+    "MT_UPCOMING_LABEL": "Kommende",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Det er ingen data som skal vises."
+}

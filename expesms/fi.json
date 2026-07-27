@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Suurin alennettu paino\/lähetys",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Lähetysten enimmäismäärä\/neljännes",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Lähetysten enimmäismäärä\/vuosi",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Lähetysten enimmäismäärä\/kk",
+    "ESMS_MAX_SHIPMENT": "Max alennus",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Lähetyksen maksimi kokonaispaino\/vuosi",
+    "ESMS_NO_LIMIT": "Ei rajoitusta",
+    "ESMS_REMAINING": "käytetty {{total}} kg",
+    "ESMS_SOMETHING_WENT_WRONG": "Jotain meni pieleen!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Ota yhteyttä ESMS-järjestelmänvalvojaan.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Valitettavasti sinulla ei ole pääsyä näihin palveluihin",
+    "ESMS_UNAUTHORIZED_TITLE": "Ei pääsyä",
+    "ESMS_USED": "käytetty"
+}

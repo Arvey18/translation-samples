@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "從",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "到",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "重置",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "搜尋",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "查找任務",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "來源",
+    "MT_ICON_IN_THE_HEADER": "圖標來更改它。",
+    "MT_NO_RESULT_MESSAGE": "沒有符合您目前過濾器或搜尋字詞的任務。",
+    "MT_NO_TASK_AVAILABLE": "您的目前設定下沒有可用的任務。",
+    "MT_OVERDUE_LABEL": "逾期",
+    "MT_PLEASE_CLICK": "請點選",
+    "MT_PLEASE_TRY_AGAIN_LATER": "請稍後重試。",
+    "MT_PRIORITY_LABEL": "優先事項",
+    "MT_SEE_OTHER_TASKS": "看其他任務",
+    "MT_SOMETHING_WENT_WRONG": "出問題了！",
+    "MT_SOURCE": "來源",
+    "MT_TASK_CARD_DUE_LABEL": "到期的：",
+    "MT_UNABLE_TO_LOAD_TASKS": "我們目前無法載入您的任務。",
+    "MT_UPCOMING_LABEL": "即將推出",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "沒有可顯示的數據。"
+}

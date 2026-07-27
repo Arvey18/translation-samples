@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} კგ",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "მაქსიმალური ფასდაკლებული წონა\/გადაზიდვა",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "გადაზიდვების მაქსიმალური რაოდენობა\/კვარტალი",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "გადაზიდვების მაქსიმალური რაოდენობა\/წელი",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "გადაზიდვების მაქსიმალური რაოდენობა\/თვეში",
+    "ESMS_MAX_SHIPMENT": "მაქსიმალური ფასდაკლება",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "ტვირთის მაქსიმალური წონა\/წელი",
+    "ESMS_NO_LIMIT": "არანაირი ლიმიტი",
+    "ESMS_REMAINING": "გამოყენებული {{total}} კგ-დან",
+    "ESMS_SOMETHING_WENT_WRONG": "Რაღაც არასწორად წავიდა!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "გთხოვთ, დაუკავშირდეთ ESMS ადმინისტრატორს.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "უკაცრავად, თქვენ არ გაქვთ წვდომა ამ სერვისებზე",
+    "ESMS_UNAUTHORIZED_TITLE": "წვდომა არ არის",
+    "ESMS_USED": "გამოყენებული"
+}

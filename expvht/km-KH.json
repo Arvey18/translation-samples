@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "ព័ត៌មានមិនអាចប្រើបានទេ។",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "សូមអភ័យទោស ព័ត៌មានអំពីវឌ្ឍនភាពគឺអាចអនុវត្តបានសម្រាប់តែសហការី DHL Express ប៉ុណ្ណោះ។ អ្នកនៅតែអាចមើលសកម្មភាពរបស់អ្នកនៅក្នុងអ្នកស្ម័គ្រចិត្តនៅលើគេហទំព័រ Express។",
+    "VHT_SOMETHING_WENT_WRONG": "មាន​អ្វីមួយ​មិន​ប្រក្រតី!",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "សូមទំនាក់ទំនងអ្នកស្ម័គ្រចិត្តនៅជាមួយអ្នកគ្រប់គ្រង DHL។",
+    "VHT_WIDGET_BRONZE_MEDAL": "សំរិទ្ធ",
+    "VHT_WIDGET_COUNTRY": "ប្រទេស",
+    "VHT_WIDGET_GLOBAL": "សកល",
+    "VHT_WIDGET_GOLD_MEDAL": "មាស",
+    "VHT_WIDGET_HOURS_SPENT": "ម៉ោងដែលបានចំណាយក្នុងសកម្មភាពស្ម័គ្រចិត្ត {{total}}",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "មិនមានទិន្នន័យដែលត្រូវបង្ហាញទេ។",
+    "VHT_WIDGET_REGIONAL": "តំបន់",
+    "VHT_WIDGET_SILVER_MEDAL": "ប្រាក់",
+    "VHT_WIDGET_TOP_PERCENT": "កំពូល {{precent}} %",
+    "VHT_WIDGET_VOLUNTEER_NOW": "ស្ម័គ្រចិត្តឥឡូវនេះ!"
+}

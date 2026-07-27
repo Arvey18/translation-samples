@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Tillgång",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Information inte tillgänglig.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Widgettjänster är tyvärr inte tillgängliga för tillfället. Vänligen försök igen senare.",
+    "SBSL_ERROR_TITLE": "Fel",
+    "SBSL_ERROR_USER_NOTFOUND": "Användaren hittades inte, obehörig. Kontrollera användaren.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Widgetdata är inte tillgänglig för närvarande.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Öppna översikt över appar",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services är för närvarande otillgänglig. Klicka på knappen för att komma åt applistan.",
+    "SBSL_GOTO_SMART_GRID": "Gå till Apps",
+    "SBSL_LOGIN_BUTTON": "Logga in på Microsoft 365",
+    "SBSL_LOGIN_DESC": "för att komma åt din molndata",
+    "SBSL_LOGIN_LABEL": "Logga in med ditt Microsoft 365-konto",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

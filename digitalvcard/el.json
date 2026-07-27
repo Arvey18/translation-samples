@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Διεύθυνση",
+    "DIGITAL_CARD_EMAIL": "Ηλεκτρονικό ταχυδρομείο",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Πρόσβαση",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Μη διαθέσιμες πληροφορίες.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Λυπούμαστε, οι υπηρεσίες Widget δεν είναι προσωρινά διαθέσιμες. Παρακαλώ δοκιμάστε ξανά αργότερα.",
+    "DIGITAL_CARD_ERROR_TITLE": "Λάθος",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Ο χρήστης δεν βρέθηκε, Μη εξουσιοδοτημένος. Ελέγξτε τον χρήστη.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Τα δεδομένα widget δεν είναι διαθέσιμα αυτήν τη στιγμή.",
+    "DIGITAL_CARD_JOB_TITLE": "Τίτλος θέσης",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Συνδεθείτε στο Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "για πρόσβαση στα δεδομένα σας στο cloud",
+    "DIGITAL_CARD_LOGIN_LABEL": "Συνδεθείτε με τον λογαριασμό σας στο Microsoft 365",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Κινητό",
+    "DIGITAL_CARD_QR_ERROR": "Δεν μπορεί να φορτωθεί ο QR κωδικός, δοκίμασε ξανά παρακαλώ",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Εμφάνιση QR Code",
+    "DIGITAL_CARD_WIDGET_ERROR": "Δεν μπορεί να φορτωθεί το widget, δοκίμασε ξανά αργότερα παρακαλώ"
+}

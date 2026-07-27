@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Информация недоступна",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "К сожалению, информация о ходе работы доступна только для коллег из DHL Express. Вы по-прежнему можете просматривать свою деятельность на сайте «Волонтеры в Экспрессе».",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Что-то пошло не так!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Пожалуйста, свяжитесь с Волонтерами у администратора DHL.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "Бронза",
+    "VHT_GROUP_WIDGET_COUNTRY": "Страна",
+    "VHT_GROUP_WIDGET_GLOBAL": "Глобальный",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Золото",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "часов, потраченных на {{total}} волонтерскую деятельность",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Нет данных для отображения",
+    "VHT_GROUP_WIDGET_REGIONAL": "Региональный",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Серебро",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Топ {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Станьте волонтером прямо сейчас!"
+}

@@ -1,0 +1,17 @@
+name: Deploy Release Azure Storage
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  call-deploy-release-azure-storage:
+    uses: SmartConnectSolutions/.github/.github/workflows/deploy_release_azure_storage.yml@main
+    with:
+      branch: 'master'
+      azure_account_name: 'stsg4awebppldnsazr'
+      azure_storage_container_name: 'prod-translations'
+      environment_name: 'prod'
+      # reporting_mode: 'IFRAME'   # uncomment to enable index.html comment stripping
+      # module_mode: "YARN"        # uncomment to use Yarn instead of npm
+    secrets: inherit

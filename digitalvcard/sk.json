@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Adresa",
+    "DIGITAL_CARD_EMAIL": "E-mail",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Prístup",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Informácie sú nedostupné.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Ľutujeme, služby miniaplikácií sú dočasne nedostupné. Skúste neskôr prosím.",
+    "DIGITAL_CARD_ERROR_TITLE": "Chyba",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Používateľ sa nenašiel, neautorizovaný. Skontrolujte používateľa.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Údaje miniaplikácie momentálne nie sú k dispozícii.",
+    "DIGITAL_CARD_JOB_TITLE": "Pracovná pozícia",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Prihláste sa do Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "pre prístup k vašim cloudovým údajom",
+    "DIGITAL_CARD_LOGIN_LABEL": "Prihláste sa pomocou svojho konta Microsoft 365",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobil",
+    "DIGITAL_CARD_QR_ERROR": "Nepodarilo sa načítať QR kód, skús to prosím znova",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Zobraziť QR kód",
+    "DIGITAL_CARD_WIDGET_ERROR": "Nepodarilo sa načítať widget, skús to prosím neskôr"
+}

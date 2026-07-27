@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Acces",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Informații indisponibile.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Ne pare rău, serviciile widget sunt temporar indisponibile. Vă rugăm să încercați din nou mai târziu.",
+    "SBSL_ERROR_TITLE": "Eroare",
+    "SBSL_ERROR_USER_NOTFOUND": "Utilizatorul nu a fost găsit, neautorizat. Vă rugăm să verificați utilizatorul.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Datele widget nu sunt disponibile momentan.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Deschideți o prezentare generală a aplicațiilor",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services nu este disponibil în prezent. Apasă pe buton pentru a accesa lista de aplicații.",
+    "SBSL_GOTO_SMART_GRID": "Accesați Apps",
+    "SBSL_LOGIN_BUTTON": "Conectați-vă la Microsoft 365",
+    "SBSL_LOGIN_DESC": "pentru a vă accesa datele din cloud",
+    "SBSL_LOGIN_LABEL": "Conectați-vă cu contul Microsoft 365",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

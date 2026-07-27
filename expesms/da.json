@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Max nedsat vægt\/forsendelse",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Max antal forsendelser\/kvartal",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Max antal forsendelser\/år",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Max antal forsendelser\/måned",
+    "ESMS_MAX_SHIPMENT": "Max rabat",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Max totalvægt af forsendelse\/år",
+    "ESMS_NO_LIMIT": "Ingen grænse",
+    "ESMS_REMAINING": "af {{total}} kg brugt",
+    "ESMS_SOMETHING_WENT_WRONG": "Noget gik galt!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Kontakt venligst ESMS-administratoren.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Beklager, at du ikke har adgang til disse tjenester",
+    "ESMS_UNAUTHORIZED_TITLE": "Ingen adgang",
+    "ESMS_USED": "Brugt"
+}

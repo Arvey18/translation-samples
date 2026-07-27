@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} كجم",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "الحد الأقصى للخصم على الوزن\/الشحنة",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "الحد الأقصى لعدد الشحنات\/الربع",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "الحد الأقصى لعدد الشحنات\/السنة",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "الحد الأقصى لعدد الشحنات\/الشهر",
+    "ESMS_MAX_SHIPMENT": "الحد الأقصى للخصم",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "الحد الأقصى للوزن الإجمالي للشحنة\/السنة",
+    "ESMS_NO_LIMIT": "لا حدود",
+    "ESMS_REMAINING": "{{total}} من الكيلوغرام المستخدمة",
+    "ESMS_SOMETHING_WENT_WRONG": "هناك خطأ ما",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "يرجى الاتصال بمسؤول إدارة ESMS",
+    "ESMS_UNAUTHORIZED_MESSAGE": "عذراً، ليس لديك صلاحية إلى هذه الخدمات",
+    "ESMS_UNAUTHORIZED_TITLE": "لا توجد صلاحية",
+    "ESMS_USED": "مستخدم"
+}

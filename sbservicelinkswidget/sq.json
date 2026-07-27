@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Qasja",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Informacioni i padisponueshëm.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Na vjen keq, shërbimet e miniaplikacioneve janë përkohësisht të padisponueshme. Ju lutemi provoni përsëri më vonë.",
+    "SBSL_ERROR_TITLE": "Gabim",
+    "SBSL_ERROR_USER_NOTFOUND": "Përdoruesi nuk u gjet, i paautorizuar. Ju lutemi kontrolloni përdoruesin.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Të dhënat e miniaplikacionit nuk ofrohen aktualisht.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Hape Pamjen e Aplikacioneve",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services nuk është i disponueshëm tani. Kliko butonin për të hyrë në listën e aplikacioneve.",
+    "SBSL_GOTO_SMART_GRID": "Shkoni te Apps",
+    "SBSL_LOGIN_BUTTON": "Hyni në Microsoft 365",
+    "SBSL_LOGIN_DESC": "për të hyrë në të dhënat tuaja cloud",
+    "SBSL_LOGIN_LABEL": "Hyni me llogarinë tuaj Microsoft 365",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

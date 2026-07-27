@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Pievienot grāmatzīmēm Manos Lietotnēs",
+    "SL_HEADLINE_GLOBAL_APPS": "Globālās Lietotnes",
+    "SL_HEADLINE_MY_APPS": "Manas Lietotnes",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Lūdzu, izmanto meklēšanu vai noklikšķini uz pogām zemāk, lai atrastu lietotnes, kuras vari pievienot grāmatzīmēm, noklikšķinot uz to zvaigznītes ikonas",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Tev vēl nav piešķirtas lietotnes vai saglabātas grāmatzīmes.",
+    "SL_NO_MATCHING_TITLE": "Nav atbilstošu rezultātu",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Noņemt grāmatzīmi no Manām Lietotnēm",
+    "SL_SORTING_MODAL_DESCRIPTION": "Vai vēlaties atiestatīt lietojumu visām grāmatzīmēm pievienotajām lietotnēm uz nulli?",
+    "SL_SORTING_MODAL_NO_LABEL": "Nē",
+    "SL_SORTING_MODAL_TITLE": "Atiestatīt lietojumu",
+    "SL_SORTING_MODAL_YES_LABEL": "Jā",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alfabētiskā secībā",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Kārtot pēc:",
+    "SL_SORTING_SETTING_RESET": "Atiestatīt lietojumu",
+    "SL_SORTING_SETTING_USAGE": "Lietošana"
+}

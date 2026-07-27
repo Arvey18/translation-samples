@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "წვდომა",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "ინფორმაცია მიუწვდომელია.",
+    "SBSL_ERROR_INTERNAL_SERVER": "უკაცრავად, ვიჯეტის სერვისები დროებით მიუწვდომელია. Გთხოვთ სცადოთ მოგვიანებით.",
+    "SBSL_ERROR_TITLE": "შეცდომა",
+    "SBSL_ERROR_USER_NOTFOUND": "მომხმარებელი ვერ მოიძებნა, არაავტორიზებული. გთხოვთ შეამოწმოთ მომხმარებელი.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "ვიჯეტის მონაცემები ამჟამად მიუწვდომელია.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "გახსენით აპლიკაციების მიმოხილვა",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services ამჟამად მიუწვდომელია. დააჭირე ღილაკს აპლიკაციების სიაში შესასვლელად.",
+    "SBSL_GOTO_SMART_GRID": "გადადი აპლიკაციებზე",
+    "SBSL_LOGIN_BUTTON": "შედით Microsoft 365-ში",
+    "SBSL_LOGIN_DESC": "თქვენს ღრუბელ მონაცემებზე წვდომისთვის",
+    "SBSL_LOGIN_LABEL": "შედით თქვენი Microsoft 365 ანგარიშით",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

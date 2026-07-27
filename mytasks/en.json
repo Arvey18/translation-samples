@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "From",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "To",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Reset",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Search",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Find a Task",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Source",
+    "MT_ICON_IN_THE_HEADER": "icon in the header to change it.",
+    "MT_NO_RESULT_MESSAGE": "There are no Task Available with your current filter or search term.",
+    "MT_NO_TASK_AVAILABLE": "There are no task available with your current settings.",
+    "MT_OVERDUE_LABEL": "Overdue",
+    "MT_PLEASE_CLICK": "Please click",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Please try again later.",
+    "MT_PRIORITY_LABEL": "Priority",
+    "MT_SEE_OTHER_TASKS": "See other Tasks",
+    "MT_SOMETHING_WENT_WRONG": "Something Went Wrong!",
+    "MT_SOURCE": "Source",
+    "MT_TASK_CARD_DUE_LABEL": "Due:",
+    "MT_UNABLE_TO_LOAD_TASKS": "We are unable to load your tasks at the moment.",
+    "MT_UPCOMING_LABEL": "Upcoming",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "There is no data to be displayed."
+}

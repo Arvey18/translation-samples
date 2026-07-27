@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Aggiungi ai Preferiti nelle Mie App",
+    "SL_HEADLINE_GLOBAL_APPS": "App Globali",
+    "SL_HEADLINE_MY_APPS": "Le Mie App",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Per favore, usa la ricerca o clicca sui pulsanti qui sotto per trovare le app che puoi aggiungere ai preferiti cliccando sulla loro icona a stella",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Non ti sono state ancora assegnate applicazioni né hai salvato segnalibri.",
+    "SL_NO_MATCHING_TITLE": "Nessun risultato corrispondente",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Rimuovi dai Preferiti nelle Mie App",
+    "SL_SORTING_MODAL_DESCRIPTION": "Vuoi azzerare l'utilizzo di tutte le app aggiunte ai preferiti?",
+    "SL_SORTING_MODAL_NO_LABEL": "NO",
+    "SL_SORTING_MODAL_TITLE": "Reimposta utilizzo",
+    "SL_SORTING_MODAL_YES_LABEL": "SÌ",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alfabetico",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Ordina per:",
+    "SL_SORTING_SETTING_RESET": "Reimposta utilizzo",
+    "SL_SORTING_SETTING_USAGE": "Utilizzo"
+}

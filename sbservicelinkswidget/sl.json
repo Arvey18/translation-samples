@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Dostop",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Informacije niso na voljo.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Oprostite, storitve Widget začasno niso na voljo. Prosim poskusite kasneje.",
+    "SBSL_ERROR_TITLE": "Napaka",
+    "SBSL_ERROR_USER_NOTFOUND": "Uporabnik ni bil najden, nepooblaščen. Preverite uporabnika.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Podatki pripomočka trenutno niso na voljo.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Odpri pregled aplikacij",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services trenutno ni na voljo. Klikni gumb za dostop do seznama aplikacij.",
+    "SBSL_GOTO_SMART_GRID": "Pojdite na Apps",
+    "SBSL_LOGIN_BUTTON": "Prijavite se v Microsoft 365",
+    "SBSL_LOGIN_DESC": "za dostop do podatkov v oblaku",
+    "SBSL_LOGIN_LABEL": "Prijavite se s svojim računom Microsoft 365",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

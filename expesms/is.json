@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Hámarksþyngd\/sending með afslátt",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Hámarksfjöldi sendinga\/fjórðungi",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Hámarksfjöldi sendinga\/ár",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Hámarksfjöldi sendinga\/mánuði",
+    "ESMS_MAX_SHIPMENT": "Hámarks afsláttur",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Hámark heildarþyngd sendingar\/ár",
+    "ESMS_NO_LIMIT": "Engin takmörk",
+    "ESMS_REMAINING": "af {{total}} kg notuð",
+    "ESMS_SOMETHING_WENT_WRONG": "Eitthvað fór úrskeiðis!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Vinsamlegast hafðu samband við ESMS stjórnanda.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Því miður hefur þú ekki aðgang að þessari þjónustu",
+    "ESMS_UNAUTHORIZED_TITLE": "Enginn aðgangur",
+    "ESMS_USED": "notað"
+}

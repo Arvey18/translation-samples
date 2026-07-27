@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Adresa",
+    "DIGITAL_CARD_EMAIL": "E-mail",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Pristup",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Informacije nedostupne.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Nažalost, Widget usluge su privremeno nedostupne. Molimo pokušajte ponovo kasnije.",
+    "DIGITAL_CARD_ERROR_TITLE": "Greška",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Korisnik nije pronađen, neovlašten. Provjerite korisnika.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Podaci widgeta trenutno nisu dostupni.",
+    "DIGITAL_CARD_JOB_TITLE": "Radno mjesto",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Prijavite se u Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "za pristup vašim podacima u oblaku",
+    "DIGITAL_CARD_LOGIN_LABEL": "Prijavite se svojim Microsoft 365 računom",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobilni",
+    "DIGITAL_CARD_QR_ERROR": "Ne mogu učitati QR kod, molim te, pokušaj ponovo",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Prikaži QR kod",
+    "DIGITAL_CARD_WIDGET_ERROR": "Ne mogu učitati widget, molim te, pokušaj kasnije"
+}

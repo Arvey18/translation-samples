@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Từ",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "ĐẾN",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Cài lại",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Tìm kiếm",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Tìm một nhiệm vụ",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Nguồn",
+    "MT_ICON_IN_THE_HEADER": "biểu tượng ở tiêu đề để thay đổi.",
+    "MT_NO_RESULT_MESSAGE": "Không có Nhiệm vụ nào khả dụng với bộ lọc hoặc thuật ngữ tìm kiếm hiện tại của bạn.",
+    "MT_NO_TASK_AVAILABLE": "Không có tác vụ nào khả dụng với cài đặt hiện tại của bạn.",
+    "MT_OVERDUE_LABEL": "Quá hạn",
+    "MT_PLEASE_CLICK": "Vui lòng nhấp vào",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Vui lòng thử lại sau.",
+    "MT_PRIORITY_LABEL": "Sự ưu tiên",
+    "MT_SEE_OTHER_TASKS": "Xem các Nhiệm vụ khác",
+    "MT_SOMETHING_WENT_WRONG": "Có gì đó không ổn!",
+    "MT_SOURCE": "Nguồn",
+    "MT_TASK_CARD_DUE_LABEL": "Quá hạn:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Chúng tôi không thể tải nhiệm vụ của bạn vào lúc này.",
+    "MT_UPCOMING_LABEL": "Sắp tới",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Không có dữ liệu nào được hiển thị."
+}

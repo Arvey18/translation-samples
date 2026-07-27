@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "Bilgi mevcut değil",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "Üzgünüz, ilerleme bilgileri yalnızca DHL Express çalışanları için geçerlidir. Faaliyetlerinizi hâlâ Ekspres'teki Gönüllüler sitesinde görebilirsiniz.",
+    "VHT_SOMETHING_WENT_WRONG": "Bir şeyler yanlış gitti!",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "Lütfen DHL yöneticisiyle Gönüllülerle iletişime geçin.",
+    "VHT_WIDGET_BRONZE_MEDAL": "Bronz",
+    "VHT_WIDGET_COUNTRY": "Ülke",
+    "VHT_WIDGET_GLOBAL": "Küresel",
+    "VHT_WIDGET_GOLD_MEDAL": "Altın",
+    "VHT_WIDGET_HOURS_SPENT": "{{total}} gönüllü faaliyetlerde harcanan saat",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "Görüntülenecek veri yok",
+    "VHT_WIDGET_REGIONAL": "Bölgesel",
+    "VHT_WIDGET_SILVER_MEDAL": "Gümüş",
+    "VHT_WIDGET_TOP_PERCENT": "En yüksek {{precent}} %",
+    "VHT_WIDGET_VOLUNTEER_NOW": "Şimdi gönüllü olun!"
+}

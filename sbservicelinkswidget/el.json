@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Πρόσβαση",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Μη διαθέσιμες πληροφορίες.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Λυπούμαστε, οι υπηρεσίες Widget δεν είναι προσωρινά διαθέσιμες. Παρακαλώ δοκιμάστε ξανά αργότερα.",
+    "SBSL_ERROR_TITLE": "Λάθος",
+    "SBSL_ERROR_USER_NOTFOUND": "Ο χρήστης δεν βρέθηκε, Μη εξουσιοδοτημένος. Ελέγξτε τον χρήστη.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Τα δεδομένα widget δεν είναι διαθέσιμα αυτήν τη στιγμή.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Άνοιγμα της επισκόπησης εφαρμογών",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Το Apps & Services δεν είναι διαθέσιμο αυτή τη στιγμή. Κάνε κλικ στο κουμπί για να δεις τη λίστα εφαρμογών.",
+    "SBSL_GOTO_SMART_GRID": "Μεταβείτε στο Apps",
+    "SBSL_LOGIN_BUTTON": "Συνδεθείτε στο Microsoft 365",
+    "SBSL_LOGIN_DESC": "για πρόσβαση στα δεδομένα σας στο cloud",
+    "SBSL_LOGIN_LABEL": "Συνδεθείτε με τον λογαριασμό σας στο Microsoft 365",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

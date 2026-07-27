@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Osoite",
+    "DIGITAL_CARD_EMAIL": "Sähköposti",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Pääsy",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Tietoja ei ole saatavilla.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Widget-palvelut ovat valitettavasti väliaikaisesti poissa käytöstä. Yritä uudelleen myöhemmin.",
+    "DIGITAL_CARD_ERROR_TITLE": "Virhe",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Käyttäjää ei löydy, luvaton. Tarkista käyttäjä.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Widgetin tiedot eivät tällä hetkellä ole saatavilla.",
+    "DIGITAL_CARD_JOB_TITLE": "Työnimike",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Kirjaudu sisään Microsoft 365:een",
+    "DIGITAL_CARD_LOGIN_DESC": "päästäksesi käsiksi pilvitietoihisi",
+    "DIGITAL_CARD_LOGIN_LABEL": "Kirjaudu sisään Microsoft 365 -tililläsi",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Matkapuhelin",
+    "DIGITAL_CARD_QR_ERROR": "QR-koodia ei voi ladata, yritä uudelleen",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Näytä QR-koodi",
+    "DIGITAL_CARD_WIDGET_ERROR": "Widgetiä ei voi ladata, yritä myöhemmin uudelleen"
+}

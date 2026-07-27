@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Adres",
+    "DIGITAL_CARD_EMAIL": "E-mail",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Toegang",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Informatie niet beschikbaar.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Sorry, widgetdiensten zijn tijdelijk niet beschikbaar. Probeer het later opnieuw.",
+    "DIGITAL_CARD_ERROR_TITLE": "Fout",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Gebruiker niet gevonden, niet geautoriseerd. Controleer de gebruiker.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Widgetgegevens zijn momenteel niet beschikbaar.",
+    "DIGITAL_CARD_JOB_TITLE": "Functietitel",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Meld u aan bij Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "om toegang te krijgen tot uw cloudgegevens",
+    "DIGITAL_CARD_LOGIN_LABEL": "Meld u aan met uw Microsoft 365-account",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft365",
+    "DIGITAL_CARD_MOBILE": "Mobiel",
+    "DIGITAL_CARD_QR_ERROR": "QR-code kan niet worden geladen, probeer het opnieuw",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Toon QR-code",
+    "DIGITAL_CARD_WIDGET_ERROR": "Widget kan niet worden geladen, probeer het later opnieuw"
+}

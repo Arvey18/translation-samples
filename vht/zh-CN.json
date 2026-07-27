@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "信息不可用",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "抱歉，进度信息仅适用于 DHL Express 同事。您仍然可以在 Express 网站的志愿者中查看您的活动。",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "出了些问题！",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "请联系DHL管理员的志愿者。",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "铜",
+    "VHT_GROUP_WIDGET_COUNTRY": "国家",
+    "VHT_GROUP_WIDGET_GLOBAL": "全球的",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "金",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "在{{total}}志愿活动中花费的小时数",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "没有数据可显示",
+    "VHT_GROUP_WIDGET_REGIONAL": "区域性",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "银",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "顶部{{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "现在就做志愿者吧！"
+}

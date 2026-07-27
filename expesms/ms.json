@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Berat\/Penghantaran Diskaun Maks",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Bilangan Maksimum Penghantaran\/suku",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Bilangan Maksimum Penghantaran\/tahun",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Bilangan Maksimum Penghantaran\/bulan",
+    "ESMS_MAX_SHIPMENT": "Diskaun Maks",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Max Jumlah Berat Penghantaran\/tahun",
+    "ESMS_NO_LIMIT": "Tiada had",
+    "ESMS_REMAINING": "daripada {{total}} kg digunakan",
+    "ESMS_SOMETHING_WENT_WRONG": "Sesuatu telah berlaku!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Sila hubungi pentadbir ESMS.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Maaf anda tidak mempunyai akses kepada perkhidmatan ini",
+    "ESMS_UNAUTHORIZED_TITLE": "Tiada akses",
+    "ESMS_USED": "digunakan"
+}

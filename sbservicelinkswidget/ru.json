@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Доступ",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Информация недоступна.",
+    "SBSL_ERROR_INTERNAL_SERVER": "К сожалению, услуги виджетов временно недоступны. Пожалуйста, повторите попытку позже.",
+    "SBSL_ERROR_TITLE": "Ошибка",
+    "SBSL_ERROR_USER_NOTFOUND": "Пользователь не найден, не авторизован. Пожалуйста, проверьте пользователя.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Данные виджета на данный момент недоступны.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Открыть обзор приложений",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services в настоящее время недоступен. Нажми кнопку, чтобы получить доступ к списку приложений.",
+    "SBSL_GOTO_SMART_GRID": "Перейти в Apps",
+    "SBSL_LOGIN_BUTTON": "Войдите в Microsoft 365",
+    "SBSL_LOGIN_DESC": "для доступа к вашим облачным данным",
+    "SBSL_LOGIN_LABEL": "Войдите в свою учетную запись Microsoft 365.",
+    "SBSL_LOGIN_TITLE": "Майкрософт 365"
+}

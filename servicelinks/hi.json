@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "मेरे ऐप्स में बुकमार्क करें",
+    "SL_HEADLINE_GLOBAL_APPS": "वैश्विक ऐप्स",
+    "SL_HEADLINE_MY_APPS": "मेरे ऐप्स",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "कृपया खोज का उपयोग करें या नीचे दिए गए बटनों पर क्लिक करें ताकि आप उन ऐप्स को ढूंढ सकें जिन्हें आप उनके स्टार आइकन पर क्लिक करके बुकमार्क कर सकते हैं",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "आपके लिए अभी तक कोई एप्स असाइन नहीं किए गए हैं या बुकमार्क नहीं सहेजे गए हैं।",
+    "SL_NO_MATCHING_TITLE": "कोई मेल खाता परिणाम नहीं",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "मेरे ऐप्स से बुकमार्क हटाएं",
+    "SL_SORTING_MODAL_DESCRIPTION": "क्या आप सभी बुकमार्क किए गए ऐप्स के उपयोग को शून्य पर रीसेट करना चाहते हैं?",
+    "SL_SORTING_MODAL_NO_LABEL": "नहीं",
+    "SL_SORTING_MODAL_TITLE": "उपयोग रीसेट करें",
+    "SL_SORTING_MODAL_YES_LABEL": "हाँ",
+    "SL_SORTING_SETTING_ALPHABETICAL": "वर्णमाला",
+    "SL_SORTING_SETTING_HEADER_TITLE": "इसके अनुसार क्रमबद्ध करें:",
+    "SL_SORTING_SETTING_RESET": "उपयोग रीसेट करें",
+    "SL_SORTING_SETTING_USAGE": "प्रयोग"
+}

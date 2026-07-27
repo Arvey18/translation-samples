@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Adgang",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Oplysninger er ikke tilgængelige.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Beklager, widgettjenester er midlertidigt utilgængelige. Prøv igen senere.",
+    "SBSL_ERROR_TITLE": "Fejl",
+    "SBSL_ERROR_USER_NOTFOUND": "Bruger ikke fundet, uautoriseret. Tjek venligst brugeren.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Widgetdata er ikke tilgængelige i øjeblikket.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Åbn oversigt over apps",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services er ikke tilgængelig lige nu. Klik på knappen for at få adgang til app-listen.",
+    "SBSL_GOTO_SMART_GRID": "Gå til Apps",
+    "SBSL_LOGIN_BUTTON": "Log ind på Microsoft 365",
+    "SBSL_LOGIN_DESC": "for at få adgang til dine skydata",
+    "SBSL_LOGIN_LABEL": "Log ind med din Microsoft 365-konto",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

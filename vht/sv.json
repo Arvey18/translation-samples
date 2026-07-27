@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Information inte tillgänglig",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Tyvärr, förloppsinformation är endast tillämplig för DHL Express-kollegor. Du kan fortfarande se dina aktiviteter på Volunteers at Express-webbplatsen.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Något gick fel!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Vänligen kontakta volontärerna hos DHL-administratören.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "Brons",
+    "VHT_GROUP_WIDGET_COUNTRY": "Land",
+    "VHT_GROUP_WIDGET_GLOBAL": "Global",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Guld",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "timmar tillbringade i {{total}} frivilliga aktiviteter",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Det finns inga data att visa",
+    "VHT_GROUP_WIDGET_REGIONAL": "Regional",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Silver",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Topp {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Bli volontär nu!"
+}

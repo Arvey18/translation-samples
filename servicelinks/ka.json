@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "სანიშნე ჩემს აპებში",
+    "SL_HEADLINE_GLOBAL_APPS": "გლობალური აპლიკაციები",
+    "SL_HEADLINE_MY_APPS": "ჩემი აპლიკაციები",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "გთხოვ, გამოიყენე ძებნა ან დააჭირე ქვემოთ მყოფ ღილაკებს აპლიკაციების მოსაძებნად, რომელთაც შეგიძლია დაამატო სანიშნებში ვარსკვლავის ხატულაზე დაწკაპუნებით",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "ჯერ არ გაქვს მინიჭებული აპლიკაციები ან შენახული სანიშნეები.",
+    "SL_NO_MATCHING_TITLE": "შესატყვისი შედეგები არ არის",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "წაშალე სანიშნე ჩემი აპებიდან",
+    "SL_SORTING_MODAL_DESCRIPTION": "გსურთ აღადგინოთ გამოყენება ყველა სანიშნეში მითითებული აპისთვის?",
+    "SL_SORTING_MODAL_NO_LABEL": "არა",
+    "SL_SORTING_MODAL_TITLE": "გამოყენების გადატვირთვა",
+    "SL_SORTING_MODAL_YES_LABEL": "დიახ",
+    "SL_SORTING_SETTING_ALPHABETICAL": "ანბანური",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Დალაგება:",
+    "SL_SORTING_SETTING_RESET": "გამოყენების გადატვირთვა",
+    "SL_SORTING_SETTING_USAGE": "გამოყენება"
+}

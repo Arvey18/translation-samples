@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Tandai ke Aplikasi Saya",
+    "SL_HEADLINE_GLOBAL_APPS": "Aplikasi Global",
+    "SL_HEADLINE_MY_APPS": "Aplikasi Saya",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Silakan gunakan pencarian atau klik tombol di bawah untuk menemukan aplikasi yang dapat kamu tandai dengan mengklik ikon bintangnya",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Kamu belum mendapatkan aplikasi yang ditugaskan atau menyimpan penanda.",
+    "SL_NO_MATCHING_TITLE": "Tidak ada hasil yang cocok",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Hapus tanda dari Aplikasi Saya",
+    "SL_SORTING_MODAL_DESCRIPTION": "Apakah Anda ingin menyetel ulang penggunaan semua aplikasi yang ditandai ke nol?",
+    "SL_SORTING_MODAL_NO_LABEL": "TIDAK",
+    "SL_SORTING_MODAL_TITLE": "Atur Ulang Penggunaan",
+    "SL_SORTING_MODAL_YES_LABEL": "Ya",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alfabetis",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Sortir dengan:",
+    "SL_SORTING_SETTING_RESET": "Atur Ulang Penggunaan",
+    "SL_SORTING_SETTING_USAGE": "Penggunaan"
+}

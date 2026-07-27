@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Frá",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Til",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Endurstilla",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Leita",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Finna verkefni",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Heimild",
+    "MT_ICON_IN_THE_HEADER": "táknið í hausnum til að breyta því.",
+    "MT_NO_RESULT_MESSAGE": "Engin verkefni eru tiltæk með núverandi síu eða leitarorði.",
+    "MT_NO_TASK_AVAILABLE": "Engin verkefni eru tiltæk með núverandi stillingum þínum.",
+    "MT_OVERDUE_LABEL": "Of seint",
+    "MT_PLEASE_CLICK": "Vinsamlegast smelltu",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Vinsamlegast reynið aftur síðar.",
+    "MT_PRIORITY_LABEL": "Forgangur",
+    "MT_SEE_OTHER_TASKS": "Sjá önnur verkefni",
+    "MT_SOMETHING_WENT_WRONG": "Eitthvað fór úrskeiðis!",
+    "MT_SOURCE": "Heimild",
+    "MT_TASK_CARD_DUE_LABEL": "Skilafrestur:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Við getum ekki hlaðið inn verkefnum þínum eins og er.",
+    "MT_UPCOMING_LABEL": "Væntanlegt",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Það eru engin gögn til að birta."
+}

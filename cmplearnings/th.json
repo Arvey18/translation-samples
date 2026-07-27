@@ -1,0 +1,9 @@
+{
+    "CMPL_CLICK_HERE": "คลิกที่นี่",
+    "CMPL_ERROR_NOT_REACHABLE": "ขออภัย ไม่สามารถใช้ส่วนคำแนะนำเกี่ยวกับการเรียนรู้ได้เป็นการชั่วคราว โปรดลองอีกครั้งในภายหลัง",
+    "CMPL_ERROR_NO_RECOMMENDATIONS": "อัปเดตเป้าหมายด้านการเรียนรู้ของคุณเพื่อรับคำแนะนำเกี่ยวกับการเรียนรู้แบบเฉพาะตัว",
+    "CMPL_ERROR_USER_NOT_FOUND": "ข้อมูลเพิ่มเติมเกี่ยวกับCareer Marketplace",
+    "CMPL_INFO_UNAVAILABLE_TITLE": "ข้อมูลไม่พร้อมใช้งาน",
+    "CMPL_MY_PROFILE_LABEL": "ไปที่ 'โปรไฟล์ของฉัน'",
+    "CMPL_SHOWALL": "แสดงคำแนะนำทั้งหมด"
+}

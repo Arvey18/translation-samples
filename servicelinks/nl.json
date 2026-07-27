@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Bladwijzer naar Mijn Apps",
+    "SL_HEADLINE_GLOBAL_APPS": "Wereldwijde Apps",
+    "SL_HEADLINE_MY_APPS": "Mijn Apps",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Gebruik alsjeblieft de zoekfunctie of klik op de knoppen hieronder om apps te vinden die je kunt toevoegen aan je favorieten door op hun ster-icoon te klikken",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Je hebt nog geen apps toegewezen gekregen of bladwijzers opgeslagen.",
+    "SL_NO_MATCHING_TITLE": "Geen overeenkomende resultaten",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Bladwijzer verwijderen uit Mijn Apps",
+    "SL_SORTING_MODAL_DESCRIPTION": "Wilt u het gebruik van alle apps met een bladwijzer terugzetten op nul?",
+    "SL_SORTING_MODAL_NO_LABEL": "Nee",
+    "SL_SORTING_MODAL_TITLE": "Gebruik opnieuw instellen",
+    "SL_SORTING_MODAL_YES_LABEL": "Ja",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alfabetisch",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Sorteer op:",
+    "SL_SORTING_SETTING_RESET": "Gebruik opnieuw instellen",
+    "SL_SORTING_SETTING_USAGE": "Gebruik"
+}

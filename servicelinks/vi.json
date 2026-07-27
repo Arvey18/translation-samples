@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Đánh dấu vào Ứng dụng của tôi",
+    "SL_HEADLINE_GLOBAL_APPS": "Ứng Dụng Toàn Cầu",
+    "SL_HEADLINE_MY_APPS": "Ứng Dụng Của Tôi",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Vui lòng sử dụng tìm kiếm hoặc nhấp vào các nút bên dưới để tìm ứng dụng mà bạn có thể đánh dấu bằng cách nhấp vào biểu tượng ngôi sao của chúng",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Bạn chưa có ứng dụng nào được gán hoặc đánh dấu.",
+    "SL_NO_MATCHING_TITLE": "Không có kết quả phù hợp",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Bỏ đánh dấu khỏi Ứng dụng của tôi",
+    "SL_SORTING_MODAL_DESCRIPTION": "Bạn có muốn đặt lại mức sử dụng của tất cả các ứng dụng được đánh dấu về không?",
+    "SL_SORTING_MODAL_NO_LABEL": "KHÔNG",
+    "SL_SORTING_MODAL_TITLE": "Đặt lại cách sử dụng",
+    "SL_SORTING_MODAL_YES_LABEL": "Đúng",
+    "SL_SORTING_SETTING_ALPHABETICAL": "theo bảng chữ cái",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Sắp xếp theo:",
+    "SL_SORTING_SETTING_RESET": "Đặt lại cách sử dụng",
+    "SL_SORTING_SETTING_USAGE": "Cách sử dụng"
+}

@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Alates",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Kuni",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Lähtesta",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Otsi",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Leia ülesanne",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Allikas",
+    "MT_ICON_IN_THE_HEADER": "päises olevat ikooni selle muutmiseks.",
+    "MT_NO_RESULT_MESSAGE": "Teie praeguse filtri või otsinguterminiga pole ühtegi ülesannet saadaval.",
+    "MT_NO_TASK_AVAILABLE": "Teie praeguste seadetega pole ühtegi ülesannet saadaval.",
+    "MT_OVERDUE_LABEL": "Tähtaja ületanud",
+    "MT_PLEASE_CLICK": "Palun klõpsake",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Palun proovige hiljem uuesti.",
+    "MT_PRIORITY_LABEL": "Prioriteet",
+    "MT_SEE_OTHER_TASKS": "Vaata teisi ülesandeid",
+    "MT_SOMETHING_WENT_WRONG": "Midagi läks valesti!",
+    "MT_SOURCE": "Allikas",
+    "MT_TASK_CARD_DUE_LABEL": "Tähtaeg:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Me ei saa teie ülesandeid hetkel laadida.",
+    "MT_UPCOMING_LABEL": "Tulemas",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Kuvatavaid andmeid pole."
+}

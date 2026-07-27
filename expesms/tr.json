@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Maksimum İndirimli Ağırlık\/Gönderi",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Maksimum Gönderi Sayısı\/çeyrek",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Maksimum Gönderi Sayısı\/yıl",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Maksimum Gönderim Sayısı\/ay",
+    "ESMS_MAX_SHIPMENT": "Maksimum İndirim",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Maksimum Toplam Gönderi Ağırlığı\/yıl",
+    "ESMS_NO_LIMIT": "Limit yok",
+    "ESMS_REMAINING": "kullanılan {{total}} kg",
+    "ESMS_SOMETHING_WENT_WRONG": "Bir şeyler yanlış gitti!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Lütfen ESMS yöneticisiyle iletişime geçin.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Üzgünüz bu hizmetlere erişiminiz yok",
+    "ESMS_UNAUTHORIZED_TITLE": "Erişim Yok",
+    "ESMS_USED": "kullanılmış"
+}

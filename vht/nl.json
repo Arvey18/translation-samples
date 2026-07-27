@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Informatie niet beschikbaar",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Sorry, informatie over de voortgang is alleen voor collega's van DHL Express. Je kunt je activiteiten nog steeds bekijken op de site Vrijwilligers bij Express.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Er is iets fout gegaan!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Neem alstublieft contact op met vrijwilligers bij de DHL-administrator.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "Bronzen",
+    "VHT_GROUP_WIDGET_COUNTRY": "Land",
+    "VHT_GROUP_WIDGET_GLOBAL": "Globaal",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Goud",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "uren besteed aan {{total}} vrijwilligersactiviteiten",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Er zijn geen gegevens om weer te geven",
+    "VHT_GROUP_WIDGET_REGIONAL": "Regionaal",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Zilver",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Top {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Doe nu vrijwilligerswerk!"
+}

@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} គីឡូក្រាម",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "ការបញ្ចុះតម្លៃអតិបរមា ទម្ងន់\/ការដឹកជញ្ជូន",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "ចំនួនអតិបរមានៃការដឹកជញ្ជូន\/ត្រីមាស",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "ចំនួនអតិបរមានៃការដឹកជញ្ជូន\/ឆ្នាំ",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "ចំនួនអតិបរមានៃការដឹកជញ្ជូន\/ខែ",
+    "ESMS_MAX_SHIPMENT": "ការបញ្ចុះតម្លៃអតិបរមា",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "ទម្ងន់សរុបអតិបរមានៃការដឹកជញ្ជូន\/ឆ្នាំ",
+    "ESMS_NO_LIMIT": "គ្មាន​ដែន​កំណត់",
+    "ESMS_REMAINING": "នៃ {{total}} គីឡូក្រាមដែលបានប្រើ",
+    "ESMS_SOMETHING_WENT_WRONG": "មាន​អ្វីមួយ​មិន​ប្រក្រតី!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "សូមទាក់ទងអ្នកគ្រប់គ្រង ESMS ។",
+    "ESMS_UNAUTHORIZED_MESSAGE": "សូមអភ័យទោស អ្នកមិនមានសិទ្ធិចូលប្រើសេវាកម្មនេះទេ។",
+    "ESMS_UNAUTHORIZED_TITLE": "គ្មានការចូលប្រើ",
+    "ESMS_USED": "បានប្រើ"
+}

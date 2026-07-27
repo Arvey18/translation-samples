@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Van",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Naar",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Reset",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Zoekopdracht",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Vind een taak",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Bron",
+    "MT_ICON_IN_THE_HEADER": "pictogram in de header om dit te wijzigen.",
+    "MT_NO_RESULT_MESSAGE": "Er zijn geen taken beschikbaar met uw huidige filter of zoekterm.",
+    "MT_NO_TASK_AVAILABLE": "Er zijn geen taken beschikbaar met uw huidige instellingen.",
+    "MT_OVERDUE_LABEL": "Verlopen",
+    "MT_PLEASE_CLICK": "Klik alstublieft",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Probeer het later opnieuw.",
+    "MT_PRIORITY_LABEL": "Prioriteit",
+    "MT_SEE_OTHER_TASKS": "Zie andere taken",
+    "MT_SOMETHING_WENT_WRONG": "Er is iets misgegaan!",
+    "MT_SOURCE": "Bron",
+    "MT_TASK_CARD_DUE_LABEL": "Vanwege:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Wij kunnen uw taken op dit moment niet laden.",
+    "MT_UPCOMING_LABEL": "Aankomende",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Er zijn geen gegevens om weer te geven."
+}

@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Trọng lượng\/Lô hàng được giảm giá tối đa",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Số lô hàng tối đa\/quý",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Số lô hàng tối đa\/năm",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Số lô hàng tối đa\/tháng",
+    "ESMS_MAX_SHIPMENT": "Giảm giá tối đa",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Tổng trọng lượng lô hàng tối đa\/năm",
+    "ESMS_NO_LIMIT": "Không giới hạn",
+    "ESMS_REMAINING": "trong số {{total}} kg đã sử dụng",
+    "ESMS_SOMETHING_WENT_WRONG": "Đã xảy ra lỗi!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Vui lòng liên hệ với quản trị viên ESMS.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Rất tiếc, bạn không có quyền truy cập vào dịch vụ này",
+    "ESMS_UNAUTHORIZED_TITLE": "Không truy cập",
+    "ESMS_USED": "đã sử dụng"
+}

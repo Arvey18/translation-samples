@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Dodaj do Moich Aplikacji",
+    "SL_HEADLINE_GLOBAL_APPS": "Aplikacje Globalne",
+    "SL_HEADLINE_MY_APPS": "Moje Aplikacje",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Proszę użyj wyszukiwarki lub kliknij poniższe przyciski, aby znaleźć aplikacje, które możesz dodać do zakładek, klikając ikonę gwiazdki",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Nie masz jeszcze przypisanych aplikacji ani zapisanych zakładek.",
+    "SL_NO_MATCHING_TITLE": "Brak pasujących wyników",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Usuń z zakładek Moich Aplikacji",
+    "SL_SORTING_MODAL_DESCRIPTION": "Czy chcesz zresetować użycie wszystkich aplikacji dodanych do zakładek do zera?",
+    "SL_SORTING_MODAL_NO_LABEL": "NIE",
+    "SL_SORTING_MODAL_TITLE": "Zresetuj użycie",
+    "SL_SORTING_MODAL_YES_LABEL": "Tak",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alfabetyczny",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Sortuj według:",
+    "SL_SORTING_SETTING_RESET": "Zresetuj użycie",
+    "SL_SORTING_SETTING_USAGE": "Stosowanie"
+}

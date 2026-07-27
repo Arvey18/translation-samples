@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Přístup",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Informace nejsou k dispozici.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Litujeme, služby widgetů jsou dočasně nedostupné. Prosím zkuste to znovu později.",
+    "SBSL_ERROR_TITLE": "Chyba",
+    "SBSL_ERROR_USER_NOTFOUND": "Uživatel nenalezen, neoprávněný. Zkontrolujte prosím uživatele.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Data widgetu momentálně nejsou k dispozici.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Otevřít přehled aplikací",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services je teď nedostupný. Klikni na tlačítko pro přístup k seznamu aplikací.",
+    "SBSL_GOTO_SMART_GRID": "Přejděte na Apps",
+    "SBSL_LOGIN_BUTTON": "Přihlaste se k Microsoft 365",
+    "SBSL_LOGIN_DESC": "pro přístup k vašim cloudovým datům",
+    "SBSL_LOGIN_LABEL": "Přihlaste se pomocí účtu Microsoft 365",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

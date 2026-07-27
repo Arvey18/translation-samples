@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Maksimālais svars\/sūtījums ar atlaidi",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Maksimālais sūtījumu skaits ceturksnī",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Maksimālais sūtījumu skaits gadā",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Maksimālais sūtījumu skaits mēnesī",
+    "ESMS_MAX_SHIPMENT": "Maksimālā atlaide",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Maksimālais kopējais sūtījuma svars gadā",
+    "ESMS_NO_LIMIT": "Bez ierobežojuma",
+    "ESMS_REMAINING": "no {{total}} kg",
+    "ESMS_SOMETHING_WENT_WRONG": "Kaut kas nogāja greizi!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Lūdzu, sazinieties ar ESMS administratoru.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Diemžēl jums nav piekļuves šiem pakalpojumiem",
+    "ESMS_UNAUTHORIZED_TITLE": "Nav piekļuves",
+    "ESMS_USED": "lietots"
+}

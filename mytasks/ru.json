@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "От",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "К",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Перезагрузить",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Поиск",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Найти задачу",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Источник",
+    "MT_ICON_IN_THE_HEADER": "значок в заголовке, чтобы изменить его.",
+    "MT_NO_RESULT_MESSAGE": "Нет доступных задач с вашим текущим фильтром или поисковым запросом.",
+    "MT_NO_TASK_AVAILABLE": "Нет задач, доступных с вашими текущими настройками.",
+    "MT_OVERDUE_LABEL": "Просроченный",
+    "MT_PLEASE_CLICK": "Пожалуйста, нажмите",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Попробуйте еще раз позже.",
+    "MT_PRIORITY_LABEL": "Приоритет",
+    "MT_SEE_OTHER_TASKS": "Посмотреть другие задачи",
+    "MT_SOMETHING_WENT_WRONG": "Что-то пошло не так!",
+    "MT_SOURCE": "Источник",
+    "MT_TASK_CARD_DUE_LABEL": "Должный:",
+    "MT_UNABLE_TO_LOAD_TASKS": "В данный момент мы не можем загрузить ваши задачи.",
+    "MT_UPCOMING_LABEL": "Предстоящие",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Нет данных для отображения."
+}

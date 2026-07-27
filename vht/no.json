@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Informasjon utilgjengelig",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Beklager, fremdriftsinformasjon gjelder kun for DHL Express-kolleger. Du kan fortsatt se aktivitetene dine på Volunteers at Express-siden.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Noe gikk galt!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Vennligst kontakt frivillige hos DHL-administratoren.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "Bronse",
+    "VHT_GROUP_WIDGET_COUNTRY": "Land",
+    "VHT_GROUP_WIDGET_GLOBAL": "Global",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Gull",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "timer brukt i {{total}} frivillige aktiviteter",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Det er ingen data som skal vises",
+    "VHT_GROUP_WIDGET_REGIONAL": "Regional",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Sølv",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Topp {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Meld deg frivillig nå!"
+}

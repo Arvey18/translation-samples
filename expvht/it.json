@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "Informazioni non disponibili",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "Siamo spiacenti, le informazioni sullo stato di avanzamento sono applicabili solo ai colleghi DHL Express. Puoi ancora visualizzare le tue attività nel sito Volunteers at Express.",
+    "VHT_SOMETHING_WENT_WRONG": "Qualcosa è andato storto!",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "Si prega di contattare i Volontari presso l'amministratore DHL.",
+    "VHT_WIDGET_BRONZE_MEDAL": "Bronzo",
+    "VHT_WIDGET_COUNTRY": "Paese",
+    "VHT_WIDGET_GLOBAL": "Globale",
+    "VHT_WIDGET_GOLD_MEDAL": "Oro",
+    "VHT_WIDGET_HOURS_SPENT": "ore trascorse in {{total}} attività di volontariato",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "Non ci sono dati da visualizzare",
+    "VHT_WIDGET_REGIONAL": "Regionale",
+    "VHT_WIDGET_SILVER_MEDAL": "Argento",
+    "VHT_WIDGET_TOP_PERCENT": "Migliori {{precent}} %",
+    "VHT_WIDGET_VOLUNTEER_NOW": "Fai volontariato adesso!"
+}

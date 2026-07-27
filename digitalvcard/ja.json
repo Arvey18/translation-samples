@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "住所",
+    "DIGITAL_CARD_EMAIL": "電子メール",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "アクセス",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "情報は入手できません。",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "申し訳ございませんが、ウィジェット サービスは一時的にご利用いただけません。しばらくしてからもう一度お試しください。",
+    "DIGITAL_CARD_ERROR_TITLE": "エラー",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "ユーザーが見つかりません。権限がありません。ユーザーを確認してください。",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "ウィジェットデータは現在利用できません。",
+    "DIGITAL_CARD_JOB_TITLE": "職位",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Microsoft 365 にサインイン",
+    "DIGITAL_CARD_LOGIN_DESC": "クラウドデータにアクセスする",
+    "DIGITAL_CARD_LOGIN_LABEL": "Microsoft 365 アカウントでサインイン",
+    "DIGITAL_CARD_LOGIN_TITLE": "マイクロソフト365",
+    "DIGITAL_CARD_MOBILE": "モバイル",
+    "DIGITAL_CARD_QR_ERROR": "QRコードを読み込めませんでした。もう一度試してみてください。",
+    "DIGITAL_CARD_SHOW_QR_CODE": "QRコードを表示",
+    "DIGITAL_CARD_WIDGET_ERROR": "ウィジェットを読み込めませんでした。後でもう一度試してくださ"
+}

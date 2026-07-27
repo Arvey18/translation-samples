@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Địa chỉ",
+    "DIGITAL_CARD_EMAIL": "E-mail",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Truy cập",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Thông tin không có sẵn.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Rất tiếc, dịch vụ Widget tạm thời không khả dụng. Vui lòng thử lại sau.",
+    "DIGITAL_CARD_ERROR_TITLE": "Lỗi",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Không tìm thấy người dùng, trái phép. Vui lòng kiểm tra người dùng.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Dữ liệu widget hiện không có sẵn.",
+    "DIGITAL_CARD_JOB_TITLE": "Chức danh",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Đăng nhập vào Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "để truy cập dữ liệu đám mây của bạn",
+    "DIGITAL_CARD_LOGIN_LABEL": "Đăng nhập bằng tài khoản Microsoft 365 của bạn",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Di động",
+    "DIGITAL_CARD_QR_ERROR": "Không thể tải mã QR, vui lòng thử lại",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Hiển thị mã QR",
+    "DIGITAL_CARD_WIDGET_ERROR": "Không thể tải widget, vui lòng thử lại sau"
+}

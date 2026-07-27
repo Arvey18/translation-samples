@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{0}} кг",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Максимално намалено тегло\/доставка",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Макс. брой пратки\/тримесечие",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Макс. брой пратки\/година",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Макс. брой пратки\/месец",
+    "ESMS_MAX_SHIPMENT": "Максимална отстъпка",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Максимално общо тегло на пратката\/година",
+    "ESMS_NO_LIMIT": "Няма ограничение",
+    "ESMS_REMAINING": "от {{0}} kg използвани",
+    "ESMS_SOMETHING_WENT_WRONG": "Нещо се обърка!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Моля, свържете се с администратора на ESMS.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Съжаляваме, че нямате достъп до тези услуги",
+    "ESMS_UNAUTHORIZED_TITLE": "Няма достъп",
+    "ESMS_USED": "използвани"
+}

@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "المعلومات غير متاحة",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "عذرًا، معلومات التقدم تنطبق فقط على موظفي دي اتش ال اكسبرس. يمكنك مع ذلك مشاهدة أنشطتك في موقع المتطوعين في إكسبريس",
+    "VHT_SOMETHING_WENT_WRONG": "حدث خطأ ما",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "يرجى الاتصال بالمتطوعين لدى إدارة DHL.",
+    "VHT_WIDGET_BRONZE_MEDAL": "برونزية",
+    "VHT_WIDGET_COUNTRY": "دولة",
+    "VHT_WIDGET_GLOBAL": "عالمي",
+    "VHT_WIDGET_GOLD_MEDAL": "ذهب",
+    "VHT_WIDGET_HOURS_SPENT": "الساعات التي قضاها في {{total}} الأنشطة التطوعية",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "لا توجد بيانات ليتم عرضها",
+    "VHT_WIDGET_REGIONAL": "إقليمي",
+    "VHT_WIDGET_SILVER_MEDAL": "فضة",
+    "VHT_WIDGET_TOP_PERCENT": "أعلى {{precent}} %",
+    "VHT_WIDGET_VOLUNTEER_NOW": "!تطوع الآن"
+}

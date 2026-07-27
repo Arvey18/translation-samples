@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Tietoja ei ole saatavilla",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Valitettavasti edistymistiedot koskevat vain DHL Expressin kollegoita. Voit edelleen tarkastella toimintaasi Vapaaehtoiset Express -sivustolla.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Jotain meni pieleen!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Ole hyvä ja ota yhteyttä vapaaehtoisiin DHL:n ylläpitäjällä.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "Pronssi",
+    "VHT_GROUP_WIDGET_COUNTRY": "Maa",
+    "VHT_GROUP_WIDGET_GLOBAL": "Maailmanlaajuinen",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Kulta",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "tuntia, joka vietettiin {{total}} vapaaehtoistoimintaan",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Näytettäviä tietoja ei ole",
+    "VHT_GROUP_WIDGET_REGIONAL": "Alueellinen",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Hopea",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Parhaat {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Vapaaehtoiseksi nyt!"
+}

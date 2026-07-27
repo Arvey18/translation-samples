@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Προσθήκη στα Εφαρμογές μου",
+    "SL_HEADLINE_GLOBAL_APPS": "Παγκόσμιες Εφαρμογές",
+    "SL_HEADLINE_MY_APPS": "Οι Εφαρμογές Μου",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Παρακαλώ χρησιμοποίησε την αναζήτηση ή κάνε κλικ στα κουμπιά παρακάτω για να βρεις εφαρμογές που μπορείς να προσθέσεις στους σελιδοδείκτες κάνοντας κλικ στο εικονίδιο με το αστέρι",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Δεν σου έχουν ακόμα ανατεθεί εφαρμογές ούτε έχεις αποθηκεύσει σελιδοδείκτες.",
+    "SL_NO_MATCHING_TITLE": "Δεν υπάρχουν αποτελέσματα που να ταιριάζουν",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Αφαίρεση από τα Αγαπημένα στις Εφαρμογές μου",
+    "SL_SORTING_MODAL_DESCRIPTION": "Θέλετε να μηδενίσετε τη χρήση για όλες τις εφαρμογές με σελιδοδείκτες;",
+    "SL_SORTING_MODAL_NO_LABEL": "Οχι",
+    "SL_SORTING_MODAL_TITLE": "Επαναφορά χρήσης",
+    "SL_SORTING_MODAL_YES_LABEL": "Ναί",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Αλφαβητικός",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Ταξινόμηση κατά:",
+    "SL_SORTING_SETTING_RESET": "Επαναφορά χρήσης",
+    "SL_SORTING_SETTING_USAGE": "Χρήση"
+}

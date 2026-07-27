@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Από",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Να",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Επαναφορά",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Ερευνα",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Βρείτε μια εργασία",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Πηγή",
+    "MT_ICON_IN_THE_HEADER": "εικονίδιο στην κεφαλίδα για να το αλλάξετε.",
+    "MT_NO_RESULT_MESSAGE": "Δεν υπάρχουν διαθέσιμες εργασίες με το τρέχον φίλτρο ή τον τρέχοντα όρο αναζήτησης.",
+    "MT_NO_TASK_AVAILABLE": "Δεν υπάρχουν διαθέσιμες εργασίες με τις τρέχουσες ρυθμίσεις σας.",
+    "MT_OVERDUE_LABEL": "Εκπρόθεσμος",
+    "MT_PLEASE_CLICK": "Παρακαλώ κάντε κλικ",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Παρακαλώ δοκιμάστε ξανά αργότερα.",
+    "MT_PRIORITY_LABEL": "Προτεραιότητα",
+    "MT_SEE_OTHER_TASKS": "Δείτε άλλες εργασίες",
+    "MT_SOMETHING_WENT_WRONG": "Κάτι πήγε στραβά!",
+    "MT_SOURCE": "Πηγή",
+    "MT_TASK_CARD_DUE_LABEL": "Οφειλόμενος:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Δεν είναι δυνατή η φόρτωση των εργασιών σας αυτήν τη στιγμή.",
+    "MT_UPCOMING_LABEL": "Ανερχόμενος",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Δεν υπάρχουν δεδομένα προς εμφάνιση."
+}
