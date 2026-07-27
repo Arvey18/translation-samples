@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Adaugă la Aplicațiile mele",
+    "SL_HEADLINE_GLOBAL_APPS": "Aplicații Globale",
+    "SL_HEADLINE_MY_APPS": "Aplicațiile Mele",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Te rog folosește căutarea sau dă clic pe butoanele de mai jos pentru a găsi aplicații pe care le poți adăuga la favorite făcând clic pe pictograma stea",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Nu ai încă aplicații atribuite sau semne de carte salvate.",
+    "SL_NO_MATCHING_TITLE": "Niciun rezultat potrivit",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Șterge din Aplicațiile mele",
+    "SL_SORTING_MODAL_DESCRIPTION": "Doriți să resetați utilizarea pentru toate aplicațiile marcate la zero?",
+    "SL_SORTING_MODAL_NO_LABEL": "Nu",
+    "SL_SORTING_MODAL_TITLE": "Resetați utilizarea",
+    "SL_SORTING_MODAL_YES_LABEL": "da",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alfabetic",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Filtrează după:",
+    "SL_SORTING_SETTING_RESET": "Resetați utilizarea",
+    "SL_SORTING_SETTING_USAGE": "Utilizare"
+}

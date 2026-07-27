@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "情報が入手できない",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "申し訳ありませんが、進捗情報は DHL Express の同僚にのみ適用されます。あなたの活動は引き続き Volunteers at Express サイトでご覧いただけます。",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "何か問題が発生しました!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "DHL管理者にボランティアに連絡してください。",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "銅",
+    "VHT_GROUP_WIDGET_COUNTRY": "国",
+    "VHT_GROUP_WIDGET_GLOBAL": "グローバル",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "金",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "{{total}}ボランティア活動に費やした時間",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "表示するデータがありません",
+    "VHT_GROUP_WIDGET_REGIONAL": "地域別",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "銀",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "上位{{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "今すぐボランティアしましょう！"
+}

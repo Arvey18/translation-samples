@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Heimilisfang",
+    "DIGITAL_CARD_EMAIL": "Netfang",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Aðgangur",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Upplýsingar ekki tiltækar.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Því miður er græjuþjónusta ekki tiltæk í augnablikinu. Vinsamlegast reyndu aftur síðar.",
+    "DIGITAL_CARD_ERROR_TITLE": "Villa",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Notandi fannst ekki, óviðkomandi. Vinsamlegast athugaðu notandann.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Græjugögn eru ekki tiltæk eins og er.",
+    "DIGITAL_CARD_JOB_TITLE": "Starfsheiti",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Skráðu þig inn á Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "til að fá aðgang að skýjagögnunum þínum",
+    "DIGITAL_CARD_LOGIN_LABEL": "Skráðu þig inn með Microsoft 365 reikningnum þínum",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Farþjónusta",
+    "DIGITAL_CARD_QR_ERROR": "Gaf ekki að hlaða QR kóða, vinsamlegast reyndu aftur",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Sýna QR kóða",
+    "DIGITAL_CARD_WIDGET_ERROR": "Gaf ekki að hlaða widget, vinsamlegast reyndu aftur síðar"
+}

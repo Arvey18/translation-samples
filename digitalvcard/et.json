@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Aadress",
+    "DIGITAL_CARD_EMAIL": "E-post",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Juurdepääs",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Teave pole saadaval.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Kahjuks pole vidinateenused ajutiselt saadaval. Palun proovi hiljem uuesti.",
+    "DIGITAL_CARD_ERROR_TITLE": "Viga",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Kasutajat ei leitud, volitamata. Kontrollige kasutajat.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Vidinaandmed pole praegu saadaval.",
+    "DIGITAL_CARD_JOB_TITLE": "Ametinimetus",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Logige sisse Microsoft 365-sse",
+    "DIGITAL_CARD_LOGIN_DESC": "oma pilveandmetele juurde pääseda",
+    "DIGITAL_CARD_LOGIN_LABEL": "Logige sisse oma Microsoft 365 kontoga",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobiil",
+    "DIGITAL_CARD_QR_ERROR": "QR koodi ei saa laadida, palun proovi uuesti",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Näita QR-koodi",
+    "DIGITAL_CARD_WIDGET_ERROR": "Widgetit ei saa laadida, palun proovi hiljem"
+}

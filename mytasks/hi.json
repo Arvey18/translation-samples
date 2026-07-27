@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "से",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "को",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "रीसेट करें",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "खोज",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "कोई कार्य खोजें",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "स्रोत",
+    "MT_ICON_IN_THE_HEADER": "इसे बदलने के लिए हेडर में आइकन पर क्लिक करें।",
+    "MT_NO_RESULT_MESSAGE": "आपके वर्तमान फ़िल्टर या खोज शब्द के साथ कोई कार्य उपलब्ध नहीं है.",
+    "MT_NO_TASK_AVAILABLE": "आपकी वर्तमान सेटिंग के साथ कोई कार्य उपलब्ध नहीं है.",
+    "MT_OVERDUE_LABEL": "अतिदेय",
+    "MT_PLEASE_CLICK": "फिर से लॉगिन करने के लिए",
+    "MT_PLEASE_TRY_AGAIN_LATER": "कृपया बाद में पुन: प्रयास करें।",
+    "MT_PRIORITY_LABEL": "प्राथमिकता",
+    "MT_SEE_OTHER_TASKS": "अन्य कार्य देखें",
+    "MT_SOMETHING_WENT_WRONG": "कुछ गलत हो गया!",
+    "MT_SOURCE": "स्रोत",
+    "MT_TASK_CARD_DUE_LABEL": "देय:",
+    "MT_UNABLE_TO_LOAD_TASKS": "हम इस समय आपके कार्य लोड करने में असमर्थ हैं।",
+    "MT_UPCOMING_LABEL": "आगामी",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "प्रदर्शित करने के लिए कोई डेटा नहीं है."
+}

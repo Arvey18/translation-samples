@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Pääsy",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Tietoja ei ole saatavilla.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Widget-palvelut ovat valitettavasti väliaikaisesti poissa käytöstä. Yritä uudelleen myöhemmin.",
+    "SBSL_ERROR_TITLE": "Virhe",
+    "SBSL_ERROR_USER_NOTFOUND": "Käyttäjää ei löydy, luvaton. Tarkista käyttäjä.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Widgetin tiedot eivät tällä hetkellä ole saatavilla.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Avaa sovellusten yleiskatsaus",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services ei ole tällä hetkellä saatavilla. Napsauta painiketta päästäksesi sovellusluetteloon.",
+    "SBSL_GOTO_SMART_GRID": "Siirry Appsiin",
+    "SBSL_LOGIN_BUTTON": "Kirjaudu sisään Microsoft 365:een",
+    "SBSL_LOGIN_DESC": "päästäksesi käsiksi pilvitietoihisi",
+    "SBSL_LOGIN_LABEL": "Kirjaudu sisään Microsoft 365 -tililläsi",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

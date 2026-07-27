@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Pristup",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Informacije nedostupne.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Nažalost, Widget usluge su privremeno nedostupne. Molimo pokušajte ponovo kasnije.",
+    "SBSL_ERROR_TITLE": "Greška",
+    "SBSL_ERROR_USER_NOTFOUND": "Korisnik nije pronađen, neovlašten. Provjerite korisnika.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Podaci widgeta trenutno nisu dostupni.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Otvori pregled aplikacija",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services trenutno nije dostupno. Klikni gumb za pristup popisu aplikacija.",
+    "SBSL_GOTO_SMART_GRID": "Idite na Apps",
+    "SBSL_LOGIN_BUTTON": "Prijavite se u Microsoft 365",
+    "SBSL_LOGIN_DESC": "za pristup vašim podacima u oblaku",
+    "SBSL_LOGIN_LABEL": "Prijavite se svojim Microsoft 365 računom",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

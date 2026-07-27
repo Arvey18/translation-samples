@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Bokmerk til Mine Apper",
+    "SL_HEADLINE_GLOBAL_APPS": "Globale Apper",
+    "SL_HEADLINE_MY_APPS": "Mine Apper",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Vennligst bruk søket eller klikk på knappene nedenfor for å finne apper som du kan bokmerke ved å klikke på stjerneikonet deres",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Du har ikke fått tildelt noen apper eller lagret noen bokmerker ennå.",
+    "SL_NO_MATCHING_TITLE": "Ingen samsvarende resultater",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Fjern bokmerke fra Mine Apper",
+    "SL_SORTING_MODAL_DESCRIPTION": "Vil du tilbakestille bruken for alle bokmerkede apper til null?",
+    "SL_SORTING_MODAL_NO_LABEL": "Nei",
+    "SL_SORTING_MODAL_TITLE": "Tilbakestill bruk",
+    "SL_SORTING_MODAL_YES_LABEL": "Ja",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alfabetisk",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Sorter etter:",
+    "SL_SORTING_SETTING_RESET": "Tilbakestill bruk",
+    "SL_SORTING_SETTING_USAGE": "Bruk"
+}

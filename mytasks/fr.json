@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Depuis",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "À",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Réinitialiser",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Recherche",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Trouver une tâche",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Source",
+    "MT_ICON_IN_THE_HEADER": "icône dans l'en-tête pour le changer.",
+    "MT_NO_RESULT_MESSAGE": "Aucune tâche n'est disponible avec votre filtre ou terme de recherche actuel.",
+    "MT_NO_TASK_AVAILABLE": "Aucune tâche n'est disponible avec vos paramètres actuels.",
+    "MT_OVERDUE_LABEL": "En retard",
+    "MT_PLEASE_CLICK": "Veuillez cliquer",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Veuillez réessayer plus tard.",
+    "MT_PRIORITY_LABEL": "Priorité",
+    "MT_SEE_OTHER_TASKS": "Voir d'autres tâches",
+    "MT_SOMETHING_WENT_WRONG": "Quelque chose s'est mal passé !",
+    "MT_SOURCE": "Source",
+    "MT_TASK_CARD_DUE_LABEL": "Exigible:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Nous ne sommes pas en mesure de charger vos tâches pour le moment.",
+    "MT_UPCOMING_LABEL": "Prochain",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Il n'y a aucune donnée à afficher."
+}

@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Adresa",
+    "DIGITAL_CARD_EMAIL": "E-mail",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Acces",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Informații indisponibile.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Ne pare rău, serviciile widget sunt temporar indisponibile. Vă rugăm să încercați din nou mai târziu.",
+    "DIGITAL_CARD_ERROR_TITLE": "Eroare",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Utilizatorul nu a fost găsit, neautorizat. Vă rugăm să verificați utilizatorul.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Datele widget nu sunt disponibile momentan.",
+    "DIGITAL_CARD_JOB_TITLE": "Titlu de muncă",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Conectați-vă la Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "pentru a vă accesa datele din cloud",
+    "DIGITAL_CARD_LOGIN_LABEL": "Conectați-vă cu contul Microsoft 365",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobil",
+    "DIGITAL_CARD_QR_ERROR": "Nu se poate încărca codul QR, te rog, încearcă din nou",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Afișați codul QR",
+    "DIGITAL_CARD_WIDGET_ERROR": "Nu se poate încărca widgetul, te rog, încearcă mai târziu"
+}

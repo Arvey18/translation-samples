@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Informacje niedostępne",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Przepraszamy, dalsze informacje dostępne są tylko dla pracowników DHL Express. Nadal możesz przeglądać swoje działania na stronie Wolontariusze.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Coś poszło nie tak!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Proszę skontaktować się z Wolontariuszami u administratora DHL.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "Brązowy",
+    "VHT_GROUP_WIDGET_COUNTRY": "Kraj",
+    "VHT_GROUP_WIDGET_GLOBAL": "Światowy",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Złoty",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "godziny spędzone na {{total}} zajęciach wolontariackich",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Brak danych do wyświetlenia",
+    "VHT_GROUP_WIDGET_REGIONAL": "Regionalny",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Srebrny",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Górny {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Zgłoś się na ochotnika już teraz!"
+}

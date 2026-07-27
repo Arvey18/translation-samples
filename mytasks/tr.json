@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "İtibaren",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "İle",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Sıfırla",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Aramak",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Bir Görev Bul",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Kaynak",
+    "MT_ICON_IN_THE_HEADER": "değiştirmek için başlıktaki simgeye tıklayın.",
+    "MT_NO_RESULT_MESSAGE": "Mevcut filtreniz veya arama teriminizle uyumlu Görev bulunamadı.",
+    "MT_NO_TASK_AVAILABLE": "Mevcut ayarlarınızla kullanılabilecek bir görev yok.",
+    "MT_OVERDUE_LABEL": "Gecikmiş",
+    "MT_PLEASE_CLICK": "Lütfen tıklayın",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Lütfen daha sonra tekrar deneyin.",
+    "MT_PRIORITY_LABEL": "Öncelik",
+    "MT_SEE_OTHER_TASKS": "Diğer Görevleri görün",
+    "MT_SOMETHING_WENT_WRONG": "Bir Şeyler Ters Gitti!",
+    "MT_SOURCE": "Kaynak",
+    "MT_TASK_CARD_DUE_LABEL": "Vadesi dolmuş:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Görevlerinizi şu anda yükleyemiyoruz.",
+    "MT_UPCOMING_LABEL": "Yaklaşan",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Gösterilecek veri yok."
+}

@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "ინფორმაცია მიუწვდომელია",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "უკაცრავად, პროგრესის შესახებ ინფორმაცია ვრცელდება მხოლოდ DHL Express-ის კოლეგებისთვის. თქვენ კვლავ შეგიძლიათ ნახოთ თქვენი საქმიანობა მოხალისეების ექსპრეს საიტზე.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Რაღაც არასწორად წავიდა!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "გთხოვთ, დაუკავშირდეთ მოხალისეებს DHL ადმინისტრატორთან.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "ბრინჯაო",
+    "VHT_GROUP_WIDGET_COUNTRY": "ქვეყანა",
+    "VHT_GROUP_WIDGET_GLOBAL": "გლობალური",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "ოქრო",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "{{total}} მოხალისეობრივ აქტივობებში გატარებული საათი",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "საჩვენებელი მონაცემები არ არის",
+    "VHT_GROUP_WIDGET_REGIONAL": "რეგიონალური",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "ვერცხლი",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "ტოპ {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "მოხალისე ახლავე!"
+}

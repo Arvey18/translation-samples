@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Bokmärk till Mina Appar",
+    "SL_HEADLINE_GLOBAL_APPS": "Globala Appar",
+    "SL_HEADLINE_MY_APPS": "Mina Appar",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Använd gärna sökfunktionen eller klicka på knapparna nedan för att hitta appar som du kan bokmärka genom att klicka på deras stjärnikon",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Du har inga appar tilldelade eller bokmärken sparade än.",
+    "SL_NO_MATCHING_TITLE": "Inga matchande resultat",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Ta bort bokmärke från Mina Appar",
+    "SL_SORTING_MODAL_DESCRIPTION": "Vill du nollställa användningen för alla bokmärkta appar?",
+    "SL_SORTING_MODAL_NO_LABEL": "Nej",
+    "SL_SORTING_MODAL_TITLE": "Återställ användning",
+    "SL_SORTING_MODAL_YES_LABEL": "Ja",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alfabetisk",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Sortera efter:",
+    "SL_SORTING_SETTING_RESET": "Återställ användning",
+    "SL_SORTING_SETTING_USAGE": "Användande"
+}

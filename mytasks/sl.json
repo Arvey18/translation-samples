@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Od",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Do",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Ponastavi",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Iskanje",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Poišči nalogo",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Vir",
+    "MT_ICON_IN_THE_HEADER": "ikono v glavi, da jo spremenite.",
+    "MT_NO_RESULT_MESSAGE": "Za vaš trenutni filter ali iskalni izraz ni na voljo nobenih opravil.",
+    "MT_NO_TASK_AVAILABLE": "Z vašimi trenutnimi nastavitvami ni na voljo nobene naloge.",
+    "MT_OVERDUE_LABEL": "Zamujeno",
+    "MT_PLEASE_CLICK": "Prosimo, kliknite",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Poskusite znova pozneje.",
+    "MT_PRIORITY_LABEL": "Prednost",
+    "MT_SEE_OTHER_TASKS": "Oglejte si druga opravila",
+    "MT_SOMETHING_WENT_WRONG": "Nekaj ​​je šlo narobe!",
+    "MT_SOURCE": "Vir",
+    "MT_TASK_CARD_DUE_LABEL": "Rok:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Trenutno ne moremo naložiti vaših nalog.",
+    "MT_UPCOMING_LABEL": "Prihajajoče",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Ni podatkov za prikaz."
+}

@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Aðgangur",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Upplýsingar ekki tiltækar.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Því miður er græjuþjónusta ekki tiltæk í augnablikinu. Vinsamlegast reyndu aftur síðar.",
+    "SBSL_ERROR_TITLE": "Villa",
+    "SBSL_ERROR_USER_NOTFOUND": "Notandi fannst ekki, óviðkomandi. Vinsamlegast athugaðu notandann.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Græjugögn eru ekki tiltæk eins og er.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Opna yfirlit yfir forrit",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services er ekki í boði núna. Smelltu á hnappinn til að fá aðgang að appalistanum.",
+    "SBSL_GOTO_SMART_GRID": "Farðu í Apps",
+    "SBSL_LOGIN_BUTTON": "Skráðu þig inn á Microsoft 365",
+    "SBSL_LOGIN_DESC": "til að fá aðgang að skýjagögnunum þínum",
+    "SBSL_LOGIN_LABEL": "Skráðu þig inn með Microsoft 365 reikningnum þínum",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

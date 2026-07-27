@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Adresse",
+    "DIGITAL_CARD_EMAIL": "E-Mail",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Zugang",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Informationen nicht verfügbar.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Leider sind die Widget-Dienste vorübergehend nicht verfügbar. Bitte versuche es später erneut.",
+    "DIGITAL_CARD_ERROR_TITLE": "Fehler",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Benutzer nicht gefunden, nicht autorisiert. Bitte überprüfe den Benutzer.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Widget-Daten derzeit nicht verfügbar.",
+    "DIGITAL_CARD_JOB_TITLE": "Berufsbezeichnung",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Anmelden bei Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "um auf deine Cloud-Daten zuzugreifen",
+    "DIGITAL_CARD_LOGIN_LABEL": "Melde dich mit deinem Microsoft 365-Konto an",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobil",
+    "DIGITAL_CARD_QR_ERROR": "QR-Code kann nicht geladen werden, bitte versuch es nochmal",
+    "DIGITAL_CARD_SHOW_QR_CODE": "QR-Code anzeigen",
+    "DIGITAL_CARD_WIDGET_ERROR": "Widget kann nicht geladen werden, bitte versuch es später noch einmal"
+}

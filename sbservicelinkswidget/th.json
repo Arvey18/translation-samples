@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "เข้าถึง",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "ไม่มีข้อมูล.",
+    "SBSL_ERROR_INTERNAL_SERVER": "ขออภัย บริการวิดเจ็ตไม่สามารถใช้งานได้ชั่วคราว กรุณาลองใหม่อีกครั้งในภายหลัง.",
+    "SBSL_ERROR_TITLE": "ข้อผิดพลาด",
+    "SBSL_ERROR_USER_NOTFOUND": "ไม่พบผู้ใช้ ไม่ได้รับอนุญาต กรุณาตรวจสอบผู้ใช้",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "ไม่มีข้อมูลวิดเจ็ตในขณะนี้",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "เปิดภาพรวมแอปพลิเคชัน",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services ไม่พร้อมใช้งานในขณะนี้ คลิกปุ่มเพื่อเข้าถึงรายการแอพฯ",
+    "SBSL_GOTO_SMART_GRID": "ไปที่แอป",
+    "SBSL_LOGIN_BUTTON": "ลงชื่อเข้าใช้ Microsoft 365",
+    "SBSL_LOGIN_DESC": "เพื่อเข้าถึงข้อมูลคลาวด์ของคุณ",
+    "SBSL_LOGIN_LABEL": "ลงชื่อเข้าใช้ด้วยบัญชี Microsoft 365 ของคุณ",
+    "SBSL_LOGIN_TITLE": "ไมโครซอฟต์ 365"
+}

@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Запазване в Моите приложения",
+    "SL_HEADLINE_GLOBAL_APPS": "Глобални приложения",
+    "SL_HEADLINE_MY_APPS": "Моите приложения",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Моля, използвай търсенето или кликни бутоните по-долу, за да намериш приложения, които можеш да добавиш в отметки, като кликнеш върху иконата със звезда",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Още не са ти назначени приложения или не си запазил(а) никакви отметки.",
+    "SL_NO_MATCHING_TITLE": "Няма съответстващи резултати",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Премахване от Моите приложения",
+    "SL_SORTING_MODAL_DESCRIPTION": "Искате ли да нулирате използването за всички маркирани приложения до нула?",
+    "SL_SORTING_MODAL_NO_LABEL": "Не",
+    "SL_SORTING_MODAL_TITLE": "Нулиране на използването",
+    "SL_SORTING_MODAL_YES_LABEL": "да",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Азбучен ред",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Сортиране по:",
+    "SL_SORTING_SETTING_RESET": "Нулиране на използването",
+    "SL_SORTING_SETTING_USAGE": "Използване"
+}

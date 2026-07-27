@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Pesha maksimale e zbritur\/dërgesa",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Numri maksimal i dërgesave\/tremujori",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Numri maksimal i dërgesave\/vit",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Numri maksimal i dërgesave\/muaj",
+    "ESMS_MAX_SHIPMENT": "Zbritje maksimale",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Pesha maksimale totale e dërgesës\/vit",
+    "ESMS_NO_LIMIT": "Pa kufi",
+    "ESMS_REMAINING": "prej {{total}} kg të përdorur",
+    "ESMS_SOMETHING_WENT_WRONG": "Dicka shkoi keq!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Ju lutemi kontaktoni administratorin e ESMS.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Na vjen keq që nuk keni qasje në këto shërbime",
+    "ESMS_UNAUTHORIZED_TITLE": "Nuk ka qasje",
+    "ESMS_USED": "të përdorura"
+}

@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Access",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Information unavailable.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Sorry, Widget services are temporarily unavailable. Please try again later.",
+    "SBSL_ERROR_TITLE": "Error",
+    "SBSL_ERROR_USER_NOTFOUND": "User not found, Unauthorized. Please check the user.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Widget data currently not available.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Open Apps Overview",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services is currently unavailable. Please click the button to access the Apps list.",
+    "SBSL_GOTO_SMART_GRID": "Go to Apps",
+    "SBSL_LOGIN_BUTTON": "Sign into Microsoft 365",
+    "SBSL_LOGIN_DESC": "to access your cloud data",
+    "SBSL_LOGIN_LABEL": "Sign in with your Microsoft 365 account",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

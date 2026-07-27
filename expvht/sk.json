@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "Informácie sú nedostupné",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "Ľutujeme, informácie o postupe sa vzťahujú iba na kolegov z DHL Express. Svoje aktivity si stále môžete pozrieť na stránke Volunteers at Express.",
+    "VHT_SOMETHING_WENT_WRONG": "Niečo sa pokazilo!",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "Prosím, kontaktujte dobrovoľníkov u administrátora DHL.",
+    "VHT_WIDGET_BRONZE_MEDAL": "Bronzová",
+    "VHT_WIDGET_COUNTRY": "Krajina",
+    "VHT_WIDGET_GLOBAL": "globálne",
+    "VHT_WIDGET_GOLD_MEDAL": "Zlato",
+    "VHT_WIDGET_HOURS_SPENT": "hodín strávených v {{total}} dobrovoľných aktivitách",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "Neexistujú žiadne údaje na zobrazenie",
+    "VHT_WIDGET_REGIONAL": "Regionálne",
+    "VHT_WIDGET_SILVER_MEDAL": "Strieborná",
+    "VHT_WIDGET_TOP_PERCENT": "Top {{precent}} %",
+    "VHT_WIDGET_VOLUNTEER_NOW": "Staňte sa dobrovoľníkom!"
+}

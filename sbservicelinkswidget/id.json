@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Mengakses",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Informasi tidak tersedia.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Maaf, layanan Widget untuk sementara tidak tersedia. Silakan coba lagi nanti.",
+    "SBSL_ERROR_TITLE": "Kesalahan",
+    "SBSL_ERROR_USER_NOTFOUND": "Pengguna tidak ditemukan, Tidak sah. Silakan periksa pengguna.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Data widget saat ini tidak tersedia.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Buka Ikhtisar Aplikasi",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services saat ini tidak tersedia. Klik tombol untuk mengakses daftar aplikasi.",
+    "SBSL_GOTO_SMART_GRID": "Buka Apps",
+    "SBSL_LOGIN_BUTTON": "Masuk ke Microsoft 365",
+    "SBSL_LOGIN_DESC": "untuk mengakses data cloud Anda",
+    "SBSL_LOGIN_LABEL": "Masuk dengan akun Microsoft 365 Anda",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

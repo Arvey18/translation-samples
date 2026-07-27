@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}}公斤",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "最大折扣重量\/運費",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "最大出貨量\/季",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "最大出貨量\/年",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "最大出貨量\/月",
+    "ESMS_MAX_SHIPMENT": "最大折扣",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "貨物最大總重量 \/年",
+    "ESMS_NO_LIMIT": "沒有限制",
+    "ESMS_REMAINING": "使用了{{total}}公斤",
+    "ESMS_SOMETHING_WENT_WRONG": "出了點問題！",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "請聯絡 ESMS 管理員。",
+    "ESMS_UNAUTHORIZED_MESSAGE": "抱歉，您無權使用此服務",
+    "ESMS_UNAUTHORIZED_TITLE": "無法訪問",
+    "ESMS_USED": "已經使用"
+}

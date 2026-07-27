@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "ការចូលប្រើ",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "ព័ត៌មានមិនអាចប្រើបានទេ។",
+    "SBSL_ERROR_INTERNAL_SERVER": "សូមអភ័យទោស សេវាកម្ម Widget មិនអាចប្រើបានជាបណ្ដោះអាសន្នទេ។ សូម​ព្យាយាម​ម្តង​ទៀត​នៅ​ពេល​ក្រោយ។",
+    "SBSL_ERROR_TITLE": "កំហុស",
+    "SBSL_ERROR_USER_NOTFOUND": "រកមិនឃើញអ្នកប្រើប្រាស់ គ្មានការអនុញ្ញាត។ សូមពិនិត្យមើលអ្នកប្រើប្រាស់។",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "ទិន្នន័យធាតុក្រាហ្វិកបច្ចុប្បន្នមិនមានទេ។",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "បើកការពិពណ៌នាពីកម្មវិធី",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services មិនមានសម្រាប់ប្រើប្រាស់នៅពេលនេះទេ។ ចុចប៊ូតុងដើម្បីចូលទៅកាន់បញ្ជីកម្មវិធី។",
+    "SBSL_GOTO_SMART_GRID": "ចូលទៅកាន់កម្មវិធី",
+    "SBSL_LOGIN_BUTTON": "ចូល Microsoft 365",
+    "SBSL_LOGIN_DESC": "ដើម្បីចូលប្រើទិន្នន័យពពករបស់អ្នក។",
+    "SBSL_LOGIN_LABEL": "ចូលដោយប្រើគណនី Microsoft 365 របស់អ្នក។",
+    "SBSL_LOGIN_TITLE": "ក្រុមហ៊ុន Microsoft 365"
+}

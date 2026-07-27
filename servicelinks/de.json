@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Zu Meine Apps hinzufügen",
+    "SL_HEADLINE_GLOBAL_APPS": "Globale Apps",
+    "SL_HEADLINE_MY_APPS": "Meine Apps",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Bitte benutze die Suche oder klicke auf die unten stehenden Buttons, um Apps zu finden, die du mit einem Klick auf das Stern-Icon als Lesezeichen speichern kannst",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Du hast noch keine Apps zugewiesen bekommen oder als Lesezeichen gespeichert.",
+    "SL_NO_MATCHING_TITLE": "Keine passenden Ergebnisse gefunden.",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Lesezeichen aus Meine Apps entfernen",
+    "SL_SORTING_MODAL_DESCRIPTION": "Möchten Sie die Nutzung aller mit Lesezeichen versehenen Apps auf Null zurücksetzen?",
+    "SL_SORTING_MODAL_NO_LABEL": "NEIN",
+    "SL_SORTING_MODAL_TITLE": "Nutzung zurücksetzen",
+    "SL_SORTING_MODAL_YES_LABEL": "Ja",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alphabetisch",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Sortiere nach:",
+    "SL_SORTING_SETTING_RESET": "Nutzung zurücksetzen",
+    "SL_SORTING_SETTING_USAGE": "Verwendung"
+}

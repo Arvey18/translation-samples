@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Од",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "До",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Ресетуј",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Претрага",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Пронађи задатак",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Извор",
+    "MT_ICON_IN_THE_HEADER": "икону у заглављу да бисте је променили.",
+    "MT_NO_RESULT_MESSAGE": "Нема доступних задатака са вашим тренутним филтером или претрагом.",
+    "MT_NO_TASK_AVAILABLE": "Нема доступних задатака са вашим тренутним подешавањима.",
+    "MT_OVERDUE_LABEL": "Доспело",
+    "MT_PLEASE_CLICK": "Молимо кликните",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Молимо покушајте поново касније.",
+    "MT_PRIORITY_LABEL": "Приоритет",
+    "MT_SEE_OTHER_TASKS": "Погледајте друге задатке",
+    "MT_SOMETHING_WENT_WRONG": "Нешто је пошло по злу!",
+    "MT_SOURCE": "Извор",
+    "MT_TASK_CARD_DUE_LABEL": "Доспело:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Тренутно не можемо да учитамо ваше задатке.",
+    "MT_UPCOMING_LABEL": "Предстојеће",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Нема података за приказивање."
+}

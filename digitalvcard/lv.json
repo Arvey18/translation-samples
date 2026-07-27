@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Adrese",
+    "DIGITAL_CARD_EMAIL": "E-pasts",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Piekļuve",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Informācija nav pieejama.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Atvainojiet, logrīku pakalpojumi īslaicīgi nav pieejami. Lūdzu, pamēģiniet vēlreiz vēlāk.",
+    "DIGITAL_CARD_ERROR_TITLE": "Kļūda",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Lietotājs nav atrasts, nesankcionēts. Lūdzu, pārbaudiet lietotāju.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Logrīku dati pašlaik nav pieejami.",
+    "DIGITAL_CARD_JOB_TITLE": "Amats",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Pierakstieties pakalpojumā Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "lai piekļūtu saviem mākoņa datiem",
+    "DIGITAL_CARD_LOGIN_LABEL": "Pierakstieties ar savu Microsoft 365 kontu",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobilais",
+    "DIGITAL_CARD_QR_ERROR": "Nevar ielādēt QR kodu, lūdzu, mēģini vēlreiz",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Rādīt QR kodu",
+    "DIGITAL_CARD_WIDGET_ERROR": "Nevar ielādēt widget, lūdzu, mēģini vēlāk"
+}

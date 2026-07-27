@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} кг",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Максимальный вес\/отгрузка со скидкой",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Макс. количество отгрузок\/квартал",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Макс. количество поставок\/год",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Макс. количество отгрузок\/месяц",
+    "ESMS_MAX_SHIPMENT": "Максимальная скидка",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Максимальный общий вес отгрузки\/год",
+    "ESMS_NO_LIMIT": "Безлимитный",
+    "ESMS_REMAINING": "использовано {{total}} кг",
+    "ESMS_SOMETHING_WENT_WRONG": "Что-то пошло не так!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Пожалуйста, свяжитесь с администратором ESMS.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "К сожалению, у вас нет доступа к этим услугам.",
+    "ESMS_UNAUTHORIZED_TITLE": "Нет доступа",
+    "ESMS_USED": "использовал"
+}

@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "অ্যাক্সেস",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "তথ্য অনুপলব্ধ.",
+    "SBSL_ERROR_INTERNAL_SERVER": "দুঃখিত, উইজেট পরিষেবাগুলি সাময়িকভাবে অনুপলব্ধ৷ অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন।",
+    "SBSL_ERROR_TITLE": "ত্রুটি",
+    "SBSL_ERROR_USER_NOTFOUND": "ব্যবহারকারী পাওয়া যায়নি, অননুমোদিত. ব্যবহারকারী চেক করুন.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "উইজেট ডেটা বর্তমানে উপলব্ধ নয়।",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "অ্যাপসের সারসংক্ষেপ খুলুন",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services বর্তমানে উপলব্ধ নেই। অ্যাপস তালিকা অ্যাক্সেস করতে বোতামে ক্লিক করুন।",
+    "SBSL_GOTO_SMART_GRID": "অ্যাপগুলিতে যান",
+    "SBSL_LOGIN_BUTTON": "Microsoft 365 এ সাইন ইন করুন",
+    "SBSL_LOGIN_DESC": "আপনার ক্লাউড ডেটা অ্যাক্সেস করতে",
+    "SBSL_LOGIN_LABEL": "আপনার Microsoft 365 অ্যাকাউন্ট দিয়ে সাইন ইন করুন",
+    "SBSL_LOGIN_TITLE": "মাইক্রোসফট 365"
+}

@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "Teave pole saadaval",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "Kahjuks kehtib teave edenemise kohta ainult DHL Expressi kolleegidele. Oma tegevusi saate endiselt vaadata saidil Vabatahtlikud Expressis.",
+    "VHT_SOMETHING_WENT_WRONG": "Midagi läks valesti!",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "Palun võtke ühendust vabatahtlikega DHL administraatoriga.",
+    "VHT_WIDGET_BRONZE_MEDAL": "Pronks",
+    "VHT_WIDGET_COUNTRY": "Riik",
+    "VHT_WIDGET_GLOBAL": "Globaalne",
+    "VHT_WIDGET_GOLD_MEDAL": "Kuldne",
+    "VHT_WIDGET_HOURS_SPENT": "tunnid, mis kulutasid {{total}} vabatahtlikele tegevustele",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "Kuvatavaid andmeid pole",
+    "VHT_WIDGET_REGIONAL": "Piirkondlik",
+    "VHT_WIDGET_SILVER_MEDAL": "Hõbedane",
+    "VHT_WIDGET_TOP_PERCENT": "Ülemine {{precent}} %",
+    "VHT_WIDGET_VOLUNTEER_NOW": "Olge nüüd vabatahtlik!"
+}

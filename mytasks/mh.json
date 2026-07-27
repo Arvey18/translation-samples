@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "je.",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Kwo",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "kijien bōk.",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "kijien.",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Kijien taak.",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "jikin.",
+    "MT_ICON_IN_THE_HEADER": "jān jān jān jān.",
+    "MT_NO_RESULT_MESSAGE": "Ej jab in taak jikin im kijen in filter ak kijien.",
+    "MT_NO_TASK_AVAILABLE": "Aolep jān jān ej an jān jān.",
+    "MT_OVERDUE_LABEL": "Bōk in ej kwoj",
+    "MT_PLEASE_CLICK": "Jebōn kīr",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Jebōn kīr jān jān.",
+    "MT_PRIORITY_LABEL": "Priority",
+    "MT_SEE_OTHER_TASKS": "Kōmāna jān jān",
+    "MT_SOMETHING_WENT_WRONG": "Jān jān jān!",
+    "MT_SOURCE": "Jelā",
+    "MT_TASK_CARD_DUE_LABEL": "Bōk:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Jān jān jān.",
+    "MT_UPCOMING_LABEL": "Kwoj in jikin.",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": ""
+}

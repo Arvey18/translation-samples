@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Adresa",
+    "DIGITAL_CARD_EMAIL": "E-mail",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Přístup",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Informace nejsou k dispozici.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Litujeme, služby widgetů jsou dočasně nedostupné. Prosím zkuste to znovu později.",
+    "DIGITAL_CARD_ERROR_TITLE": "Chyba",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Uživatel nenalezen, neoprávněný. Zkontrolujte prosím uživatele.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Data widgetu momentálně nejsou k dispozici.",
+    "DIGITAL_CARD_JOB_TITLE": "Pracovní pozice",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Přihlaste se k Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "pro přístup k vašim cloudovým datům",
+    "DIGITAL_CARD_LOGIN_LABEL": "Přihlaste se pomocí účtu Microsoft 365",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobil",
+    "DIGITAL_CARD_QR_ERROR": "Nelze načíst QR kód, zkus to prosím znovu",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Zobrazit QR kód",
+    "DIGITAL_CARD_WIDGET_ERROR": "Nelze načíst widget, zkus to prosím později"
+}

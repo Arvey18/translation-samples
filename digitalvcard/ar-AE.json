@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "العنوان",
+    "DIGITAL_CARD_EMAIL": "البريد الإلكتروني",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "وصول",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "المعلومات غير متوفرة.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "عذرًا، خدمات الأدوات غير متاحة مؤقتًا. الرجاء معاودة المحاولة في وقت لاحق.",
+    "DIGITAL_CARD_ERROR_TITLE": "خطأ",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "لم يتم العثور على المستخدم، غير مصرح به. يرجى التحقق من المستخدم.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "بيانات القطعة غير متوفرة حاليا.",
+    "DIGITAL_CARD_JOB_TITLE": "المسمى الوظيفي",
+    "DIGITAL_CARD_LOGIN_BUTTON": "قم بتسجيل الدخول إلى مايكروسوفت 365",
+    "DIGITAL_CARD_LOGIN_DESC": "للوصول إلى البيانات السحابية الخاصة بك",
+    "DIGITAL_CARD_LOGIN_LABEL": "قم بتسجيل الدخول باستخدام حساب Microsoft 365 الخاص بك",
+    "DIGITAL_CARD_LOGIN_TITLE": "مايكروسوفت 365",
+    "DIGITAL_CARD_MOBILE": "الهاتف المحمول",
+    "DIGITAL_CARD_QR_ERROR": "لم نتمكن من تحميل رمز الاستجابة السريعة، حاول مرة أخرى من فضلك",
+    "DIGITAL_CARD_SHOW_QR_CODE": "عرض رمز الاستجابة السريعة",
+    "DIGITAL_CARD_WIDGET_ERROR": "لم نتمكن من تحميل الودجت، حاول مرة أخرى لاحقًا من فضلك"
+}

@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Uygulamalarım'a Yer İmi Ekle",
+    "SL_HEADLINE_GLOBAL_APPS": "Küresel Uygulamalar",
+    "SL_HEADLINE_MY_APPS": "Uygulamalarım",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Lütfen aramayı kullan veya aşağıdaki düğmelere tıklayarak yıldız simgesine tıklayarak yer işaretlerine ekleyebileceğin uygulamaları bul",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Henüz atanmış uygulaman yok veya yer imi eklememişsin.",
+    "SL_NO_MATCHING_TITLE": "Eşleşen sonuç yok",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Uygulamalarım'dan Yer İmini Kaldır",
+    "SL_SORTING_MODAL_DESCRIPTION": "Yer imlerine eklenmiş tüm uygulamaların kullanımını sıfıra sıfırlamak istiyor musunuz?",
+    "SL_SORTING_MODAL_NO_LABEL": "HAYIR",
+    "SL_SORTING_MODAL_TITLE": "Kullanımı Sıfırla",
+    "SL_SORTING_MODAL_YES_LABEL": "Evet",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alfabetik",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Göre sırala:",
+    "SL_SORTING_SETTING_RESET": "Kullanımı Sıfırla",
+    "SL_SORTING_SETTING_USAGE": "Kullanım"
+}

@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Dostęp",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Informacje niedostępne.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Przepraszamy, usługi widgetów są chwilowo niedostępne. Spróbuj ponownie później.",
+    "SBSL_ERROR_TITLE": "Błąd",
+    "SBSL_ERROR_USER_NOTFOUND": "Nie znaleziono użytkownika. Nieautoryzowany. Proszę sprawdzić użytkownika.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Dane widżetu są obecnie niedostępne.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Otwórz przegląd aplikacji",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services jest obecnie niedostępny. Kliknij przycisk, aby uzyskać dostęp do listy aplikacji.",
+    "SBSL_GOTO_SMART_GRID": "Przejdź do Apps",
+    "SBSL_LOGIN_BUTTON": "Zaloguj się do Microsoft 365",
+    "SBSL_LOGIN_DESC": "aby uzyskać dostęp do danych w chmurze",
+    "SBSL_LOGIN_LABEL": "Zaloguj się przy użyciu konta Microsoft 365",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

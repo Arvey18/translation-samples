@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "daripada",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Kepada",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Tetapkan semula",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Cari",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Cari Tugasan",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Sumber",
+    "MT_ICON_IN_THE_HEADER": "ikon dalam pengepala untuk menukarnya.",
+    "MT_NO_RESULT_MESSAGE": "Tiada Tugas Tersedia dengan penapis semasa atau istilah carian anda.",
+    "MT_NO_TASK_AVAILABLE": "Tiada tugas tersedia dengan tetapan semasa anda.",
+    "MT_OVERDUE_LABEL": "Tertunggak",
+    "MT_PLEASE_CLICK": "Sila klik",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Sila cuba lagi kemudian.",
+    "MT_PRIORITY_LABEL": "Keutamaan",
+    "MT_SEE_OTHER_TASKS": "Lihat Tugasan lain",
+    "MT_SOMETHING_WENT_WRONG": "Ada yang tidak kena!",
+    "MT_SOURCE": "Sumber",
+    "MT_TASK_CARD_DUE_LABEL": "tarikh akhir:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Kami tidak dapat memuatkan tugas anda pada masa ini.",
+    "MT_UPCOMING_LABEL": "Akan datang",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Tiada data untuk dipaparkan."
+}

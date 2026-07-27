@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "ពី",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "ទៅ",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "កំណត់ឡើងវិញ",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "ស្វែងរក",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "ស្វែងរកកិច្ចការ",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "ប្រភព",
+    "MT_ICON_IN_THE_HEADER": "រូបតំណាងនៅក្នុងបឋមកថាដើម្បីផ្លាស់ប្តូរវា។",
+    "MT_NO_RESULT_MESSAGE": "មិនមានកិច្ចការដែលមានជាមួយតម្រង ឬពាក្យស្វែងរកបច្ចុប្បន្នរបស់អ្នកទេ។",
+    "MT_NO_TASK_AVAILABLE": "មិនមានកិច្ចការដែលមានជាមួយការកំណត់បច្ចុប្បន្នរបស់អ្នកទេ។",
+    "MT_OVERDUE_LABEL": "ហួសកំណត់",
+    "MT_PLEASE_CLICK": "សូមចុច",
+    "MT_PLEASE_TRY_AGAIN_LATER": "សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។",
+    "MT_PRIORITY_LABEL": "អាទិភាព",
+    "MT_SEE_OTHER_TASKS": "មើលកិច្ចការផ្សេងទៀត។",
+    "MT_SOMETHING_WENT_WRONG": "មាន​អ្វី​មួយ​ខុស!",
+    "MT_SOURCE": "ប្រភព",
+    "MT_TASK_CARD_DUE_LABEL": "ដល់កំណត់៖",
+    "MT_UNABLE_TO_LOAD_TASKS": "យើងមិនអាចផ្ទុកកិច្ចការរបស់អ្នកបានទេនៅពេលនេះ។",
+    "MT_UPCOMING_LABEL": "នាពេលខាងមុខ",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "មិនមានទិន្នន័យដែលត្រូវបង្ហាញទេ។"
+}

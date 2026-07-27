@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Μη διαθέσιμες πληροφορίες",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Λυπούμαστε, οι πληροφορίες προόδου ισχύουν μόνο για τους συναδέλφους της DHL Express. Μπορείτε ακόμα να δείτε τις δραστηριότητές σας στην τοποθεσία Εθελοντές στο Express.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Κάτι πήγε στραβά!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Παρακαλώ επικοινωνήστε με τους Εθελοντές στον διαχειριστή DHL.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "Μπρούντζος",
+    "VHT_GROUP_WIDGET_COUNTRY": "Χώρα",
+    "VHT_GROUP_WIDGET_GLOBAL": "Παγκόσμια",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Χρυσός",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "ώρες που αφιερώθηκαν σε {{total}} εθελοντικές δραστηριότητες",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Δεν υπάρχουν δεδομένα προς εμφάνιση",
+    "VHT_GROUP_WIDGET_REGIONAL": "Περιφερειακό",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Ασήμι",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Κορυφαία {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Γίνε εθελοντής τώρα!"
+}

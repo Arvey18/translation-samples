@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Adicionar aos favoritos nos Meus Aplicativos",
+    "SL_HEADLINE_GLOBAL_APPS": "Aplicações Globais",
+    "SL_HEADLINE_MY_APPS": "Minhas Aplicações",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Por favor, usa a pesquisa ou clica nos botões abaixo para encontrar apps que podes adicionar aos favoritos clicando no ícone de estrela",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Você ainda não tem aplicativos atribuídos ou favoritos salvos.",
+    "SL_NO_MATCHING_TITLE": "Nenhum resultado correspondente",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Remover dos favoritos nos Meus Aplicativos",
+    "SL_SORTING_MODAL_DESCRIPTION": "Deseja redefinir o uso de todos os aplicativos marcados para zero?",
+    "SL_SORTING_MODAL_NO_LABEL": "Não",
+    "SL_SORTING_MODAL_TITLE": "Redefinir uso",
+    "SL_SORTING_MODAL_YES_LABEL": "Sim",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alfabético",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Ordenar por:",
+    "SL_SORTING_SETTING_RESET": "Redefinir uso",
+    "SL_SORTING_SETTING_USAGE": "Uso"
+}

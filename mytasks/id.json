@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Dari",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Ke",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Mengatur ulang",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Mencari",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Temukan Tugas",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Sumber",
+    "MT_ICON_IN_THE_HEADER": "di header untuk mengubahnya.",
+    "MT_NO_RESULT_MESSAGE": "Tidak ada Tugas yang Tersedia dengan filter atau istilah pencarian Anda saat ini.",
+    "MT_NO_TASK_AVAILABLE": "Tidak ada tugas yang tersedia dengan pengaturan Anda saat ini.",
+    "MT_OVERDUE_LABEL": "Terlambat",
+    "MT_PLEASE_CLICK": "Silahkan klik",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Silakan coba lagi nanti.",
+    "MT_PRIORITY_LABEL": "Prioritas",
+    "MT_SEE_OTHER_TASKS": "Lihat Tugas Lainnya",
+    "MT_SOMETHING_WENT_WRONG": "Ada yang Salah!",
+    "MT_SOURCE": "Sumber",
+    "MT_TASK_CARD_DUE_LABEL": "Jatuh tempo:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Kami tidak dapat memuat tugas Anda saat ini.",
+    "MT_UPCOMING_LABEL": "Mendatang",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Tidak ada data yang akan ditampilkan."
+}

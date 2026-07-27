@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Informacije niso na voljo",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Oprostite, informacije o napredku veljajo samo za sodelavce DHL Express. Še vedno si lahko ogledate svoje dejavnosti na spletnem mestu Volunteers at Express.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Nekaj ​​je šlo narobe!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Prosimo, kontaktirajte prostovoljce pri administratorju DHL.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "bron",
+    "VHT_GROUP_WIDGET_COUNTRY": "Država",
+    "VHT_GROUP_WIDGET_GLOBAL": "Globalno",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "zlato",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "ur, porabljenih za {{total}} prostovoljne dejavnosti",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Ni podatkov za prikaz",
+    "VHT_GROUP_WIDGET_REGIONAL": "Regionalni",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Srebrna",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Najboljši {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Prostovoljec zdaj!"
+}

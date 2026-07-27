@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Zugang",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Informationen nicht verfügbar.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Leider sind die Widget-Dienste vorübergehend nicht verfügbar. Bitte versuche es später erneut.",
+    "SBSL_ERROR_TITLE": "Fehler",
+    "SBSL_ERROR_USER_NOTFOUND": "Benutzer nicht gefunden, nicht autorisiert. Bitte überprüfe den Benutzer.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Widget-Daten derzeit nicht verfügbar.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Apps-Übersicht öffnen",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services ist momentan nicht verfügbar. Klick auf den Button, um zur App-Liste zu gelangen.",
+    "SBSL_GOTO_SMART_GRID": "Zu den Apps",
+    "SBSL_LOGIN_BUTTON": "Anmelden bei Microsoft 365",
+    "SBSL_LOGIN_DESC": "um auf deine Cloud-Daten zuzugreifen",
+    "SBSL_LOGIN_LABEL": "Melde dich mit deinem Microsoft 365-Konto an",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

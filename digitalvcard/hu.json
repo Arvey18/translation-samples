@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Cím",
+    "DIGITAL_CARD_EMAIL": "E-mail",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Hozzáférés",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Információ nem elérhető.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Sajnáljuk, a Widget szolgáltatások átmenetileg nem érhetők el. Kérlek, próbáld újra később.",
+    "DIGITAL_CARD_ERROR_TITLE": "Hiba",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Felhasználó nem található, jogosulatlan. Kérjük, ellenőrizze a felhasználót.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "A moduladatok jelenleg nem állnak rendelkezésre.",
+    "DIGITAL_CARD_JOB_TITLE": "Munkakör",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Jelentkezzen be a Microsoft 365-be",
+    "DIGITAL_CARD_LOGIN_DESC": "hogy hozzáférjen felhőadataihoz",
+    "DIGITAL_CARD_LOGIN_LABEL": "Jelentkezzen be Microsoft 365-fiókjával",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobil",
+    "DIGITAL_CARD_QR_ERROR": "A QR kódot nem lehet betölteni, kérlek, próbáld újra",
+    "DIGITAL_CARD_SHOW_QR_CODE": "QR kód megjelenítése",
+    "DIGITAL_CARD_WIDGET_ERROR": "A widgetet nem lehet betölteni, kérlek, próbáld később"
+}

@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Od",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Do",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Obnoviť",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Hľadať",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Nájsť úlohu",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Zdroj",
+    "MT_ICON_IN_THE_HEADER": "ikonu v hlavičke, ak ju chcete zmeniť.",
+    "MT_NO_RESULT_MESSAGE": "Pre váš aktuálny filter alebo vyhľadávací výraz nie sú k dispozícii žiadne úlohy.",
+    "MT_NO_TASK_AVAILABLE": "S vašimi aktuálnymi nastaveniami nie sú k dispozícii žiadne úlohy.",
+    "MT_OVERDUE_LABEL": "Po termíne",
+    "MT_PLEASE_CLICK": "Kliknite prosím",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Skúste to znova neskôr.",
+    "MT_PRIORITY_LABEL": "Priorita",
+    "MT_SEE_OTHER_TASKS": "Zobraziť ďalšie úlohy",
+    "MT_SOMETHING_WENT_WRONG": "Niečo sa pokazilo!",
+    "MT_SOURCE": "Zdroj",
+    "MT_TASK_CARD_DUE_LABEL": "Dátum splatnosti:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Momentálne sa nám nepodarilo načítať vaše úlohy.",
+    "MT_UPCOMING_LABEL": "Nadchádzajúce",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Nie sú k dispozícii žiadne údaje na zobrazenie."
+}

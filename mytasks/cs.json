@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Z",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Na",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Obnovit",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Vyhledávání",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Najít úkol",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Zdroj",
+    "MT_ICON_IN_THE_HEADER": "ikonu v záhlaví pro změnu.",
+    "MT_NO_RESULT_MESSAGE": "Pro váš aktuální filtr nebo vyhledávací dotaz nejsou k dispozici žádné úkoly.",
+    "MT_NO_TASK_AVAILABLE": "S vaším aktuálním nastavením nejsou k dispozici žádné úkoly.",
+    "MT_OVERDUE_LABEL": "Po splatnosti",
+    "MT_PLEASE_CLICK": "Klikněte prosím",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Zkuste to prosím znovu později.",
+    "MT_PRIORITY_LABEL": "Přednost",
+    "MT_SEE_OTHER_TASKS": "Zobrazit další úkoly",
+    "MT_SOMETHING_WENT_WRONG": "Něco se pokazilo!",
+    "MT_SOURCE": "Zdroj",
+    "MT_TASK_CARD_DUE_LABEL": "Splatné:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Momentálně se nám nedaří načíst vaše úkoly.",
+    "MT_UPCOMING_LABEL": "Nadcházející",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Nejsou k dispozici žádná data k zobrazení."
+}

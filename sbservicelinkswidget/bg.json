@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Достъп",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Няма налична информация.",
+    "SBSL_ERROR_INTERNAL_SERVER": "За съжаление услугите на Widget временно не са достъпни. Моля, опитайте отново по-късно.",
+    "SBSL_ERROR_TITLE": "Грешка",
+    "SBSL_ERROR_USER_NOTFOUND": "Потребителят не е намерен, неупълномощен. Моля, проверете потребителя.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Понастоящем няма налични данни за джаджи.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Отворете преглед на приложенията",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services в момента не е наличен. Моля, кликнете върху бутона, за да получите достъп до списъка с приложения.",
+    "SBSL_GOTO_SMART_GRID": "Отидете на Apps",
+    "SBSL_LOGIN_BUTTON": "Влезте в Microsoft 365",
+    "SBSL_LOGIN_DESC": "за достъп до вашите облачни данни",
+    "SBSL_LOGIN_LABEL": "Влезте с вашия акаунт в Microsoft 365",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

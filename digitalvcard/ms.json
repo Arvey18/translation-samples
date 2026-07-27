@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Alamat",
+    "DIGITAL_CARD_EMAIL": "E-mel",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Akses",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Maklumat tidak tersedia.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Maaf, perkhidmatan Widget tidak tersedia buat sementara waktu. Sila cuba sebentar lagi.",
+    "DIGITAL_CARD_ERROR_TITLE": "ralat",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Pengguna tidak ditemui, Tidak dibenarkan. Sila semak pengguna.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Data widget tidak tersedia pada masa ini.",
+    "DIGITAL_CARD_JOB_TITLE": "Jawatan",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Log masuk ke Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "untuk mengakses data awan anda",
+    "DIGITAL_CARD_LOGIN_LABEL": "Log masuk dengan akaun Microsoft 365 anda",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mudah alih",
+    "DIGITAL_CARD_QR_ERROR": "Tak boleh muat Kod QR, sila cuba lagi",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Tunjukkan Kod QR",
+    "DIGITAL_CARD_WIDGET_ERROR": "Tak boleh muat widget, sila cuba lagi kemudian"
+}

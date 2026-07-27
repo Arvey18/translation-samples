@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "จาก",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "ถึง",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "รีเซ็ต",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "ค้นหา",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "ค้นหางาน",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "แหล่งที่มา",
+    "MT_ICON_IN_THE_HEADER": "ไอคอนในส่วนหัวเพื่อเปลี่ยนแปลง",
+    "MT_NO_RESULT_MESSAGE": "ไม่มีงานที่ใช้ตัวกรองหรือคำค้นหาปัจจุบันของคุณได้",
+    "MT_NO_TASK_AVAILABLE": "ไม่มีงานที่สามารถใช้ได้กับการตั้งค่าปัจจุบันของคุณ",
+    "MT_OVERDUE_LABEL": "เกินกำหนด",
+    "MT_PLEASE_CLICK": "กรุณาคลิ๊ก",
+    "MT_PLEASE_TRY_AGAIN_LATER": "โปรดลองอีกครั้งในภายหลัง",
+    "MT_PRIORITY_LABEL": "ลำดับความสำคัญ",
+    "MT_SEE_OTHER_TASKS": "ดูงานอื่น ๆ",
+    "MT_SOMETHING_WENT_WRONG": "มีบางอย่างผิดพลาด!",
+    "MT_SOURCE": "แหล่งที่มา",
+    "MT_TASK_CARD_DUE_LABEL": "เนื่องจาก:",
+    "MT_UNABLE_TO_LOAD_TASKS": "เราไม่สามารถโหลดงานของคุณได้ในขณะนี้",
+    "MT_UPCOMING_LABEL": "กำลังจะมีขึ้น",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "ไม่มีข้อมูลที่จะแสดง"
+}

@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Bókamerkja við Mín Forrit",
+    "SL_HEADLINE_GLOBAL_APPS": "Alheimssforrit",
+    "SL_HEADLINE_MY_APPS": "Mín Forrit",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Vinsamlegast notaðu leitina eða smelltu á hnappana hér fyrir neðan til að finna forrit sem þú getur bókamerkt með því að smella á stjörnumerkið",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Þú hefur ekki enn fengið úthlutað forritum eða vistað bókamerki.",
+    "SL_NO_MATCHING_TITLE": "Engar samsvarandi niðurstöður",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Fjarlægja bókamerki úr Mín Forrit",
+    "SL_SORTING_MODAL_DESCRIPTION": "Viltu núllstilla notkun allra bókamerktra forrita?",
+    "SL_SORTING_MODAL_NO_LABEL": "Nei",
+    "SL_SORTING_MODAL_TITLE": "Endurstilla notkun",
+    "SL_SORTING_MODAL_YES_LABEL": "Já",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Stafrófsröð",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Raða eftir:",
+    "SL_SORTING_SETTING_RESET": "Endurstilla notkun",
+    "SL_SORTING_SETTING_USAGE": "Notkun"
+}

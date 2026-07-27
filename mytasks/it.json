@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Da",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "A",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Reset",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Ricerca",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Trova un'attività",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Fonte",
+    "MT_ICON_IN_THE_HEADER": "icona nell'intestazione per modificarla.",
+    "MT_NO_RESULT_MESSAGE": "Non ci sono attività disponibili con il filtro o il termine di ricerca attuale.",
+    "MT_NO_TASK_AVAILABLE": "Non ci sono attività disponibili con le impostazioni attuali.",
+    "MT_OVERDUE_LABEL": "In ritardo",
+    "MT_PLEASE_CLICK": "Per favore clicca",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Riprova più tardi.",
+    "MT_PRIORITY_LABEL": "Priorità",
+    "MT_SEE_OTHER_TASKS": "Vedi altre attività",
+    "MT_SOMETHING_WENT_WRONG": "Qualcosa è andato storto!",
+    "MT_SOURCE": "Fonte",
+    "MT_TASK_CARD_DUE_LABEL": "Dovuto:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Al momento non siamo in grado di caricare le tue attività.",
+    "MT_UPCOMING_LABEL": "Prossimamente",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Non ci sono dati da visualizzare."
+}

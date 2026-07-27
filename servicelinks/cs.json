@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Přidat do Mých Aplikací",
+    "SL_HEADLINE_GLOBAL_APPS": "Globální Aplikace",
+    "SL_HEADLINE_MY_APPS": "Moje Aplikace",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Prosím, použij vyhledávání nebo klikni na tlačítka níže, aby ses našel aplikace, které můžeš přidat do záložek kliknutím na jejich hvězdičku",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Ještě nemáš přiřazené žádné aplikace ani uložené žádné záložky.",
+    "SL_NO_MATCHING_TITLE": "Žádné odpovídající výsledky",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Odebrat záložku z Mých Aplikací",
+    "SL_SORTING_MODAL_DESCRIPTION": "Chcete vynulovat využití všech aplikací se záložkami?",
+    "SL_SORTING_MODAL_NO_LABEL": "Ne",
+    "SL_SORTING_MODAL_TITLE": "Obnovit použití",
+    "SL_SORTING_MODAL_YES_LABEL": "Ano",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Abecední",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Seřazeno podle:",
+    "SL_SORTING_SETTING_RESET": "Obnovit použití",
+    "SL_SORTING_SETTING_USAGE": "Používání"
+}

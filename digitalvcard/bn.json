@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "ঠিকানা",
+    "DIGITAL_CARD_EMAIL": "ইমেইল",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "অ্যাক্সেস",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "তথ্য অনুপলব্ধ.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "দুঃখিত, উইজেট পরিষেবাগুলি সাময়িকভাবে অনুপলব্ধ৷ অনুগ্রহ করে একটু পরে আবার চেষ্টা করুন।",
+    "DIGITAL_CARD_ERROR_TITLE": "ত্রুটি",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "ব্যবহারকারী পাওয়া যায়নি, অননুমোদিত. ব্যবহারকারী চেক করুন.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "উইজেট ডেটা বর্তমানে উপলব্ধ নয়।",
+    "DIGITAL_CARD_JOB_TITLE": "চাকরির শিরোনাম",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Microsoft 365 এ সাইন ইন করুন",
+    "DIGITAL_CARD_LOGIN_DESC": "আপনার ক্লাউড ডেটা অ্যাক্সেস করতে",
+    "DIGITAL_CARD_LOGIN_LABEL": "আপনার Microsoft 365 অ্যাকাউন্ট দিয়ে সাইন ইন করুন",
+    "DIGITAL_CARD_LOGIN_TITLE": "মাইক্রোসফট 365",
+    "DIGITAL_CARD_MOBILE": "মোবাইল",
+    "DIGITAL_CARD_QR_ERROR": "QR কোড লোড করা যাচ্ছে না, দয়া করে আবার চেষ্টা করো",
+    "DIGITAL_CARD_SHOW_QR_CODE": "QR কোড দেখান",
+    "DIGITAL_CARD_WIDGET_ERROR": "উইজেট লোড করা যাচ্ছে না, দয়া করে পরে আবার চেষ্টা করো"
+}

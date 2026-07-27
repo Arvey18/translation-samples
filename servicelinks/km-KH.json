@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "បញ្ចូលក្នុងកម្មវិធីរបស់ខ្ញុំ",
+    "SL_HEADLINE_GLOBAL_APPS": "កម្មវិធីជាសាកល",
+    "SL_HEADLINE_MY_APPS": "កម្មវិធីរបស់ខ្ញុំ",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "សូមប្រើការស្វែងរក ឬចុចប៊ូតុងខាងក្រោម ដើម្បីស្វែងរកកម្មវិធីដែលអ្នកអាចសម្គាល់ដោយចុចរូបតារា",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "អ្នកមិនទាន់បានផ្ដល់កម្មវិធីណាមួយឬរក្សាទុកចំណាំតំណនៅឡើយទេ។",
+    "SL_NO_MATCHING_TITLE": "មិនមានលទ្ធផលដែលត្រូវគ្នាទេ។",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "លុបចេញពីកម្មវិធីរបស់ខ្ញុំ",
+    "SL_SORTING_MODAL_DESCRIPTION": "តើ​អ្នក​ចង់​កំណត់​ការ​ប្រើ​ប្រាស់​ឡើង​វិញ​សម្រាប់​កម្មវិធី​ចំណាំ​ទាំងអស់​ទៅ​សូន្យ​ឬ?",
+    "SL_SORTING_MODAL_NO_LABEL": "ទេ",
+    "SL_SORTING_MODAL_TITLE": "កំណត់ការប្រើប្រាស់ឡើងវិញ",
+    "SL_SORTING_MODAL_YES_LABEL": "បាទ",
+    "SL_SORTING_SETTING_ALPHABETICAL": "អក្ខរក្រម",
+    "SL_SORTING_SETTING_HEADER_TITLE": "តម្រៀបតាម៖",
+    "SL_SORTING_SETTING_RESET": "កំណត់ការប្រើប្រាស់ឡើងវិញ",
+    "SL_SORTING_SETTING_USAGE": "ការប្រើប្រាស់"
+}

@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "وضع إشارة مرجعية إلى تطبيقاتي",
+    "SL_HEADLINE_GLOBAL_APPS": "التطبيقات العالمية",
+    "SL_HEADLINE_MY_APPS": "تطبيقاتي",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "يرجى استخدام البحث أو النقر على الأزرار أدناه للعثور على التطبيقات التي يمكنك وضع إشارة مرجعية عليها بالنقر على رمز النجمة",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "لم يتم تعيين أي تطبيقات لك أو حفظ أي إشارات مرجعية بعد.",
+    "SL_NO_MATCHING_TITLE": "لا يوجد نتائج مطابقة",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "إزالة الإشارة المرجعية من تطبيقاتي",
+    "SL_SORTING_MODAL_DESCRIPTION": "هل تريد إعادة تعيين الاستخدام لجميع التطبيقات التي تم وضع إشارة مرجعية عليها إلى الصفر؟",
+    "SL_SORTING_MODAL_NO_LABEL": "لا",
+    "SL_SORTING_MODAL_TITLE": "إعادة ضبط الاستخدام",
+    "SL_SORTING_MODAL_YES_LABEL": "نعم",
+    "SL_SORTING_SETTING_ALPHABETICAL": "مرتب حسب الحروف الأبجدية",
+    "SL_SORTING_SETTING_HEADER_TITLE": "ترتيب حسب:",
+    "SL_SORTING_SETTING_RESET": "إعادة ضبط الاستخدام",
+    "SL_SORTING_SETTING_USAGE": "الاستخدام"
+}

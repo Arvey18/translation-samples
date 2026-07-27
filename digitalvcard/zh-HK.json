@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "地址",
+    "DIGITAL_CARD_EMAIL": "電子郵件",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "使用權",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "資訊不可用。",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "抱歉，Widget 服務暫時無法使用。請稍後再試。",
+    "DIGITAL_CARD_ERROR_TITLE": "錯誤",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "未找到用戶，未授權。請檢查用戶。",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "小部件資料目前無法使用。",
+    "DIGITAL_CARD_JOB_TITLE": "職位",
+    "DIGITAL_CARD_LOGIN_BUTTON": "登入 Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "存取您的雲端數據",
+    "DIGITAL_CARD_LOGIN_LABEL": "使用您的 Microsoft 365 帳戶登入",
+    "DIGITAL_CARD_LOGIN_TITLE": "微軟365",
+    "DIGITAL_CARD_MOBILE": "手機",
+    "DIGITAL_CARD_QR_ERROR": "無法加載二維碼，請再試一次",
+    "DIGITAL_CARD_SHOW_QR_CODE": "顯示二維碼",
+    "DIGITAL_CARD_WIDGET_ERROR": "無法加載小部件，請稍後再試"
+}

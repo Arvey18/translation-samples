@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Adress",
+    "DIGITAL_CARD_EMAIL": "E-post",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Tillgång",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Information inte tillgänglig.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Widgettjänster är tyvärr inte tillgängliga för tillfället. Vänligen försök igen senare.",
+    "DIGITAL_CARD_ERROR_TITLE": "Fel",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Användaren hittades inte, obehörig. Kontrollera användaren.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Widgetdata är inte tillgänglig för närvarande.",
+    "DIGITAL_CARD_JOB_TITLE": "Jobbtitel",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Logga in på Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "för att komma åt din molndata",
+    "DIGITAL_CARD_LOGIN_LABEL": "Logga in med ditt Microsoft 365-konto",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobil",
+    "DIGITAL_CARD_QR_ERROR": "Kan inte ladda QR-koden, försök igen",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Visa QR-kod",
+    "DIGITAL_CARD_WIDGET_ERROR": "Kan inte ladda widgeten, försök igen senare"
+}

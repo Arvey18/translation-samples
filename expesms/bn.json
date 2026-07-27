@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} কেজি",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "সর্বোচ্চ ছাড়যুক্ত ওজন\/চালনা",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "চালান\/ত্রৈমাসিকের সর্বোচ্চ সংখ্যা",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "চালানের সর্বোচ্চ সংখ্যা\/বছর",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "চালানের সর্বোচ্চ সংখ্যা\/মাস",
+    "ESMS_MAX_SHIPMENT": "সর্বোচ্চ ছাড়",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "চালানের সর্বোচ্চ মোট ওজন\/বছর",
+    "ESMS_NO_LIMIT": "সীমাহীন",
+    "ESMS_REMAINING": "{{total}} কেজি ব্যবহার করা হয়েছে",
+    "ESMS_SOMETHING_WENT_WRONG": "কিছু ভুল হয়েছে!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "ESMS অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।",
+    "ESMS_UNAUTHORIZED_MESSAGE": "দুঃখিত আপনার এই পরিষেবাগুলিতে অ্যাক্সেস নেই৷",
+    "ESMS_UNAUTHORIZED_TITLE": "প্রবেশধিকার নেই",
+    "ESMS_USED": "ব্যবহৃত"
+}

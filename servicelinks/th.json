@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "บุ๊กมาร์กไปที่แอปของฉัน",
+    "SL_HEADLINE_GLOBAL_APPS": "แอปพลิเคชันทั่วโลก",
+    "SL_HEADLINE_MY_APPS": "แอปของฉัน",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "กรุณาใช้การค้นหาหรือคลิกปุ่มด้านล่างเพื่อค้นหาแอปที่คุณสามารถบุ๊กมาร์กได้โดยคลิกที่ไอคอนรูปดาวของพวกเขา",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "คุณยังไม่มีแอปที่กำหนดหรือบุ๊กมาร์กไว้เลย.",
+    "SL_NO_MATCHING_TITLE": "ไม่มีผลลัพธ์ที่ตรงกัน",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "ยกเลิกบุ๊กมาร์กจากแอปของฉัน",
+    "SL_SORTING_MODAL_DESCRIPTION": "คุณต้องการรีเซ็ตการใช้งานสำหรับแอปที่บุ๊กมาร์กทั้งหมดให้เป็นศูนย์หรือไม่?",
+    "SL_SORTING_MODAL_NO_LABEL": "เลขที่",
+    "SL_SORTING_MODAL_TITLE": "รีเซ็ตการใช้งาน",
+    "SL_SORTING_MODAL_YES_LABEL": "ใช่",
+    "SL_SORTING_SETTING_ALPHABETICAL": "ตามตัวอักษร",
+    "SL_SORTING_SETTING_HEADER_TITLE": "จัดเรียงตาม:",
+    "SL_SORTING_SETTING_RESET": "รีเซ็ตการใช้งาน",
+    "SL_SORTING_SETTING_USAGE": "การใช้งาน"
+}

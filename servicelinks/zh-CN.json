@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "添加到我的应用",
+    "SL_HEADLINE_GLOBAL_APPS": "全球应用",
+    "SL_HEADLINE_MY_APPS": "我的应用",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "请使用搜索或点击下面的按钮，找到可以通过点击星形图标添加书签的应用程序",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "你还没有被分配任何应用程序或保存任何书签。",
+    "SL_NO_MATCHING_TITLE": "没有匹配结果",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "从我的应用中取消书签",
+    "SL_SORTING_MODAL_DESCRIPTION": "您想将所有已添加书签的应用程序的使用量重置为零吗？",
+    "SL_SORTING_MODAL_NO_LABEL": "不",
+    "SL_SORTING_MODAL_TITLE": "重置用法",
+    "SL_SORTING_MODAL_YES_LABEL": "是的",
+    "SL_SORTING_SETTING_ALPHABETICAL": "按字母顺序",
+    "SL_SORTING_SETTING_HEADER_TITLE": "排序方式：",
+    "SL_SORTING_SETTING_RESET": "重置用法",
+    "SL_SORTING_SETTING_USAGE": "用法"
+}

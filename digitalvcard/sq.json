@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Adresa",
+    "DIGITAL_CARD_EMAIL": "E-Mail",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Qasja",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Informacioni i padisponueshëm.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Na vjen keq, shërbimet e miniaplikacioneve janë përkohësisht të padisponueshme. Ju lutemi provoni përsëri më vonë.",
+    "DIGITAL_CARD_ERROR_TITLE": "Gabim",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Përdoruesi nuk u gjet, i paautorizuar. Ju lutemi kontrolloni përdoruesin.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Të dhënat e miniaplikacionit nuk ofrohen aktualisht.",
+    "DIGITAL_CARD_JOB_TITLE": "Titulli i Punës",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Hyni në Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "për të hyrë në të dhënat tuaja cloud",
+    "DIGITAL_CARD_LOGIN_LABEL": "Hyni me llogarinë tuaj Microsoft 365",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobil",
+    "DIGITAL_CARD_QR_ERROR": "Nuk mund të ngarkohet QR Kodi, të lutem provi përsëri",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Trego QR Kodi",
+    "DIGITAL_CARD_WIDGET_ERROR": "Nuk mund të ngarkohet widget-i, të lutem provi përsëri më vonë"
+}

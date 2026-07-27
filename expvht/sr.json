@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "Информације нису доступне",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "Жао нам је, информације о напретку важе само за колеге из ДХЛ Екпресс-а. И даље можете да видите своје активности на сајту Волунтеерс ат Екпресс.",
+    "VHT_SOMETHING_WENT_WRONG": "Нешто није у реду!",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "Molimo vas da kontaktirate Volontere kod DHL administratora.",
+    "VHT_WIDGET_BRONZE_MEDAL": "Бронза",
+    "VHT_WIDGET_COUNTRY": "Држава",
+    "VHT_WIDGET_GLOBAL": "Глобал",
+    "VHT_WIDGET_GOLD_MEDAL": "Злато",
+    "VHT_WIDGET_HOURS_SPENT": "сати проведених у {{total}} волонтерским активностима",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "Нема података за приказ",
+    "VHT_WIDGET_REGIONAL": "Регионални",
+    "VHT_WIDGET_SILVER_MEDAL": "Сребро",
+    "VHT_WIDGET_TOP_PERCENT": "Најбољи {{precent}} %",
+    "VHT_WIDGET_VOLUNTEER_NOW": "Волонтирај сада!"
+}

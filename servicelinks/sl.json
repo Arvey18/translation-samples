@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Dodaj med Moje Aplikacije",
+    "SL_HEADLINE_GLOBAL_APPS": "Globalne Aplikacije",
+    "SL_HEADLINE_MY_APPS": "Moje Aplikacije",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Prosimo, uporabi iskanje ali klikni na gumbe spodaj, da najdeš aplikacije, ki jih lahko dodaš med zaznamke s klikom na ikono zvezde",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Še nimaš dodeljenih aplikacij ali shranjenih zaznamkov.",
+    "SL_NO_MATCHING_TITLE": "Ni ustreznih rezultatov",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Odstrani zaznamek iz Mojih Aplikacij",
+    "SL_SORTING_MODAL_DESCRIPTION": "Ali želite ponastaviti uporabo za vse aplikacije z zaznamki na nič?",
+    "SL_SORTING_MODAL_NO_LABEL": "št",
+    "SL_SORTING_MODAL_TITLE": "Ponastavi uporabo",
+    "SL_SORTING_MODAL_YES_LABEL": "ja",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Abecedno",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Razvrsti po:",
+    "SL_SORTING_SETTING_RESET": "Ponastavi uporabo",
+    "SL_SORTING_SETTING_USAGE": "Uporaba"
+}

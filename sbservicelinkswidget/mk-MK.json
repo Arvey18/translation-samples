@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Пристап",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Информациите се недостапни.",
+    "SBSL_ERROR_INTERNAL_SERVER": "За жал, услугите на виџетите се привремено недостапни. Обидете се повторно подоцна.",
+    "SBSL_ERROR_TITLE": "Грешка",
+    "SBSL_ERROR_USER_NOTFOUND": "Корисникот не е пронајден, неовластен. Ве молиме проверете го корисникот.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Податоците за виџетите во моментов не се достапни.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Отворете преглед на апликации",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services моментално не е достапен. Кликни на копчето за да пристапиш до листата на апликации.",
+    "SBSL_GOTO_SMART_GRID": "Одете во Apps",
+    "SBSL_LOGIN_BUTTON": "Пријавете се во Microsoft 365",
+    "SBSL_LOGIN_DESC": "за да пристапите до вашите податоци во облакот",
+    "SBSL_LOGIN_LABEL": "Најавете се со вашата сметка на Microsoft 365",
+    "SBSL_LOGIN_TITLE": "Мајкрософт 365"
+}

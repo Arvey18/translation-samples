@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} किग्रा",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "अधिकतम रियायती वजन\/शिपमेंट",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "शिपमेंट\/तिमाही की अधिकतम संख्या",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "शिपमेंट की अधिकतम संख्या\/वर्ष",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "शिपमेंट\/माह की अधिकतम संख्या",
+    "ESMS_MAX_SHIPMENT": "अधिकतम छूट",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "शिपमेंट\/वर्ष का अधिकतम कुल भार",
+    "ESMS_NO_LIMIT": "कोई सीमा नहीं",
+    "ESMS_REMAINING": "{{total}} किग्रा का उपयोग किया गया",
+    "ESMS_SOMETHING_WENT_WRONG": "कुछ गलत हो गया!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "कृपया ईएसएमएस प्रशासक से संपर्क करें।",
+    "ESMS_UNAUTHORIZED_MESSAGE": "क्षमा करें, आपके पास इस सेवा तक पहुंच नहीं है",
+    "ESMS_UNAUTHORIZED_TITLE": "तक पहुँच नहीं",
+    "ESMS_USED": "इस्तेमाल किया गया"
+}

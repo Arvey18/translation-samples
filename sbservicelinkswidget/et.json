@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Juurdepääs",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Teave pole saadaval.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Kahjuks pole vidinateenused ajutiselt saadaval. Palun proovi hiljem uuesti.",
+    "SBSL_ERROR_TITLE": "Viga",
+    "SBSL_ERROR_USER_NOTFOUND": "Kasutajat ei leitud, volitamata. Kontrollige kasutajat.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Vidinaandmed pole praegu saadaval.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Ava rakenduste ülevaade",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services ei ole praegu saadaval. Klõpsa nuppu, et pääseda rakenduste loendisse.",
+    "SBSL_GOTO_SMART_GRID": "Minge Appsi",
+    "SBSL_LOGIN_BUTTON": "Logige sisse Microsoft 365-sse",
+    "SBSL_LOGIN_DESC": "oma pilveandmetele juurde pääseda",
+    "SBSL_LOGIN_LABEL": "Logige sisse oma Microsoft 365 kontoga",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}
