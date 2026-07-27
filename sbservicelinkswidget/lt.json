@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Prieiga",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Informacija nepasiekiama.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Atsiprašome, valdiklių paslaugos laikinai nepasiekiamos. Pabandykite dar kartą vėliau.",
+    "SBSL_ERROR_TITLE": "Klaida",
+    "SBSL_ERROR_USER_NOTFOUND": "Vartotojas nerastas, neteisėtas. Patikrinkite naudotoją.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Valdiklio duomenys šiuo metu nepasiekiami.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Atidaryti programų apžvalgą",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services šiuo metu negalimas. Spustelėk mygtuką, kad pasiektum programų sąrašą.",
+    "SBSL_GOTO_SMART_GRID": "Eikite į „Apps",
+    "SBSL_LOGIN_BUTTON": "Prisijunkite prie „Microsoft 365“.",
+    "SBSL_LOGIN_DESC": "norėdami pasiekti debesies duomenis",
+    "SBSL_LOGIN_LABEL": "Prisijunkite naudodami „Microsoft 365“ paskyrą",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

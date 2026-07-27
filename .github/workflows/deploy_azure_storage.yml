@@ -1,0 +1,18 @@
+name: Deploy Azure Storage
+
+on:
+  workflow_dispatch:
+
+jobs:
+  call-deploy-azure-storage:
+    uses: SmartConnectSolutions/.github/.github/workflows/deploy_azure_storage.yml@main
+    with:
+      branch: ${{ github.ref_name }}
+      azure_account_name: 'stsg4awebnppldnsazr'
+      azure_storage_container_name_dev: 'dev-translations'
+      azure_storage_container_name_test: 'test-translations'
+      environment_name_dev: 'dev'
+      environment_name_test: 'test'
+      # reporting_mode: 'IFRAME'
+      # module_mode: "YARN"        # uncomment to use Yarn instead of npm
+    secrets: inherit

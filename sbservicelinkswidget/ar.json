@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "وصول",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "المعلومات غير متوفرة.",
+    "SBSL_ERROR_INTERNAL_SERVER": "عذرًا، خدمات الأدوات غير متاحة مؤقتًا. الرجاء معاودة المحاولة في وقت لاحق.",
+    "SBSL_ERROR_TITLE": "خطأ",
+    "SBSL_ERROR_USER_NOTFOUND": "لم يتم العثور على المستخدم، غير مصرح به. يرجى التحقق من المستخدم.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "بيانات القطعة غير متوفرة حاليا.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "فتح نظرة عامة على التطبيقات",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services غير متاح حالياً. يرجى الضغط على الزر للوصول إلى قائمة التطبيقات.",
+    "SBSL_GOTO_SMART_GRID": "انتقل إلى التطبيقات",
+    "SBSL_LOGIN_BUTTON": "قم بتسجيل الدخول إلى مايكروسوفت 365",
+    "SBSL_LOGIN_DESC": "للوصول إلى البيانات السحابية الخاصة بك",
+    "SBSL_LOGIN_LABEL": "قم بتسجيل الدخول باستخدام حساب Microsoft 365 الخاص بك",
+    "SBSL_LOGIN_TITLE": "مايكروسوفت 365"
+}

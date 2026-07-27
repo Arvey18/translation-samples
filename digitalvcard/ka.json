@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "მისამართი",
+    "DIGITAL_CARD_EMAIL": "ელ. ფოსტა",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "წვდომა",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "ინფორმაცია მიუწვდომელია.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "უკაცრავად, ვიჯეტის სერვისები დროებით მიუწვდომელია. Გთხოვთ სცადოთ მოგვიანებით.",
+    "DIGITAL_CARD_ERROR_TITLE": "შეცდომა",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "მომხმარებელი ვერ მოიძებნა, არაავტორიზებული. გთხოვთ შეამოწმოთ მომხმარებელი.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "ვიჯეტის მონაცემები ამჟამად მიუწვდომელია.",
+    "DIGITAL_CARD_JOB_TITLE": "სამუშაო პოზიცია",
+    "DIGITAL_CARD_LOGIN_BUTTON": "შედით Microsoft 365-ში",
+    "DIGITAL_CARD_LOGIN_DESC": "თქვენს ღრუბელ მონაცემებზე წვდომისთვის",
+    "DIGITAL_CARD_LOGIN_LABEL": "შედით თქვენი Microsoft 365 ანგარიშით",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "მობილური",
+    "DIGITAL_CARD_QR_ERROR": "QR კოდის დატვირთვა ვერ მოხერხდა, გთხოვ, კიდევ სცადე",
+    "DIGITAL_CARD_SHOW_QR_CODE": "აჩვენეთ QR კოდი",
+    "DIGITAL_CARD_WIDGET_ERROR": "ვერ ხერხდება widget-ის დატვირთვა, გთხოვ, სცადე მოგვიანებით"
+}

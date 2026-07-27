@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "पहुँच",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "जानकारी उपलब्ध नहीं है.",
+    "SBSL_ERROR_INTERNAL_SERVER": "क्षमा करें, विजेट सेवाएँ अस्थायी रूप से अनुपलब्ध हैं। कृपया बाद में पुनः प्रयास करें।",
+    "SBSL_ERROR_TITLE": "गलती",
+    "SBSL_ERROR_USER_NOTFOUND": "उपयोगकर्ता नहीं मिला, अनधिकृत। कृपया उपयोगकर्ता की जाँच करें।",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "विजेट डेटा फिलहाल उपलब्ध नहीं है.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "ऐप्स अवलोकन खोलें",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services अभी उपलब्ध नहीं है। ऐप्स सूची तक पहुँचने के लिए बटन पर क्लिक करें।",
+    "SBSL_GOTO_SMART_GRID": "ऐप्स पर जाएं",
+    "SBSL_LOGIN_BUTTON": "Microsoft 365 में साइन इन करें",
+    "SBSL_LOGIN_DESC": "अपने क्लाउड डेटा तक पहुँचने के लिए",
+    "SBSL_LOGIN_LABEL": "अपने Microsoft 365 खाते से साइन इन करें",
+    "SBSL_LOGIN_TITLE": "माइक्रोसॉफ्ट 365"
+}

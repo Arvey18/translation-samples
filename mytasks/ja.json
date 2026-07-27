@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "から",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "に",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "リセット",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "検索",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "タスクを探す",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "ソース",
+    "MT_ICON_IN_THE_HEADER": "変更するにはヘッダーのアイコンをクリックします。",
+    "MT_NO_RESULT_MESSAGE": "現在のフィルターまたは検索語で利用可能なタスクはありません。",
+    "MT_NO_TASK_AVAILABLE": "現在の設定では利用できるタスクはありません。",
+    "MT_OVERDUE_LABEL": "延滞",
+    "MT_PLEASE_CLICK": "クリックしてください",
+    "MT_PLEASE_TRY_AGAIN_LATER": "後ほどもう一度お試しください。",
+    "MT_PRIORITY_LABEL": "優先度",
+    "MT_SEE_OTHER_TASKS": "他のタスクを見る",
+    "MT_SOMETHING_WENT_WRONG": "問題が発生しました!",
+    "MT_SOURCE": "ソース",
+    "MT_TASK_CARD_DUE_LABEL": "期限：",
+    "MT_UNABLE_TO_LOAD_TASKS": "現時点ではタスクを読み込むことができません。",
+    "MT_UPCOMING_LABEL": "今後の予定",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "表示するデータがありません。"
+}

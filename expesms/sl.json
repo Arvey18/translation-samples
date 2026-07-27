@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Največja znižana teža\/pošiljka",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Največje število pošiljk\/četrtletje",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Največje število pošiljk\/leto",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Največje število pošiljk\/mesec",
+    "ESMS_MAX_SHIPMENT": "Največji popust",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Največja skupna teža pošiljke\/leto",
+    "ESMS_NO_LIMIT": "Ni omejitev",
+    "ESMS_REMAINING": "uporabljenih {{total}} kg",
+    "ESMS_SOMETHING_WENT_WRONG": "Nekaj ​​je šlo narobe!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Obrnite se na skrbnika ESMS.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Žal nimate dostopa do teh storitev",
+    "ESMS_UNAUTHORIZED_TITLE": "Ni dostopa",
+    "ESMS_USED": "rabljeno"
+}

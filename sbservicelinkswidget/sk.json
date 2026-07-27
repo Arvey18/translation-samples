@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Prístup",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Informácie sú nedostupné.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Ľutujeme, služby miniaplikácií sú dočasne nedostupné. Skúste neskôr prosím.",
+    "SBSL_ERROR_TITLE": "Chyba",
+    "SBSL_ERROR_USER_NOTFOUND": "Používateľ sa nenašiel, neautorizovaný. Skontrolujte používateľa.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Údaje miniaplikácie momentálne nie sú k dispozícii.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Otvoriť prehľad aplikácií",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services je momentálne nedostupný. Klikni na tlačidlo pre prístup k zoznamu aplikácií.",
+    "SBSL_GOTO_SMART_GRID": "Prejdite na Apps",
+    "SBSL_LOGIN_BUTTON": "Prihláste sa do Microsoft 365",
+    "SBSL_LOGIN_DESC": "pre prístup k vašim cloudovým údajom",
+    "SBSL_LOGIN_LABEL": "Prihláste sa pomocou svojho konta Microsoft 365",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

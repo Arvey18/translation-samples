@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "kuuk.",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "To",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "suli qaffasissuseq.",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "suli.",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Suli qaffasissuseq.",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "suli.",
+    "MT_ICON_IN_THE_HEADER": "Tassunga atuisinnaavat.",
+    "MT_NO_RESULT_MESSAGE": "Taamaasii suli qaffasissuseqanngilaq, filtarit imaluunniit suli qaffasissuseq.",
+    "MT_NO_TASK_AVAILABLE": "Uagut nalunaarsukkat malillugit, tassa atuisinnaanngilatit.",
+    "MT_OVERDUE_LABEL": "Piginnaasat",
+    "MT_PLEASE_CLICK": "Tassunga atuisinnaavat",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Tassunga atuisinnaavat.",
+    "MT_PRIORITY_LABEL": "Priority",
+    "MT_SEE_OTHER_TASKS": "Tassunga allanit takusinnaavat",
+    "MT_SOMETHING_WENT_WRONG": "Nukappiarpunga!",
+    "MT_SOURCE": "Sourse",
+    "MT_TASK_CARD_DUE_LABEL": "Piginnaasat:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Uagut nalunaarsukkat malillugit, tassa atuisinnaanngilatit.",
+    "MT_UPCOMING_LABEL": "Suli qaffasissuseq",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": ""
+}

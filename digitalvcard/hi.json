@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "पता",
+    "DIGITAL_CARD_EMAIL": "ई-मेल",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "पहुँच",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "जानकारी उपलब्ध नहीं है.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "क्षमा करें, विजेट सेवाएँ अस्थायी रूप से अनुपलब्ध हैं। कृपया बाद में पुनः प्रयास करें।",
+    "DIGITAL_CARD_ERROR_TITLE": "गलती",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "उपयोगकर्ता नहीं मिला, अनधिकृत। कृपया उपयोगकर्ता की जाँच करें।",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "विजेट डेटा फिलहाल उपलब्ध नहीं है.",
+    "DIGITAL_CARD_JOB_TITLE": "नौकरी का शीर्षक",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Microsoft 365 में साइन इन करें",
+    "DIGITAL_CARD_LOGIN_DESC": "अपने क्लाउड डेटा तक पहुँचने के लिए",
+    "DIGITAL_CARD_LOGIN_LABEL": "अपने Microsoft 365 खाते से साइन इन करें",
+    "DIGITAL_CARD_LOGIN_TITLE": "माइक्रोसॉफ्ट 365",
+    "DIGITAL_CARD_MOBILE": "मोबाइल",
+    "DIGITAL_CARD_QR_ERROR": "QR कोड लोड नहीं कर सका, कृपया फिर से कोशिश करो",
+    "DIGITAL_CARD_SHOW_QR_CODE": "QR कोड दिखाएँ",
+    "DIGITAL_CARD_WIDGET_ERROR": "विजेट लोड नहीं कर सका, कृपया बाद में फिर से कोशिश करो"
+}

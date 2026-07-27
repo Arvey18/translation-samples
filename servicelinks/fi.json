@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Lisää kirjanmerkkiin Omat Sovellukset",
+    "SL_HEADLINE_GLOBAL_APPS": "Globaalit Sovellukset",
+    "SL_HEADLINE_MY_APPS": "Omat Sovellukset",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Käytä hakua tai klikkaa alla olevia painikkeita löytääksesi sovelluksia, joita voit merkitä kirjanmerkiksi klikkaamalla niiden tähtikuvaketta",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Sinulle ei ole vielä määritetty sovelluksia eikä tallennettu kirjanmerkkejä.",
+    "SL_NO_MATCHING_TITLE": "Ei vastaavia tuloksia",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Poista kirjanmerkki Omat Sovellukset",
+    "SL_SORTING_MODAL_DESCRIPTION": "Haluatko nollata kaikkien kirjanmerkkeihin merkittyjen sovellusten käytön?",
+    "SL_SORTING_MODAL_NO_LABEL": "Ei",
+    "SL_SORTING_MODAL_TITLE": "Nollaa käyttö",
+    "SL_SORTING_MODAL_YES_LABEL": "Joo",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Aakkosellinen",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Järjestä:",
+    "SL_SORTING_SETTING_RESET": "Nollaa käyttö",
+    "SL_SORTING_SETTING_USAGE": "Käyttö"
+}

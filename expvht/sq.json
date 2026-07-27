@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "Informacioni i padisponueshëm",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "Na vjen keq, por informacioni i progresit është i zbatueshëm vetëm për kolegët e DHL Express. Ju ende mund t'i shikoni aktivitetet tuaja në faqen e Vullnetarëve në Express.",
+    "VHT_SOMETHING_WENT_WRONG": "Dicka shkoi keq!",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "Ju lutem kontaktoni Vullnetarët te administratori DHL.",
+    "VHT_WIDGET_BRONZE_MEDAL": "Bronzi",
+    "VHT_WIDGET_COUNTRY": "Vendi",
+    "VHT_WIDGET_GLOBAL": "Globale",
+    "VHT_WIDGET_GOLD_MEDAL": "Ari",
+    "VHT_WIDGET_HOURS_SPENT": "orë të shpenzuara në {{total}} aktivitete vullnetare",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "Nuk ka të dhëna për t'u shfaqur",
+    "VHT_WIDGET_REGIONAL": "Rajonale",
+    "VHT_WIDGET_SILVER_MEDAL": "Argjendi",
+    "VHT_WIDGET_TOP_PERCENT": "krye {{precent}} %",
+    "VHT_WIDGET_VOLUNTEER_NOW": "Bëhu vullnetar tani!"
+}

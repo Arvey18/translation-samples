@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Informații indisponibile",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Ne pare rău, informațiile despre progres sunt valabile numai pentru colegii DHL Express. Îți poți vedea în continuare activitățile pe site-ul Volunteers at Express.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Ceva n-a mers bine!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Vă rugăm să contactați Voluntarii la administratorul DHL.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "Bronz",
+    "VHT_GROUP_WIDGET_COUNTRY": "Țară",
+    "VHT_GROUP_WIDGET_GLOBAL": "Global",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Aur",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "ore petrecute în {{total}} activități de voluntariat",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Nu există date de afișat",
+    "VHT_GROUP_WIDGET_REGIONAL": "Regional",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Argint",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Top {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Faceți-vă voluntar acum!"
+}

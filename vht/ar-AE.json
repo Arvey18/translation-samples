@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "المعلومات غير متوفرة",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "عذرًا، معلومات التقدم تنطبق فقط على زملاء DHL Express. لا يزال بإمكانك عرض أنشطتك في موقع المتطوعين في Express.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "هناك خطأ ما!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "يرجى الاتصال بالمتطوعين لدى إدارة DHL.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "برونزية",
+    "VHT_GROUP_WIDGET_COUNTRY": "دولة",
+    "VHT_GROUP_WIDGET_GLOBAL": "عالمي",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "ذهب",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "الساعات التي قضاها في {{total}} الأنشطة التطوعية",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "لا توجد بيانات ليتم عرضها",
+    "VHT_GROUP_WIDGET_REGIONAL": "إقليمي",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "فضة",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "أعلى {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "تطوع الآن!"
+}

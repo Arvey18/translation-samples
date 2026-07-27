@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Fra",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Til",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Nulstil",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Søge",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Find en opgave",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Kilde",
+    "MT_ICON_IN_THE_HEADER": "ikonet i overskriften for at ændre det.",
+    "MT_NO_RESULT_MESSAGE": "Der er ingen tilgængelige opgaver med dit nuværende filter eller søgeord.",
+    "MT_NO_TASK_AVAILABLE": "Der er ingen tilgængelige opgaver med dine nuværende indstillinger.",
+    "MT_OVERDUE_LABEL": "Forsinket",
+    "MT_PLEASE_CLICK": "Klik venligst",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Prøv igen senere.",
+    "MT_PRIORITY_LABEL": "Prioritet",
+    "MT_SEE_OTHER_TASKS": "Se andre opgaver",
+    "MT_SOMETHING_WENT_WRONG": "Noget gik galt!",
+    "MT_SOURCE": "Kilde",
+    "MT_TASK_CARD_DUE_LABEL": "Forfaldsdato:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Vi kan ikke indlæse dine opgaver i øjeblikket.",
+    "MT_UPCOMING_LABEL": "Kommende",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Der er ingen data at vise."
+}

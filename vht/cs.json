@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Informace nejsou k dispozici",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Litujeme, informace o průběhu platí pouze pro kolegy DHL Express. Své aktivity si stále můžete prohlédnout na webu Volunteers at Express.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Něco se pokazilo!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Prosím, kontaktujte dobrovolníky u administrátora DHL.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "Bronz",
+    "VHT_GROUP_WIDGET_COUNTRY": "Země",
+    "VHT_GROUP_WIDGET_GLOBAL": "Globální",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Zlato",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "hodiny strávené {{total}} dobrovolnými aktivitami",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Nejsou zde žádná data k zobrazení",
+    "VHT_GROUP_WIDGET_REGIONAL": "Regionální",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Stříbro",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Nejlepší {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Staňte se dobrovolníkem!"
+}

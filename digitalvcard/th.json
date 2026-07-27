@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "ที่อยู่",
+    "DIGITAL_CARD_EMAIL": "อีเมล",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "เข้าถึง",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "ไม่มีข้อมูล.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "ขออภัย บริการวิดเจ็ตไม่สามารถใช้งานได้ชั่วคราว กรุณาลองใหม่อีกครั้งในภายหลัง.",
+    "DIGITAL_CARD_ERROR_TITLE": "ข้อผิดพลาด",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "ไม่พบผู้ใช้ ไม่ได้รับอนุญาต กรุณาตรวจสอบผู้ใช้",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "ไม่มีข้อมูลวิดเจ็ตในขณะนี้",
+    "DIGITAL_CARD_JOB_TITLE": "ตำแหน่งงาน",
+    "DIGITAL_CARD_LOGIN_BUTTON": "ลงชื่อเข้าใช้ Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "เพื่อเข้าถึงข้อมูลคลาวด์ของคุณ",
+    "DIGITAL_CARD_LOGIN_LABEL": "ลงชื่อเข้าใช้ด้วยบัญชี Microsoft 365 ของคุณ",
+    "DIGITAL_CARD_LOGIN_TITLE": "ไมโครซอฟต์ 365",
+    "DIGITAL_CARD_MOBILE": "มือถือ",
+    "DIGITAL_CARD_QR_ERROR": "ไม่สามารถโหลด QR โค้ดได้โปรดลองอีกครั้ง",
+    "DIGITAL_CARD_SHOW_QR_CODE": "แสดง QR โค้ด",
+    "DIGITAL_CARD_WIDGET_ERROR": "ไม่สามารถโหลดวิดเจ็ตได้โปรดลองอีกครั้งในภายหลัง"
+}

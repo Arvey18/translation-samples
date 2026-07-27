@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Адрес",
+    "DIGITAL_CARD_EMAIL": "Имейл",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Достъп",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Няма налична информация.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "За съжаление услугите на Widget временно не са достъпни. Моля, опитайте отново по-късно.",
+    "DIGITAL_CARD_ERROR_TITLE": "Грешка",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Потребителят не е намерен, неупълномощен. Моля, проверете потребителя.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Понастоящем няма налични данни за джаджи.",
+    "DIGITAL_CARD_JOB_TITLE": "Длъжност",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Влезте в Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "за достъп до вашите облачни данни",
+    "DIGITAL_CARD_LOGIN_LABEL": "Влезте с вашия акаунт в Microsoft 365",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Мобилен телефон",
+    "DIGITAL_CARD_QR_ERROR": "Не може да се зареди QR код, моля опитай отново",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Покажи QR код",
+    "DIGITAL_CARD_WIDGET_ERROR": "Не може да се зареди widget, моля опитай по-късно"
+}

@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Információ nem elérhető",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Sajnáljuk, az előrehaladásról szóló információk csak a DHL Express munkatársaira vonatkoznak. Továbbra is megtekintheti tevékenységeit a Volunteers at Express oldalon.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Valami elromlott!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Kérjük, lépjen kapcsolatba a DHL adminisztrátoránál a Önkéntesekkel.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "Bronz",
+    "VHT_GROUP_WIDGET_COUNTRY": "Ország",
+    "VHT_GROUP_WIDGET_GLOBAL": "Globális",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Arany",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "{{total}} önkéntes tevékenységekben eltöltött órák",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Nincsenek megjelenítendő adatok",
+    "VHT_GROUP_WIDGET_REGIONAL": "Regionális",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Ezüst",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Legfelső {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Önkéntes most!"
+}

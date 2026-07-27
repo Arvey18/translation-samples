@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "থেকে",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "থেকে",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "রিসেট",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "অনুসন্ধান করুন",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "একটি কাজ খুঁজুন",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "উৎস",
+    "MT_ICON_IN_THE_HEADER": "এটি পরিবর্তন করার জন্য হেডারে আইকনটি ক্লিক করুন।",
+    "MT_NO_RESULT_MESSAGE": "আপনার বর্তমান ফিল্টার বা অনুসন্ধান শব্দটির সাথে কোনও টাস্ক উপলব্ধ নেই।",
+    "MT_NO_TASK_AVAILABLE": "আপনার বর্তমান সেটিংসে কোনও টাস্ক উপলব্ধ নেই।",
+    "MT_OVERDUE_LABEL": "মেয়াদোত্তীর্ণ",
+    "MT_PLEASE_CLICK": "ক্লিক করুন",
+    "MT_PLEASE_TRY_AGAIN_LATER": "দয়া করে পরে আবার চেষ্টা করুন।",
+    "MT_PRIORITY_LABEL": "অগ্রাধিকার",
+    "MT_SEE_OTHER_TASKS": "অন্যান্য কাজ দেখুন",
+    "MT_SOMETHING_WENT_WRONG": "কিছু ভুল হয়েছে!",
+    "MT_SOURCE": "উৎস",
+    "MT_TASK_CARD_DUE_LABEL": "বকেয়া:",
+    "MT_UNABLE_TO_LOAD_TASKS": "আমরা এই মুহূর্তে আপনার কাজগুলি লোড করতে পারছি না।",
+    "MT_UPCOMING_LABEL": "আসন্ন",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "প্রদর্শনের জন্য কোন তথ্য নেই।"
+}

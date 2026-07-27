@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Žymėti Mano Programėlėse",
+    "SL_HEADLINE_GLOBAL_APPS": "Pasaulinės Programėlės",
+    "SL_HEADLINE_MY_APPS": "Mano programos",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Prašome naudoti paiešką arba spustelėkite žemiau esančius mygtukus, kad rastumėte programėles, kurias galite pažymėti žvaigždutės piktograma",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Tau dar nėra priskirta jokių programėlių arba nesaugojai jokių žymių.",
+    "SL_NO_MATCHING_TITLE": "Nėra atitinkančių rezultatų",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Pašalinti iš Mano Programėlių",
+    "SL_SORTING_MODAL_DESCRIPTION": "Ar norite iš naujo nustatyti visų pažymėtų programų naudojimą iki nulio?",
+    "SL_SORTING_MODAL_NO_LABEL": "Nr",
+    "SL_SORTING_MODAL_TITLE": "Iš naujo nustatyti naudojimą",
+    "SL_SORTING_MODAL_YES_LABEL": "Taip",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Abėcėlinis",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Rūšiuoti pagal:",
+    "SL_SORTING_SETTING_RESET": "Iš naujo nustatyti naudojimą",
+    "SL_SORTING_SETTING_USAGE": "Naudojimas"
+}

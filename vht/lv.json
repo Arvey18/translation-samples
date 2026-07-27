@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Informācija nav pieejama",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Atvainojiet, informācija par progresu attiecas tikai uz DHL Express kolēģiem. Jūs joprojām varat skatīt savas aktivitātes Express Volunteers vietnē.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Kaut kas nogāja greizi!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Lūdzu, sazinieties ar brīvprātīgajiem pie DHL administratora.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "Bronza",
+    "VHT_GROUP_WIDGET_COUNTRY": "Valsts",
+    "VHT_GROUP_WIDGET_GLOBAL": "Globāli",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Zelts",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "stundas, kas pavadītas {{total}} brīvprātīgajās aktivitātēs",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Nav datu, ko parādīt",
+    "VHT_GROUP_WIDGET_REGIONAL": "Reģionālais",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Sudrabs",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Top {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Kļūsti par brīvprātīgo tagad!"
+}

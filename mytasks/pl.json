@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Z",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Do",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Nastawić",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Szukaj",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Znajdź zadanie",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Źródło",
+    "MT_ICON_IN_THE_HEADER": "ikonę w nagłówku, aby ją zmienić.",
+    "MT_NO_RESULT_MESSAGE": "Brak dostępnych zadań odpowiadających Twojemu filtrowi lub terminowi wyszukiwania.",
+    "MT_NO_TASK_AVAILABLE": "Brak dostępnych zadań przy bieżących ustawieniach.",
+    "MT_OVERDUE_LABEL": "Zaległy",
+    "MT_PLEASE_CLICK": "Proszę kliknąć",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Spróbuj ponownie później.",
+    "MT_PRIORITY_LABEL": "Priorytet",
+    "MT_SEE_OTHER_TASKS": "Zobacz inne zadania",
+    "MT_SOMETHING_WENT_WRONG": "Coś poszło nie tak!",
+    "MT_SOURCE": "Źródło",
+    "MT_TASK_CARD_DUE_LABEL": "Należny:",
+    "MT_UNABLE_TO_LOAD_TASKS": "W tej chwili nie możemy załadować Twoich zadań.",
+    "MT_UPCOMING_LABEL": "Nadchodzące",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Brak danych do wyświetlenia."
+}

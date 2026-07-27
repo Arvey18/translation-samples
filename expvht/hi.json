@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "जानकारी अनुपलब्ध",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "क्षमा करें, प्रगति की जानकारी केवल डीएचएल एक्सप्रेस सहकर्मियों के लिए लागू है। आप अभी भी वालंटियर्स एट एक्सप्रेस साइट पर अपनी गतिविधियाँ देख सकते हैं।",
+    "VHT_SOMETHING_WENT_WRONG": "कुछ गलत हो गया!",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "कृपया DHL प्रशासक से स्वयंसेवकों से संपर्क करें।",
+    "VHT_WIDGET_BRONZE_MEDAL": "पीतल",
+    "VHT_WIDGET_COUNTRY": "देश",
+    "VHT_WIDGET_GLOBAL": "वैश्विक",
+    "VHT_WIDGET_GOLD_MEDAL": "सोना",
+    "VHT_WIDGET_HOURS_SPENT": "{{total}} स्वैच्छिक गतिविधियों में बिताए गए घंटे",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "प्रदर्शित करने के लिए कोई डेटा नहीं है",
+    "VHT_WIDGET_REGIONAL": "क्षेत्रीय",
+    "VHT_WIDGET_SILVER_MEDAL": "चाँदी",
+    "VHT_WIDGET_TOP_PERCENT": "शीर्ष {{precent}} %",
+    "VHT_WIDGET_VOLUNTEER_NOW": "अब स्वयंसेवक बनें!"
+}

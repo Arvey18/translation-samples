@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Maksimaalne allahinnatud kaal\/saadetis",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Maksimaalne saadetiste arv kvartalis",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Maksimaalne saadetiste arv aastas",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Maksimaalne saadetiste arv kuus",
+    "ESMS_MAX_SHIPMENT": "Maksimaalne allahindlus",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Maksimaalne saadetise kogukaal aastas",
+    "ESMS_NO_LIMIT": "Pole limiiti",
+    "ESMS_REMAINING": "kasutatud {{total}} kg",
+    "ESMS_SOMETHING_WENT_WRONG": "Midagi läks valesti!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Võtke ühendust ESMS-i administraatoriga.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Kahjuks pole teil juurdepääsu sellele teenusele",
+    "ESMS_UNAUTHORIZED_TITLE": "Juurdepääs puudub",
+    "ESMS_USED": "kasutatud"
+}

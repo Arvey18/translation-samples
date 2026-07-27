@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Thông tin không có sẵn",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Rất tiếc, thông tin tiến độ chỉ áp dụng cho đồng nghiệp của DHL Express. Bạn vẫn có thể xem các hoạt động của mình trong trang Tình nguyện viên tại Express.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Đã xảy ra lỗi!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Vui lòng liên hệ với các Tình nguyện viên tại quản trị viên DHL.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "đồng",
+    "VHT_GROUP_WIDGET_COUNTRY": "Quốc gia",
+    "VHT_GROUP_WIDGET_GLOBAL": "Toàn cầu",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Vàng",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "số giờ dành cho {{total}} hoạt động tình nguyện",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Không có dữ liệu nào được hiển thị",
+    "VHT_GROUP_WIDGET_REGIONAL": "Khu vực",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Bạc",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "{{precent}} % hàng đầu",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Tình nguyện bây giờ!"
+}

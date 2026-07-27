@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "អាសយដ្ឋាន",
+    "DIGITAL_CARD_EMAIL": "អ៊ីមែល",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "ការចូលប្រើ",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "ព័ត៌មានមិនអាចប្រើបានទេ។",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "សូមអភ័យទោស សេវាកម្ម Widget មិនអាចប្រើបានជាបណ្ដោះអាសន្នទេ។ សូម​ព្យាយាម​ម្តង​ទៀត​នៅ​ពេល​ក្រោយ។",
+    "DIGITAL_CARD_ERROR_TITLE": "កំហុស",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "រកមិនឃើញអ្នកប្រើប្រាស់ គ្មានការអនុញ្ញាត។ សូមពិនិត្យមើលអ្នកប្រើប្រាស់។",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "ទិន្នន័យធាតុក្រាហ្វិកបច្ចុប្បន្នមិនមានទេ។",
+    "DIGITAL_CARD_JOB_TITLE": "ប្រភេទការងារ",
+    "DIGITAL_CARD_LOGIN_BUTTON": "ចូល Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "ដើម្បីចូលប្រើទិន្នន័យពពករបស់អ្នក។",
+    "DIGITAL_CARD_LOGIN_LABEL": "ចូលដោយប្រើគណនី Microsoft 365 របស់អ្នក។",
+    "DIGITAL_CARD_LOGIN_TITLE": "ក្រុមហ៊ុន Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "ទូរស័ព្ទចល័ត",
+    "DIGITAL_CARD_QR_ERROR": "មិនអាចផ្ទុកកូដ QR បានទេ សូមព្យាយាមម្តងទៀត",
+    "DIGITAL_CARD_SHOW_QR_CODE": "បង្ហាញកូដQR",
+    "DIGITAL_CARD_WIDGET_ERROR": "មិនអាចផ្ទុកវីជេតបានទេ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ"
+}

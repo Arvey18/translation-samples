@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Приступ",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Информације нису доступне.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Жао нам је, услуге виџета су привремено недоступне. Покушајте поново касније.",
+    "SBSL_ERROR_TITLE": "Грешка",
+    "SBSL_ERROR_USER_NOTFOUND": "Корисник није пронађен, неовлашћен. Молимо проверите корисника.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Подаци виџета тренутно нису доступни.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Otvorite pregled aplikacija",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services trenutno nije dostupan. Klikni na dugme da pristupiš listi aplikacija.",
+    "SBSL_GOTO_SMART_GRID": "Идите на Апликације",
+    "SBSL_LOGIN_BUTTON": "Пријавите се на Мицрософт 365",
+    "SBSL_LOGIN_DESC": "да бисте приступили вашим подацима у облаку",
+    "SBSL_LOGIN_LABEL": "Пријавите се са својим Мицрософт 365 налогом",
+    "SBSL_LOGIN_TITLE": "Мицрософт 365"
+}

@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "加入到我的應用",
+    "SL_HEADLINE_GLOBAL_APPS": "全球應用",
+    "SL_HEADLINE_MY_APPS": "我的應用",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "請使用搜尋或點擊下方的按鈕，找到可以點擊星形圖標加入書籤的應用程式",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "你還沒有被分配任何應用程式或保存任何書籤。",
+    "SL_NO_MATCHING_TITLE": "沒有相符的結果",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "從我的應用中取消書籤",
+    "SL_SORTING_MODAL_DESCRIPTION": "您想將所有已加書籤的應用程式的使用情況重設為零嗎？",
+    "SL_SORTING_MODAL_NO_LABEL": "不",
+    "SL_SORTING_MODAL_TITLE": "重置使用情況",
+    "SL_SORTING_MODAL_YES_LABEL": "是的",
+    "SL_SORTING_SETTING_ALPHABETICAL": "按字母順序",
+    "SL_SORTING_SETTING_HEADER_TITLE": "排序方式：",
+    "SL_SORTING_SETTING_RESET": "重置使用情況",
+    "SL_SORTING_SETTING_USAGE": "用法"
+}

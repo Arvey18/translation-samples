@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "Iš",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "Į",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Atstatyti",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Paieška",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Rasti užduotį",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Šaltinis",
+    "MT_ICON_IN_THE_HEADER": "piktogramą antraštėje, kad ją pakeistumėte.",
+    "MT_NO_RESULT_MESSAGE": "Su dabartiniu filtru ar paieškos terminu nėra galimų užduočių.",
+    "MT_NO_TASK_AVAILABLE": "Su dabartiniais nustatymais nėra galimų užduočių.",
+    "MT_OVERDUE_LABEL": "Vėluoja",
+    "MT_PLEASE_CLICK": "Prašome spustelėti",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Bandykite dar kartą vėliau.",
+    "MT_PRIORITY_LABEL": "Prioritetas",
+    "MT_SEE_OTHER_TASKS": "Žr. kitas užduotis",
+    "MT_SOMETHING_WENT_WRONG": "Kažkas nutiko ne taip!",
+    "MT_SOURCE": "Šaltinis",
+    "MT_TASK_CARD_DUE_LABEL": "Dėl:",
+    "MT_UNABLE_TO_LOAD_TASKS": "Šiuo metu negalime įkelti jūsų užduočių.",
+    "MT_UPCOMING_LABEL": "Būsimi",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Nėra duomenų, kuriuos būtų galima rodyti."
+}

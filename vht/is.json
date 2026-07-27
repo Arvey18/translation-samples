@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "Upplýsingar ekki tiltækar",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "Því miður, upplýsingar um framvindu eiga aðeins við um samstarfsmenn DHL Express. Þú getur enn skoðað athafnir þínar á síðunni Sjálfboðaliðar á Express.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "Eitthvað fór úrskeiðis!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "Vinsamlegast hafðu samband við sjálfboðaliða hjá DHL stjórnanda.",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "Brons",
+    "VHT_GROUP_WIDGET_COUNTRY": "Land",
+    "VHT_GROUP_WIDGET_GLOBAL": "Alþjóðlegt",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "Gull",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "klukkustundum varið í {{total}} sjálfboðaliðastarf",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "Það eru engin gögn til að birta",
+    "VHT_GROUP_WIDGET_REGIONAL": "Svæðisbundið",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "Silfur",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "Efstu {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "Gerðu sjálfboðaliða núna!"
+}

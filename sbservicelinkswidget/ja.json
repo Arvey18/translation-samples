@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "アクセス",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "情報は入手できません。",
+    "SBSL_ERROR_INTERNAL_SERVER": "申し訳ございませんが、ウィジェット サービスは一時的にご利用いただけません。しばらくしてからもう一度お試しください。",
+    "SBSL_ERROR_TITLE": "エラー",
+    "SBSL_ERROR_USER_NOTFOUND": "ユーザーが見つかりません。権限がありません。ユーザーを確認してください。",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "ウィジェットデータは現在利用できません。",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "アプリの概要を開く",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Servicesは現在利用できません。アプリリストにアクセスするには、ボタンをクリックしてください。",
+    "SBSL_GOTO_SMART_GRID": "アプリへ移動",
+    "SBSL_LOGIN_BUTTON": "Microsoft 365 にサインイン",
+    "SBSL_LOGIN_DESC": "クラウドデータにアクセスする",
+    "SBSL_LOGIN_LABEL": "Microsoft 365 アカウントでサインイン",
+    "SBSL_LOGIN_TITLE": "マイクロソフト365"
+}

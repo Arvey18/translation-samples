@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Naslov",
+    "DIGITAL_CARD_EMAIL": "E-pošta",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Dostop",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Informacije niso na voljo.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Oprostite, storitve Widget začasno niso na voljo. Prosim poskusite kasneje.",
+    "DIGITAL_CARD_ERROR_TITLE": "Napaka",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Uporabnik ni bil najden, nepooblaščen. Preverite uporabnika.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Podatki pripomočka trenutno niso na voljo.",
+    "DIGITAL_CARD_JOB_TITLE": "Delovno mesto",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Prijavite se v Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "za dostop do podatkov v oblaku",
+    "DIGITAL_CARD_LOGIN_LABEL": "Prijavite se s svojim računom Microsoft 365",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobilni",
+    "DIGITAL_CARD_QR_ERROR": "QR kode ni mogoče naložiti, prosim, poskusi znova",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Pokaži QR kodo",
+    "DIGITAL_CARD_WIDGET_ERROR": "Widgeta ni mogoče naložiti, prosim, poskusi kasneje"
+}

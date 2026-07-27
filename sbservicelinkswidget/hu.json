@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Hozzáférés",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Információ nem elérhető.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Sajnáljuk, a Widget szolgáltatások átmenetileg nem érhetők el. Kérlek, próbáld újra később.",
+    "SBSL_ERROR_TITLE": "Hiba",
+    "SBSL_ERROR_USER_NOTFOUND": "Felhasználó nem található, jogosulatlan. Kérjük, ellenőrizze a felhasználót.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "A moduladatok jelenleg nem állnak rendelkezésre.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Nyissa meg az alkalmazások áttekintését",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services jelenleg nem elérhető. Kattints a gombra az alkalmazások listájának eléréséhez.",
+    "SBSL_GOTO_SMART_GRID": "Lépjen a Apps",
+    "SBSL_LOGIN_BUTTON": "Jelentkezzen be a Microsoft 365-be",
+    "SBSL_LOGIN_DESC": "hogy hozzáférjen felhőadataihoz",
+    "SBSL_LOGIN_LABEL": "Jelentkezzen be Microsoft 365-fiókjával",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

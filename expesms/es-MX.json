@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Peso máximo con descuento\/Envío",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Número máximo de envíos\/trimestre",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Número máximo de envíos\/año",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Número máximo de envíos\/mes",
+    "ESMS_MAX_SHIPMENT": "Descuento máximo",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Peso total máximo del envío\/año",
+    "ESMS_NO_LIMIT": "Sin límite",
+    "ESMS_REMAINING": "de {{total}} kg utilizados",
+    "ESMS_SOMETHING_WENT_WRONG": "¡Algo salió mal!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Comuníquese con el administrador de ESMS.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Lo sentimos, no tienes acceso a estos servicios.",
+    "ESMS_UNAUTHORIZED_TITLE": "Sin acceso",
+    "ESMS_USED": "usado"
+}

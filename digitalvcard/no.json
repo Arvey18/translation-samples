@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Adresse",
+    "DIGITAL_CARD_EMAIL": "E-post",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Adgang",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Informasjon utilgjengelig.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Beklager, widget-tjenester er midlertidig utilgjengelige. Prøv igjen senere.",
+    "DIGITAL_CARD_ERROR_TITLE": "Feil",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Bruker ikke funnet, uautorisert. Vennligst sjekk brukeren.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Widgetdata er for øyeblikket ikke tilgjengelig.",
+    "DIGITAL_CARD_JOB_TITLE": "Stillingsbetegnelse",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Logg på Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "for å få tilgang til skydataene dine",
+    "DIGITAL_CARD_LOGIN_LABEL": "Logg på med Microsoft 365-kontoen din",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobil",
+    "DIGITAL_CARD_QR_ERROR": "Kan ikke laste QR-koden, vennligst prøv igjen",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Vis QR-kode",
+    "DIGITAL_CARD_WIDGET_ERROR": "Kan ikke laste widgeten, vennligst prøv igjen senere"
+}

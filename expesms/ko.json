@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "최대 할인 중량\/배송",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "분기별 최대 발송량",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "최대 발송량\/년",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "최대 발송물 수\/월",
+    "ESMS_MAX_SHIPMENT": "최대 할인",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "최대 발송물 중량\/년",
+    "ESMS_NO_LIMIT": "제한 없음",
+    "ESMS_REMAINING": "\/ {{total}} kg 사용됨",
+    "ESMS_SOMETHING_WENT_WRONG": "문제가 발생했습니다.",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "ESMS 관리자에게 문의하세요.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "죄송합니다. 이 서비스에 액세스할 수 없습니다.",
+    "ESMS_UNAUTHORIZED_TITLE": "접근 금지",
+    "ESMS_USED": "사용된"
+}

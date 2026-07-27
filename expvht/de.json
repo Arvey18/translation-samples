@@ -1,0 +1,16 @@
+{
+    "VHT_INFORMATION_UNAVAILABLE": "Informationen nicht verfügbar",
+    "VHT_INFORMATION_UNAVAILABLE_MESSAGE": "Leider gelten die Informationen über den Fortschritt nur für Kollegen von DHL Express. Du kannst deine Aktivitäten weiterhin auf der Website „Volunteers at Express“ einsehen.",
+    "VHT_SOMETHING_WENT_WRONG": "Etwas ist schief gelaufen!",
+    "VHT_SOMETHING_WENT_WRONG_MESSAGE": "Bitte kontaktieren Sie die Freiwilligen beim DHL-Administrator.",
+    "VHT_WIDGET_BRONZE_MEDAL": "Bronze",
+    "VHT_WIDGET_COUNTRY": "Land",
+    "VHT_WIDGET_GLOBAL": "Global",
+    "VHT_WIDGET_GOLD_MEDAL": "Gold",
+    "VHT_WIDGET_HOURS_SPENT": "Stunden, die in {{total}} ehrenamtlichen Aktivitäten verbracht wurden",
+    "VHT_WIDGET_NO_DATA_DISPLAY": "Es sind keine anzuzeigenden Daten vorhanden",
+    "VHT_WIDGET_REGIONAL": "Regional",
+    "VHT_WIDGET_SILVER_MEDAL": "Silber",
+    "VHT_WIDGET_TOP_PERCENT": "Top {{precent}} %",
+    "VHT_WIDGET_VOLUNTEER_NOW": "Engagiere dich jetzt!"
+}

@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Maksimalus svoris \/ siunta su nuolaida",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Maksimalus siuntų skaičius\/ketvirtį",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Maksimalus siuntų skaičius per metus",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Maksimalus siuntų skaičius per mėnesį",
+    "ESMS_MAX_SHIPMENT": "Maksimali nuolaida",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Maksimalus bendras siuntos svoris per metus",
+    "ESMS_NO_LIMIT": "Nr Limit",
+    "ESMS_REMAINING": "iš {{total}} kg panaudota",
+    "ESMS_SOMETHING_WENT_WRONG": "Kažkas ne taip!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Susisiekite su ESMS administratoriumi.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Atsiprašome, jūs neturite prieigos prie šių paslaugų",
+    "ESMS_UNAUTHORIZED_TITLE": "Nėra leidimo",
+    "ESMS_USED": "naudojamas"
+}

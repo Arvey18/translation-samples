@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "আমার অ্যাপগুলিতে বুকমার্ক করুন",
+    "SL_HEADLINE_GLOBAL_APPS": "গ্লোবাল অ্যাপস",
+    "SL_HEADLINE_MY_APPS": "আমার অ্যাপস",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "অনুগ্রহ করে সার্চ ব্যবহার করুন বা নিচের বোতামগুলো ক্লিক করে অ্যাপগুলো খুঁজুন যেগুলো আপনি তাদের তারকা আইকনে ক্লিক করে বুকমার্ক করতে পারেন",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "তোমার জন্য কোনো অ্যাপ বরাদ্দ করা হয়নি বা কোনো বুকমার্ক সংরক্ষণ করা হয়নি।",
+    "SL_NO_MATCHING_TITLE": "কোন মিল ফলাফল",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "আমার অ্যাপগুলো থেকে বুকমার্ক মুছে ফেলুন",
+    "SL_SORTING_MODAL_DESCRIPTION": "আপনি কি সমস্ত বুকমার্ক করা অ্যাপের ব্যবহার শূন্যে রিসেট করতে চান?",
+    "SL_SORTING_MODAL_NO_LABEL": "না",
+    "SL_SORTING_MODAL_TITLE": "ব্যবহার রিসেট করুন",
+    "SL_SORTING_MODAL_YES_LABEL": "হ্যাঁ",
+    "SL_SORTING_SETTING_ALPHABETICAL": "বর্ণানুক্রমিক",
+    "SL_SORTING_SETTING_HEADER_TITLE": "ক্রমানুসার:",
+    "SL_SORTING_SETTING_RESET": "ব্যবহার রিসেট করুন",
+    "SL_SORTING_SETTING_USAGE": "ব্যবহার"
+}

@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Maximální zvýhodněná hmotnost\/doprava",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Max. počet zásilek\/čtvrtletí",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Max. počet zásilek\/rok",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Max. počet zásilek\/měsíc",
+    "ESMS_MAX_SHIPMENT": "Maximální sleva",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Maximální celková hmotnost zásilky\/rok",
+    "ESMS_NO_LIMIT": "Bez omezení",
+    "ESMS_REMAINING": "použito {{total}} kg",
+    "ESMS_SOMETHING_WENT_WRONG": "Něco se pokazilo!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Kontaktujte prosím správce ESMS.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "K těmto službám bohužel nemáte přístup",
+    "ESMS_UNAUTHORIZED_TITLE": "Žádný přístup",
+    "ESMS_USED": "použito"
+}

@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Erişim",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Bilgi mevcut değil.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Üzgünüz, Widget hizmetleri geçici olarak kullanılamıyor. Lütfen daha sonra tekrar deneyiniz.",
+    "SBSL_ERROR_TITLE": "Hata",
+    "SBSL_ERROR_USER_NOTFOUND": "Kullanıcı bulunamadı, Yetkisiz. Lütfen kullanıcıyı kontrol edin.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Widget verileri şu anda kullanılamıyor.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Uygulamalar Genel Görünümünü Aç",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services şu anda kullanılamıyor. Uygulama listesine erişmek için düğmeye tıklayın.",
+    "SBSL_GOTO_SMART_GRID": "Uygulamalara git",
+    "SBSL_LOGIN_BUTTON": "Microsoft 365'te oturum açın",
+    "SBSL_LOGIN_DESC": "bulut verilerinize erişmek için",
+    "SBSL_LOGIN_LABEL": "Microsoft 365 hesabınızla oturum açın",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

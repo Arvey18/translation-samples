@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "От",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "До",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "Нулиране",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "Търсене",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "Намерете задача",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "Източник",
+    "MT_ICON_IN_THE_HEADER": "иконата в заглавката, за да я промените.",
+    "MT_NO_RESULT_MESSAGE": "Няма налични задачи с текущия ви филтър или термин за търсене.",
+    "MT_NO_TASK_AVAILABLE": "Няма налични задачи с текущите ви настройки.",
+    "MT_OVERDUE_LABEL": "Просрочено",
+    "MT_PLEASE_CLICK": "Моля, кликнете",
+    "MT_PLEASE_TRY_AGAIN_LATER": "Моля, опитайте отново по-късно.",
+    "MT_PRIORITY_LABEL": "Приоритет",
+    "MT_SEE_OTHER_TASKS": "Вижте други задачи",
+    "MT_SOMETHING_WENT_WRONG": "Нещо се обърка!",
+    "MT_SOURCE": "Източник",
+    "MT_TASK_CARD_DUE_LABEL": "Краен срок:",
+    "MT_UNABLE_TO_LOAD_TASKS": "В момента не можем да заредим задачите ви.",
+    "MT_UPCOMING_LABEL": "Предстоящо",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "Няма данни за показване."
+}

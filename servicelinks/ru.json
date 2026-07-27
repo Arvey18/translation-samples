@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Добавить в Мои Приложения",
+    "SL_HEADLINE_GLOBAL_APPS": "Глобальные Приложения",
+    "SL_HEADLINE_MY_APPS": "Мои Приложения",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Пожалуйста, воспользуйся поиском или нажми на кнопки ниже, чтобы найти приложения, которые можно добавить в закладки, нажав на значок звезды",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Тебе еще не назначили приложения или не сохранили закладки.",
+    "SL_NO_MATCHING_TITLE": "Нет подходящих результатов",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Убрать из Моих Приложений",
+    "SL_SORTING_MODAL_DESCRIPTION": "Вы хотите сбросить использование всех приложений, добавленных в закладки, до нуля?",
+    "SL_SORTING_MODAL_NO_LABEL": "Нет",
+    "SL_SORTING_MODAL_TITLE": "Сбросить использование",
+    "SL_SORTING_MODAL_YES_LABEL": "Да",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Алфавитный",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Сортировать по:",
+    "SL_SORTING_SETTING_RESET": "Сбросить использование",
+    "SL_SORTING_SETTING_USAGE": "Применение"
+}

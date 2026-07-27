@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "マイアプリにブックマーク",
+    "SL_HEADLINE_GLOBAL_APPS": "グローバルアプリ",
+    "SL_HEADLINE_MY_APPS": "マイアプリ",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "検索を利用するか、下のボタンをクリックして、星のアイコンをクリックしてブックマークできるアプリを見つけてください",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "まだアプリが割り当てられていないか、ブックマークを保存していません。",
+    "SL_NO_MATCHING_TITLE": "一致する結果はありません",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "マイアプリからブックマークを削除",
+    "SL_SORTING_MODAL_DESCRIPTION": "ブックマークしたすべてのアプリの使用量をゼロにリセットしますか?",
+    "SL_SORTING_MODAL_NO_LABEL": "いいえ",
+    "SL_SORTING_MODAL_TITLE": "使用状況をリセット",
+    "SL_SORTING_MODAL_YES_LABEL": "はい",
+    "SL_SORTING_SETTING_ALPHABETICAL": "アルファベット順",
+    "SL_SORTING_SETTING_HEADER_TITLE": "並べ替え：",
+    "SL_SORTING_SETTING_RESET": "使用状況をリセット",
+    "SL_SORTING_SETTING_USAGE": "使用法"
+}

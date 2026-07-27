@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Address",
+    "DIGITAL_CARD_EMAIL": "E-Mail",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Access",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Information unavailable.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Sorry, Widget services are temporarily unavailable. Please try again later.",
+    "DIGITAL_CARD_ERROR_TITLE": "Error",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "User not found, Unauthorized. Please check the user.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Widget data currently not available.",
+    "DIGITAL_CARD_JOB_TITLE": "Job Title",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Sign into Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "to access your cloud data",
+    "DIGITAL_CARD_LOGIN_LABEL": "Sign in with your Microsoft 365 account",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Mobile",
+    "DIGITAL_CARD_QR_ERROR": "Can't load QR code, please try again",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Show QR Code",
+    "DIGITAL_CARD_WIDGET_ERROR": "Can't load the widget, please try again later"
+}

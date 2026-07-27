@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "从",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "到",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "重置",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "搜索",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "查找任务",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "来源",
+    "MT_ICON_IN_THE_HEADER": "图标来更改它。",
+    "MT_NO_RESULT_MESSAGE": "没有符合您当前过滤器或搜索词的任务。",
+    "MT_NO_TASK_AVAILABLE": "您的当前设置下没有可用的任务。",
+    "MT_OVERDUE_LABEL": "逾期",
+    "MT_PLEASE_CLICK": "请点击",
+    "MT_PLEASE_TRY_AGAIN_LATER": "请稍后重试。",
+    "MT_PRIORITY_LABEL": "优先事项",
+    "MT_SEE_OTHER_TASKS": "查看其他任务",
+    "MT_SOMETHING_WENT_WRONG": "出问题了！",
+    "MT_SOURCE": "来源",
+    "MT_TASK_CARD_DUE_LABEL": "到期的：",
+    "MT_UNABLE_TO_LOAD_TASKS": "我们目前无法加载您的任务。",
+    "MT_UPCOMING_LABEL": "即将推出",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "没有可显示的数据。"
+}

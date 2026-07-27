@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "資訊無法獲得",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "抱歉，進度資訊僅適用於DHL Express的同事，您仍然可以在Volunteers at Express網站上查看您的活動。",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "出了點問題！",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "請聯絡DHL管理員的志願者。",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "銅",
+    "VHT_GROUP_WIDGET_COUNTRY": "國家",
+    "VHT_GROUP_WIDGET_GLOBAL": "全球的",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "金",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "在{{total}}志工活動中花費的小時數",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "沒有數據可顯示",
+    "VHT_GROUP_WIDGET_REGIONAL": "區域性",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "銀",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "前{{precent}}%",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "現在就做志工吧！"
+}

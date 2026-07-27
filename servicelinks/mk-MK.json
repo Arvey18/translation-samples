@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Обележи во Моите Апликации",
+    "SL_HEADLINE_GLOBAL_APPS": "Глобални Апликации",
+    "SL_HEADLINE_MY_APPS": "Mano Programėlės",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Ве молиме користете ја пребарувањето или кликнете на копчињата подолу за да најдете апликации кои можете да ги обележите со кликнување на иконата со ѕвезда",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Сѐ уште немаш доделени апликации или зачувани обележувачи.",
+    "SL_NO_MATCHING_TITLE": "Нема соодветни резултати",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Отстрани обележување од Моите Апликации",
+    "SL_SORTING_MODAL_DESCRIPTION": "Дали сакате да го ресетирате користењето за сите обележани апликации на нула?",
+    "SL_SORTING_MODAL_NO_LABEL": "бр",
+    "SL_SORTING_MODAL_TITLE": "Ресетирајте ја употребата",
+    "SL_SORTING_MODAL_YES_LABEL": "Да",
+    "SL_SORTING_SETTING_ALPHABETICAL": "По азбучен ред",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Сортирај по:",
+    "SL_SORTING_SETTING_RESET": "Ресетирајте ја употребата",
+    "SL_SORTING_SETTING_USAGE": "Употреба"
+}

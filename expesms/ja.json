@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "最大割引重量\/出荷数",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "四半期あたりの最大出荷数",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "年間最大出荷数",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "月間最大出荷数",
+    "ESMS_MAX_SHIPMENT": "最大割引",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "年間の最大出荷総重量",
+    "ESMS_NO_LIMIT": "制限なし",
+    "ESMS_REMAINING": "{{total}} kg 使用済み",
+    "ESMS_SOMETHING_WENT_WRONG": "何か問題が発生しました!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "ESMS管理者に連絡してください。",
+    "ESMS_UNAUTHORIZED_MESSAGE": "申し訳ありませんが、このサービスにアクセスできません",
+    "ESMS_UNAUTHORIZED_TITLE": "アクセスなし",
+    "ESMS_USED": "使用済み"
+}

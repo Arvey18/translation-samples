@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "地址",
+    "DIGITAL_CARD_EMAIL": "电子邮件",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "使用权",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "信息不可用。",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "抱歉，Widget服务暂时不可用。请稍后重试。",
+    "DIGITAL_CARD_ERROR_TITLE": "错误",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "未找到用户，未授权。请检查用户。",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "小部件数据当前不可用。",
+    "DIGITAL_CARD_JOB_TITLE": "职位",
+    "DIGITAL_CARD_LOGIN_BUTTON": "登录 Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "访问你的云数据",
+    "DIGITAL_CARD_LOGIN_LABEL": "使用 Microsoft 365 帐户登录",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "手机",
+    "DIGITAL_CARD_QR_ERROR": "无法加载二维码，请再试一次",
+    "DIGITAL_CARD_SHOW_QR_CODE": "显示二维码",
+    "DIGITAL_CARD_WIDGET_ERROR": "无法加载小部件，请稍后再试"
+}

@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Адрес",
+    "DIGITAL_CARD_EMAIL": "Электронная почта",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Доступ",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Информация недоступна.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "К сожалению, услуги виджетов временно недоступны. Пожалуйста, повторите попытку позже.",
+    "DIGITAL_CARD_ERROR_TITLE": "Ошибка",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Пользователь не найден, не авторизован. Пожалуйста, проверьте пользователя.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Данные виджета на данный момент недоступны.",
+    "DIGITAL_CARD_JOB_TITLE": "Должность",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Войдите в Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "для доступа к вашим облачным данным",
+    "DIGITAL_CARD_LOGIN_LABEL": "Войдите в свою учетную запись Microsoft 365.",
+    "DIGITAL_CARD_LOGIN_TITLE": "Майкрософт 365",
+    "DIGITAL_CARD_MOBILE": "Мобильный",
+    "DIGITAL_CARD_QR_ERROR": "Не удается загрузить QR-код, пожалуйста, попробуй еще раз",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Показать QR-код",
+    "DIGITAL_CARD_WIDGET_ERROR": "Не удается загрузить виджет, пожалуйста, попробуй позже"
+}

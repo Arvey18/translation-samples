@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Max. korting op gewicht\/verzending",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Max. aantal zendingen\/kwartaal",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Max. aantal zendingen\/jaar",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Max. aantal zendingen\/maand",
+    "ESMS_MAX_SHIPMENT": "Maximale korting",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Maximaal totaalgewicht van verzending\/jaar",
+    "ESMS_NO_LIMIT": "Geen limiet",
+    "ESMS_REMAINING": "van {{total}} kg gebruikt",
+    "ESMS_SOMETHING_WENT_WRONG": "Er is iets fout gegaan!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Neem contact op met de ESMS-beheerder.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Sorry, je hebt geen toegang tot deze services",
+    "ESMS_UNAUTHORIZED_TITLE": "Geen toegang",
+    "ESMS_USED": "gebruikt"
+}

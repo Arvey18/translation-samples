@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Adres",
+    "DIGITAL_CARD_EMAIL": "E-mail",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Dostęp",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Informacje niedostępne.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Przepraszamy, usługi widgetów są chwilowo niedostępne. Spróbuj ponownie później.",
+    "DIGITAL_CARD_ERROR_TITLE": "Błąd",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Nie znaleziono użytkownika. Nieautoryzowany. Proszę sprawdzić użytkownika.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Dane widżetu są obecnie niedostępne.",
+    "DIGITAL_CARD_JOB_TITLE": "Stanowisko",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Zaloguj się do Microsoft 365",
+    "DIGITAL_CARD_LOGIN_DESC": "aby uzyskać dostęp do danych w chmurze",
+    "DIGITAL_CARD_LOGIN_LABEL": "Zaloguj się przy użyciu konta Microsoft 365",
+    "DIGITAL_CARD_LOGIN_TITLE": "Microsoft 365",
+    "DIGITAL_CARD_MOBILE": "Telefon komórkowy",
+    "DIGITAL_CARD_QR_ERROR": "Nie można załadować kodu QR, spróbuj ponownie",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Pokaż kod QR",
+    "DIGITAL_CARD_WIDGET_ERROR": "Nie można załadować widgetu, spróbuj ponownie później"
+}

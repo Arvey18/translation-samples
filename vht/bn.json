@@ -1,0 +1,16 @@
+{
+    "VHT_GROUP_INFORMATION_UNAVAILABLE": "তথ্য অনুপলব্ধ",
+    "VHT_GROUP_INFORMATION_UNAVAILABLE_MESSAGE": "দুঃখিত, অগ্রগতি তথ্য শুধুমাত্র DHL এক্সপ্রেস সহকর্মীদের জন্য প্রযোজ্য। আপনি এখনও এক্সপ্রেস সাইটে স্বেচ্ছাসেবকদের আপনার কার্যকলাপ দেখতে পারেন.",
+    "VHT_GROUP_SOMETHING_WENT_WRONG": "কিছু ভুল হয়েছে!",
+    "VHT_GROUP_SOMETHING_WENT_WRONG_MESSAGE": "দয়া করে DHL প্রশাসকের সাথে স্বেচ্ছাসেবকদের যোগাযোগ করুন।",
+    "VHT_GROUP_WIDGET_BRONZE_MEDAL": "ব্রোঞ্জ",
+    "VHT_GROUP_WIDGET_COUNTRY": "দেশ",
+    "VHT_GROUP_WIDGET_GLOBAL": "গ্লোবাল",
+    "VHT_GROUP_WIDGET_GOLD_MEDAL": "সোনা",
+    "VHT_GROUP_WIDGET_HOURS_SPENT": "{{total}} স্বেচ্ছাসেবী কার্যক্রমে কাটানো ঘন্টা",
+    "VHT_GROUP_WIDGET_NO_DATA_DISPLAY": "প্রদর্শন করার জন্য কোন তথ্য নেই",
+    "VHT_GROUP_WIDGET_REGIONAL": "আঞ্চলিক",
+    "VHT_GROUP_WIDGET_SILVER_MEDAL": "সিলভার",
+    "VHT_GROUP_WIDGET_TOP_PERCENT": "শীর্ষ {{precent}} %",
+    "VHT_GROUP_WIDGET_VOLUNTEER_NOW": "এখন স্বেচ্ছাসেবক!"
+}

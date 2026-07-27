@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Адреса",
+    "DIGITAL_CARD_EMAIL": "E-пошта",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "Приступ",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "Информације нису доступне.",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "Жао нам је, услуге виџета су привремено недоступне. Покушајте поново касније.",
+    "DIGITAL_CARD_ERROR_TITLE": "Грешка",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "Корисник није пронађен, неовлашћен. Молимо проверите корисника.",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "Подаци виџета тренутно нису доступни.",
+    "DIGITAL_CARD_JOB_TITLE": "Назив радног места",
+    "DIGITAL_CARD_LOGIN_BUTTON": "Пријавите се на Мицрософт 365",
+    "DIGITAL_CARD_LOGIN_DESC": "да бисте приступили вашим подацима у облаку",
+    "DIGITAL_CARD_LOGIN_LABEL": "Пријавите се са својим Мицрософт 365 налогом",
+    "DIGITAL_CARD_LOGIN_TITLE": "Мицрософт 365",
+    "DIGITAL_CARD_MOBILE": "Мобилни",
+    "DIGITAL_CARD_QR_ERROR": "Не може да се учита QR код, молим те покушај поново",
+    "DIGITAL_CARD_SHOW_QR_CODE": "Прикажи QR код",
+    "DIGITAL_CARD_WIDGET_ERROR": "Не може да се учита widget, молим те покушај касније"
+}

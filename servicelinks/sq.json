@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Shëno te Aplikacionet e mia",
+    "SL_HEADLINE_GLOBAL_APPS": "Aplikacione Globale",
+    "SL_HEADLINE_MY_APPS": "Aplikacionet e Mia",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Ju lutem përdorni kërkimin ose klikoni butonat më poshtë për të gjetur aplikacionet që mund t'i shënoni me yll",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Nuk të janë caktuar ende aplikacione ose nuk ke ruajtur asnjë si shënim.",
+    "SL_NO_MATCHING_TITLE": "Nuk ka rezultate që përputhen",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Hiq shënimin nga Aplikacionet e mia",
+    "SL_SORTING_MODAL_DESCRIPTION": "Dëshiron të rivendosësh përdorimin për të gjitha aplikacionet e shënuara në zero?",
+    "SL_SORTING_MODAL_NO_LABEL": "Nr",
+    "SL_SORTING_MODAL_TITLE": "Rivendos përdorimin",
+    "SL_SORTING_MODAL_YES_LABEL": "po",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alfabetike",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Ndaj sipas:",
+    "SL_SORTING_SETTING_RESET": "Rivendos përdorimin",
+    "SL_SORTING_SETTING_USAGE": "Përdorimi"
+}

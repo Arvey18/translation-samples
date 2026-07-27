@@ -1,0 +1,22 @@
+{
+    "MT_EXTENSION_MODAL_DATE_PICKER_FROM_LABEL": "من",
+    "MT_EXTENSION_MODAL_DATE_PICKER_TO_LABEL": "ل",
+    "MT_EXTENSION_MODAL_RESET_BUTTON_LABEL": "إعادة ضبط",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_LABEL": "يبحث",
+    "MT_EXTENSION_MODAL_SEARCH_INPUT_PLACELHOLDER_LABEL": "البحث عن مهمة",
+    "MT_EXTENSION_MODAL_SOURCE_LABEL": "مصدر",
+    "MT_ICON_IN_THE_HEADER": "الرمز الموجود في الرأس لتغييره.",
+    "MT_NO_RESULT_MESSAGE": "لا توجد مهمة متاحة باستخدام الفلتر الحالي أو مصطلح البحث الخاص بك.",
+    "MT_NO_TASK_AVAILABLE": "لا توجد مهمة متاحة بإعداداتك الحالية.",
+    "MT_OVERDUE_LABEL": "متأخر",
+    "MT_PLEASE_CLICK": "الرجاء الضغط",
+    "MT_PLEASE_TRY_AGAIN_LATER": "يرجى المحاولة مرة أخرى لاحقًا.",
+    "MT_PRIORITY_LABEL": "أولوية",
+    "MT_SEE_OTHER_TASKS": "انظر المهام الأخرى",
+    "MT_SOMETHING_WENT_WRONG": "لقد حدث خطأ ما!",
+    "MT_SOURCE": "مصدر",
+    "MT_TASK_CARD_DUE_LABEL": "حق:",
+    "MT_UNABLE_TO_LOAD_TASKS": "نحن غير قادرين على تحميل المهام الخاصة بك في الوقت الحالي.",
+    "MT_UPCOMING_LABEL": "قادم",
+    "MYT_OVERLAY_DATA_ERROR_MESSAGE": "لا يوجد بيانات ليتم عرضها."
+}

@@ -1,0 +1,16 @@
+{
+    "ESMS_KG": "{{weight}} kg",
+    "ESMS_MAX_DISCOUNTED_SHIPMENT": "Max kedvezményes súly\/szállítmány",
+    "ESMS_MAX_NO_SHIPMENT_QUARTER": "Szállítmányok max. száma\/negyedév",
+    "ESMS_MAX_NO_SHIPMENT_YEAR": "Szállítmányok max. száma\/év",
+    "ESMS_MAX_NO_SHIPMENT_YEAR_MONTH": "Szállítmányok max. száma\/hónap",
+    "ESMS_MAX_SHIPMENT": "Max kedvezmény",
+    "ESMS_MAX_TOTAL_WEIGHT_SHIPMENT": "Szállítmány maximális összsúlya\/év",
+    "ESMS_NO_LIMIT": "Határ nélül",
+    "ESMS_REMAINING": "{{total}} kg-ból felhasználva",
+    "ESMS_SOMETHING_WENT_WRONG": "Valami elromlott!",
+    "ESMS_SOMETHING_WENT_WRONG_MESSAGE": "Vegye fel a kapcsolatot az ESMS rendszergazdával.",
+    "ESMS_UNAUTHORIZED_MESSAGE": "Sajnáljuk, nincs hozzáférése ehhez a szolgáltatáshoz",
+    "ESMS_UNAUTHORIZED_TITLE": "Nincs hozzáférés",
+    "ESMS_USED": "használt"
+}

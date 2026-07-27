@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Bogmærk til Mine Apps",
+    "SL_HEADLINE_GLOBAL_APPS": "Globale Apps",
+    "SL_HEADLINE_MY_APPS": "Mine Apps",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Brug venligst søgningen eller klik på knapperne nedenfor for at finde apps, som du kan bogmærke ved at klikke på deres stjerneikon",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Du har endnu ikke fået tildelt nogen apps eller gemt nogen bogmærker.",
+    "SL_NO_MATCHING_TITLE": "Ingen matchende resultater",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Fjern bogmærke fra Mine Apps",
+    "SL_SORTING_MODAL_DESCRIPTION": "Vil du nulstille brugen af ​​alle bogmærkede apps?",
+    "SL_SORTING_MODAL_NO_LABEL": "Ingen",
+    "SL_SORTING_MODAL_TITLE": "Nulstil brug",
+    "SL_SORTING_MODAL_YES_LABEL": "Ja",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Alfabetisk",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Sorter efter:",
+    "SL_SORTING_SETTING_RESET": "Nulstil brug",
+    "SL_SORTING_SETTING_USAGE": "Brug"
+}

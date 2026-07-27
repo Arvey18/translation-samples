@@ -1,0 +1,15 @@
+{
+    "SBSL_ERROR_ACCESS_TITLE": "Piekļuve",
+    "SBSL_ERROR_INFORMATION_UNAVAILABLE": "Informācija nav pieejama.",
+    "SBSL_ERROR_INTERNAL_SERVER": "Atvainojiet, logrīku pakalpojumi īslaicīgi nav pieejami. Lūdzu, pamēģiniet vēlreiz vēlāk.",
+    "SBSL_ERROR_TITLE": "Kļūda",
+    "SBSL_ERROR_USER_NOTFOUND": "Lietotājs nav atrasts, nesankcionēts. Lūdzu, pārbaudiet lietotāju.",
+    "SBSL_ERROR_WIDGET_DATA_UNAVAILABLE": "Logrīku dati pašlaik nav pieejami.",
+    "SBSL_GOTO_OVERVIEW_BUTTON": "Atvērt lietotņu pārskatu",
+    "SBSL_GOTO_OVERVIEW_TEXT": "Apps & Services pašlaik nav pieejams. Noklikšķini uz pogas, lai piekļūtu lietotņu sarakstam.",
+    "SBSL_GOTO_SMART_GRID": "Dodieties uz Apps",
+    "SBSL_LOGIN_BUTTON": "Pierakstieties pakalpojumā Microsoft 365",
+    "SBSL_LOGIN_DESC": "lai piekļūtu saviem mākoņa datiem",
+    "SBSL_LOGIN_LABEL": "Pierakstieties ar savu Microsoft 365 kontu",
+    "SBSL_LOGIN_TITLE": "Microsoft 365"
+}

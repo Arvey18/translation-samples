@@ -1,0 +1,19 @@
+{
+    "DIGITAL_CARD_ADDRESS": "Atorfeq",
+    "DIGITAL_CARD_EMAIL": "E-mail",
+    "DIGITAL_CARD_ERROR_ACCESS_TITLE": "",
+    "DIGITAL_CARD_ERROR_INFORMATION_UNAVAILABLE": "",
+    "DIGITAL_CARD_ERROR_INTERNAL_SERVER": "",
+    "DIGITAL_CARD_ERROR_TITLE": "",
+    "DIGITAL_CARD_ERROR_USER_NOTFOUND": "",
+    "DIGITAL_CARD_ERROR_WIDGET_DATA_UNAVAILABLE": "",
+    "DIGITAL_CARD_JOB_TITLE": "Suliffeq",
+    "DIGITAL_CARD_LOGIN_BUTTON": "",
+    "DIGITAL_CARD_LOGIN_DESC": "",
+    "DIGITAL_CARD_LOGIN_LABEL": "",
+    "DIGITAL_CARD_LOGIN_TITLE": "",
+    "DIGITAL_CARD_MOBILE": "Mobil",
+    "DIGITAL_CARD_QR_ERROR": "QR-kode atuisinnaanngilaq, pleas prøv igen",
+    "DIGITAL_CARD_SHOW_QR_CODE": "QR-kode saqqummerneq",
+    "DIGITAL_CARD_WIDGET_ERROR": "Widget atuisinnaanngilaq, pleas prøv igen senere"
+}

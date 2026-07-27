@@ -1,0 +1,17 @@
+{
+    "SL_ADD_BOOKMARK_MY_APPS": "Означи у Моје Апликације",
+    "SL_HEADLINE_GLOBAL_APPS": "Globalne Aplikacije",
+    "SL_HEADLINE_MY_APPS": "Moje Aplikacije",
+    "SL_NO_LINKS_AVAILABLE_DESC_MY_APPS": "Молим те користи претрагу или кликни на дугмад испод да пронађеш апликације које можеш обележити кликом на икону звезде",
+    "SL_NO_LINKS_AVAILABLE_TITLE": "Још немаш додељене апликације или сачуване ознаке.",
+    "SL_NO_MATCHING_TITLE": "Нема одговарајућих резултата",
+    "SL_REMOVE_BOOKMARK_MY_APPS": "Уклони ознаку из Мојих Апликација",
+    "SL_SORTING_MODAL_DESCRIPTION": "Да ли желите да ресетујете употребу за све обележене апликације на нулу?",
+    "SL_SORTING_MODAL_NO_LABEL": "Не",
+    "SL_SORTING_MODAL_TITLE": "Ресетуј употребу",
+    "SL_SORTING_MODAL_YES_LABEL": "да",
+    "SL_SORTING_SETTING_ALPHABETICAL": "Абецедно",
+    "SL_SORTING_SETTING_HEADER_TITLE": "Сортирај по:",
+    "SL_SORTING_SETTING_RESET": "Ресетуј употребу",
+    "SL_SORTING_SETTING_USAGE": "Употреба"
+}
