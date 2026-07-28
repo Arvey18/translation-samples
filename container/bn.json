@@ -103,5 +103,6 @@
     "CONTAINER_WIDGET_SETTINGS_POPUP_TITLE": "'আমার উইজেট' অবস্থান",
     "CONTAINER_WIDGET_SETTINGS_POPUP_TOP_OPTION": "উপরে",
     "CONTAINER_WIDGET_SETTINGS_TOOLTIP_TEXT": "'আমার উইজেট' অবস্থান পরিবর্তন করো",
-    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "অতিরিক্ত পরিষেবা তথ্য"
+    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "অতিরিক্ত পরিষেবা তথ্য",
+    "SAMPLE_TITLE_ON_CONTAINER_ONLY": "নমুনা শিরোনাম"
 }

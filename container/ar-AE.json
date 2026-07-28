@@ -103,5 +103,6 @@
     "CONTAINER_WIDGET_SETTINGS_POPUP_TITLE": "موضع \"عناصر واجهتي\"",
     "CONTAINER_WIDGET_SETTINGS_POPUP_TOP_OPTION": "أعلى",
     "CONTAINER_WIDGET_SETTINGS_TOOLTIP_TEXT": "غيّر موضع \"عناصر واجهتي\"",
-    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "معلومات إضافية عن الخدمة"
+    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "معلومات إضافية عن الخدمة",
+    "SAMPLE_TITLE_ON_CONTAINER_ONLY": "عنوان العينة"
 }

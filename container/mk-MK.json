@@ -103,5 +103,6 @@
     "CONTAINER_WIDGET_SETTINGS_POPUP_TITLE": "Позицијата на 'Моите Вигети'",
     "CONTAINER_WIDGET_SETTINGS_POPUP_TOP_OPTION": "Врв",
     "CONTAINER_WIDGET_SETTINGS_TOOLTIP_TEXT": "Промени ја позицијата на 'Моите Вигети'",
-    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "Додатни информации за услуга"
+    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "Додатни информации за услуга",
+    "SAMPLE_TITLE_ON_CONTAINER_ONLY": "ОБРАЗЕЦ НАЗИВ"
 }

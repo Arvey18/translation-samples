@@ -103,5 +103,6 @@
     "CONTAINER_WIDGET_SETTINGS_POPUP_TITLE": "'ჩემი ვიჯეტების' პოზიცია",
     "CONTAINER_WIDGET_SETTINGS_POPUP_TOP_OPTION": "ზედა",
     "CONTAINER_WIDGET_SETTINGS_TOOLTIP_TEXT": "შეცვალე 'ჩემი ვიჯეტების' პოზიცია",
-    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "დამატებითი სერვისის ინფორმაცია"
+    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "დამატებითი სერვისის ინფორმაცია",
+    "SAMPLE_TITLE_ON_CONTAINER_ONLY": "მაგაზურ ქურდულ"
 }

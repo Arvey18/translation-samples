@@ -103,5 +103,6 @@
     "CONTAINER_WIDGET_SETTINGS_POPUP_TITLE": "Позиция «Мои виджеты»",
     "CONTAINER_WIDGET_SETTINGS_POPUP_TOP_OPTION": "Вверх",
     "CONTAINER_WIDGET_SETTINGS_TOOLTIP_TEXT": "Измените позицию «Мои виджеты»",
-    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "Дополнительная информация о услуге"
+    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "Дополнительная информация о услуге",
+    "SAMPLE_TITLE_ON_CONTAINER_ONLY": "ПРИМЕР ЗАГОЛОВКА"
 }

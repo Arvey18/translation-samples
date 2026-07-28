@@ -103,5 +103,6 @@
     "CONTAINER_WIDGET_SETTINGS_POPUP_TITLE": "Poziția „Widget-urilor mele”",
     "CONTAINER_WIDGET_SETTINGS_POPUP_TOP_OPTION": "Vârf",
     "CONTAINER_WIDGET_SETTINGS_TOOLTIP_TEXT": "Schimbă poziția „Widget-urilor mele”",
-    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "Informații suplimentare despre serviciu"
+    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "Informații suplimentare despre serviciu",
+    "SAMPLE_TITLE_ON_CONTAINER_ONLY": "TITLU EXEMPLU"
 }

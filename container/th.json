@@ -103,5 +103,6 @@
     "CONTAINER_WIDGET_SETTINGS_POPUP_TITLE": "ตำแหน่ง 'วิดเจ็ตของฉัน'",
     "CONTAINER_WIDGET_SETTINGS_POPUP_TOP_OPTION": "ด้านบน",
     "CONTAINER_WIDGET_SETTINGS_TOOLTIP_TEXT": "เปลี่ยนตำแหน่ง 'วิดเจ็ตของฉัน'",
-    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "ข้อมูลบริการเพิ่มเติม"
+    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "ข้อมูลบริการเพิ่มเติม",
+    "SAMPLE_TITLE_ON_CONTAINER_ONLY": "ตัวอย่างชื่อเรื่อง"
 }

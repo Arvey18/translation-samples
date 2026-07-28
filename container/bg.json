@@ -103,5 +103,6 @@
     "CONTAINER_WIDGET_SETTINGS_POPUP_TITLE": "Позиция на 'Моите джаджи'",
     "CONTAINER_WIDGET_SETTINGS_POPUP_TOP_OPTION": "Върх",
     "CONTAINER_WIDGET_SETTINGS_TOOLTIP_TEXT": "Смени позицията на 'Моите джаджи'",
-    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "Допълнителна информация"
+    "INFORMATION_MODAL_ADDITIONAL_SERVICE_INFORMATION": "Допълнителна информация",
+    "SAMPLE_TITLE_ON_CONTAINER_ONLY": "ПРИМЕРЕН ЗАГЛАВИЕ"
 }
